@@ -1,0 +1,4902 @@
+[
+  {
+    "id": 1,
+    "text": "陶柬",
+    "bytes": "\\xd4\\xb6\\xca\\xd3",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 2,
+    "text": "행장",
+    "bytes": "\\xc7\\xe0\\xc0\\xe5",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 3,
+    "text": "똥톺",
+    "bytes": "\\xb6\\xcb\\xc5\\xec",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 4,
+    "text": "탈모",
+    "bytes": "\\xc5\\xbb\\xb8\\xf0",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 5,
+    "text": "침체",
+    "bytes": "\\xc4\\xa7\\xc3\\xbc",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 6,
+    "text": "혈변",
+    "bytes": "\\xc7\\xf7\\xba\\xaf",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 7,
+    "text": "둬낄",
+    "bytes": "\\xb5\\xd6\\xb3\\xa5",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 8,
+    "text": "입금",
+    "bytes": "\\xc0\\xd4\\xb1\\xdd",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 9,
+    "text": "룸캉",
+    "bytes": "\\xb7\\xeb\\xc4\\xb2",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 10,
+    "text": "북교",
+    "bytes": "\\xba\\xcf\\xb1\\xb3",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 11,
+    "text": "깥꽉",
+    "bytes": "\\xb1\\xf9\\xb2\\xcb",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 12,
+    "text": "재땟",
+    "bytes": "\\xc0\\xe7\\xb6\\xad",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 13,
+    "text": "開얠",
+    "bytes": "\\xcb\\xd2\\xbe\\xec",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 14,
+    "text": "햇살",
+    "bytes": "\\xc7\\xde\\xbb\\xec",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 15,
+    "text": "게양",
+    "bytes": "\\xb0\\xd4\\xbe\\xe7",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 16,
+    "text": "중화",
+    "bytes": "\\xc1\\xdf\\xc8\\xad",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 17,
+    "text": "역엥",
+    "bytes": "\\xbf\\xaa\\xbf\\xa8",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 18,
+    "text": "경련",
+    "bytes": "\\xb0\\xe6\\xb7\\xc3",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 19,
+    "text": "Φ륌",
+    "bytes": "\\xa5\\xd5\\xb7\\xf6",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 20,
+    "text": "병원",
+    "bytes": "\\xba\\xb4\\xbf\\xf8",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 21,
+    "text": "충떽",
+    "bytes": "\\xc3\\xe6\\xb6\\xbd",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 22,
+    "text": "다로",
+    "bytes": "\\xb4\\xd9\\xb7\\xce",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 23,
+    "text": "황두",
+    "bytes": "\\xc8\\xb2\\xb5\\xce",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 24,
+    "text": "꺼땡",
+    "bytes": "\\xb2\\xa8\\xb6\\xaf",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 25,
+    "text": "연씨",
+    "bytes": "\\xbf\\xac\\xbe\\xbe",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 26,
+    "text": "진피",
+    "bytes": "\\xc1\\xf8\\xc7\\xc7",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 27,
+    "text": "독성",
+    "bytes": "\\xb5\\xb6\\xbc\\xba",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 28,
+    "text": "원종",
+    "bytes": "\\xbf\\xf8\\xc1\\xbe",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 29,
+    "text": "삡葛",
+    "bytes": "\\xbb\\xe4\\xca\\xe7",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 30,
+    "text": "동원",
+    "bytes": "\\xb5\\xbf\\xbf\\xf8",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 31,
+    "text": "庫姑",
+    "bytes": "\\xcd\\xb7\\xcd\\xb4",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 32,
+    "text": "전신",
+    "bytes": "\\xc0\\xfc\\xbd\\xc5",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 33,
+    "text": "삯獨",
+    "bytes": "\\xbb\\xe9\\xd4\\xbc",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 34,
+    "text": "納맷",
+    "bytes": "\\xd2\\xa1\\xb8\\xcb",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 35,
+    "text": "술집",
+    "bytes": "\\xbc\\xfa\\xc1\\xfd",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 36,
+    "text": "늚돛",
+    "bytes": "\\xb4\\xc5\\xb5\\xc0",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 37,
+    "text": "뉜꼍",
+    "bytes": "\\xb4\\xb6\\xb2\\xbd",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 38,
+    "text": "공모",
+    "bytes": "\\xb0\\xf8\\xb8\\xf0",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 39,
+    "text": "수혈",
+    "bytes": "\\xbc\\xf6\\xc7\\xf7",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 40,
+    "text": "揆亡",
+    "bytes": "\\xd0\\xa6\\xd8\\xcc",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 41,
+    "text": "빈낮",
+    "bytes": "\\xba\\xf3\\xb3\\xb7",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 42,
+    "text": "롸앙",
+    "bytes": "\\xb7\\xd6\\xbe\\xd3",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 43,
+    "text": "농포",
+    "bytes": "\\xb3\\xf3\\xc6\\xf7",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 44,
+    "text": "깻잎",
+    "bytes": "\\xb2\\xa2\\xc0\\xd9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 45,
+    "text": "긴뼈",
+    "bytes": "\\xb1\\xe4\\xbb\\xc0",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 46,
+    "text": "ㄴㅖ",
+    "bytes": "\\xa4\\xa4\\xa4\\xc6",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 47,
+    "text": "규화",
+    "bytes": "\\xb1\\xd4\\xc8\\xad",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 48,
+    "text": "⑦彌",
+    "bytes": "\\xa8\\xed\\xda\\xaf",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 49,
+    "text": "盖틥",
+    "bytes": "\\xcb\\xcc\\xc6\\xbb",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 50,
+    "text": "륫된",
+    "bytes": "\\xb8\\xa1\\xb5\\xc8",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 51,
+    "text": "탈출",
+    "bytes": "\\xc5\\xbb\\xc3\\xe2",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 52,
+    "text": "쒔셌",
+    "bytes": "\\xbe\\xad\\xbc\\xc3",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 53,
+    "text": "욕絅",
+    "bytes": "\\xbf\\xe5\\xcc\\xe7",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 54,
+    "text": "婁레",
+    "bytes": "\\xd7\\xa5\\xb7\\xb9",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 55,
+    "text": "뻠졀",
+    "bytes": "\\xbb\\xba\\xc1\\xb0",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 56,
+    "text": "驚짬",
+    "bytes": "\\xcc\\xf3\\xc2\\xab",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 57,
+    "text": "심박",
+    "bytes": "\\xbd\\xc9\\xb9\\xda",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 58,
+    "text": "지시",
+    "bytes": "\\xc1\\xf6\\xbd\\xc3",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 59,
+    "text": "백토",
+    "bytes": "\\xb9\\xe9\\xc5\\xe4",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 60,
+    "text": "늬姑",
+    "bytes": "\\xb4\\xcc\\xcd\\xb4",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 61,
+    "text": "댕겋",
+    "bytes": "\\xb4\\xf3\\xb0\\xd3",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 62,
+    "text": "대동",
+    "bytes": "\\xb4\\xeb\\xb5\\xbf",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 63,
+    "text": "증상",
+    "bytes": "\\xc1\\xf5\\xbb\\xf3",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 64,
+    "text": "셕뺍",
+    "bytes": "\\xbc\\xc6\\xbb\\xae",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 65,
+    "text": "자미",
+    "bytes": "\\xc0\\xda\\xb9\\xcc",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 66,
+    "text": "연체",
+    "bytes": "\\xbf\\xac\\xc3\\xbc",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 67,
+    "text": "득마",
+    "bytes": "\\xb5\\xe6\\xb8\\xb6",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 68,
+    "text": "식도",
+    "bytes": "\\xbd\\xc4\\xb5\\xb5",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 69,
+    "text": "얜絅",
+    "bytes": "\\xbe\\xeb\\xcc\\xe7",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 70,
+    "text": "부추",
+    "bytes": "\\xba\\xce\\xc3\\xdf",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 71,
+    "text": "寧많",
+    "bytes": "\\xd6\\xb8\\xb8\\xb9",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 72,
+    "text": "ΠⅩ",
+    "bytes": "\\xa5\\xd0\\xa5\\xb9",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 73,
+    "text": "彊떻",
+    "bytes": "\\xcb\\xae\\xb6\\xbb",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 74,
+    "text": "낑뿍",
+    "bytes": "\\xb3\\xa9\\xbb\\xd2",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 75,
+    "text": "저위",
+    "bytes": "\\xc0\\xfa\\xc0\\xa7",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 76,
+    "text": "원림",
+    "bytes": "\\xbf\\xf8\\xb8\\xb2",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 77,
+    "text": "겐선",
+    "bytes": "\\xb0\\xd5\\xbc\\xb1",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 78,
+    "text": "밝게",
+    "bytes": "\\xb9\\xe0\\xb0\\xd4",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 79,
+    "text": "유화",
+    "bytes": "\\xc0\\xaf\\xc8\\xad",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 80,
+    "text": "콱겁",
+    "bytes": "\\xc4\\xe3\\xb0\\xcc",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 81,
+    "text": "堅뻬",
+    "bytes": "\\xcc\\xb1\\xbb\\xbe",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 82,
+    "text": "시럽",
+    "bytes": "\\xbd\\xc3\\xb7\\xb4",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 83,
+    "text": "기준",
+    "bytes": "\\xb1\\xe2\\xc1\\xd8",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 84,
+    "text": "戴쨋",
+    "bytes": "\\xd3\\xe3\\xc2\\xb6",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 85,
+    "text": "지불",
+    "bytes": "\\xc1\\xf6\\xba\\xd2",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 86,
+    "text": "끅苽",
+    "bytes": "\\xb2\\xf5\\xcd\\xc9",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 87,
+    "text": "해적",
+    "bytes": "\\xc7\\xd8\\xc0\\xfb",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 88,
+    "text": "북위",
+    "bytes": "\\xba\\xcf\\xc0\\xa7",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 89,
+    "text": "승낙",
+    "bytes": "\\xbd\\xc2\\xb3\\xab",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 90,
+    "text": "桔랙",
+    "bytes": "\\xd1\\xd0\\xb7\\xa2",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 91,
+    "text": "푼징",
+    "bytes": "\\xc7\\xac\\xc2\\xa1",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 92,
+    "text": "땜켓",
+    "bytes": "\\xb6\\xab\\xc4\\xcf",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 93,
+    "text": "복수",
+    "bytes": "\\xba\\xb9\\xbc\\xf6",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 94,
+    "text": "천식",
+    "bytes": "\\xc3\\xb5\\xbd\\xc4",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 95,
+    "text": "늚廐",
+    "bytes": "\\xb4\\xc5\\xcf\\xaa",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 96,
+    "text": "칠북",
+    "bytes": "\\xc4\\xa5\\xba\\xcf",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 97,
+    "text": "자석",
+    "bytes": "\\xc0\\xda\\xbc\\xae",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 98,
+    "text": "뼝答",
+    "bytes": "\\xbb\\xc6\\xd3\\xcd",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 99,
+    "text": "鎌뺏",
+    "bytes": "\\xcc\\xc7\\xbb\\xaf",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 100,
+    "text": "근경",
+    "bytes": "\\xb1\\xd9\\xb0\\xe6",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 101,
+    "text": "똴ㅞ更",
+    "bytes": "\\xb6\\xcd\\xa4\\xce\\xcc\\xda",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 102,
+    "text": "е뉴띌",
+    "bytes": "\\xac\\xd6\\xb4\\xba\\xb6\\xe9",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 103,
+    "text": "상속세",
+    "bytes": "\\xbb\\xf3\\xbc\\xd3\\xbc\\xbc",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 104,
+    "text": "티ㅞ뺍",
+    "bytes": "\\xc6\\xbc\\xa4\\xce\\xbb\\xae",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 105,
+    "text": "亶벌꽉",
+    "bytes": "\\xd3\\xa2\\xb9\\xfa\\xb2\\xcb",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 106,
+    "text": "緊뿍분",
+    "bytes": "\\xd1\\xcc\\xbb\\xd2\\xba\\xd0",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 107,
+    "text": "평형석",
+    "bytes": "\\xc6\\xf2\\xc7\\xfc\\xbc\\xae",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 108,
+    "text": "측두엽",
+    "bytes": "\\xc3\\xf8\\xb5\\xce\\xbf\\xb1",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 109,
+    "text": "굻얜뿔",
+    "bytes": "\\xb1\\xbf\\xbe\\xeb\\xbb\\xd4",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 110,
+    "text": "잚윈嵐",
+    "bytes": "\\xc0\\xe0\\xc0\\xa9\\xd5\\xb9",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 111,
+    "text": "적델튬",
+    "bytes": "\\xc0\\xfb\\xb5\\xa8\\xc6\\xac",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 112,
+    "text": "품鬼됐",
+    "bytes": "\\xc7\\xb0\\xd0\\xa1\\xb5\\xc6",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 113,
+    "text": "劤땡檄",
+    "bytes": "\\xd0\\xc2\\xb6\\xaf\\xcc\\xac",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 114,
+    "text": "현마장",
+    "bytes": "\\xc7\\xf6\\xb8\\xb6\\xc0\\xe5",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 115,
+    "text": "늴쒜鼓",
+    "bytes": "\\xb4\\xce\\xbe\\xae\\xcd\\xd5",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 116,
+    "text": "골반강",
+    "bytes": "\\xb0\\xf1\\xb9\\xdd\\xb0\\xad",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 117,
+    "text": "간결석",
+    "bytes": "\\xb0\\xa3\\xb0\\xe1\\xbc\\xae",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 118,
+    "text": "윤ㅘ룽",
+    "bytes": "\\xc0\\xb1\\xa4\\xc8\\xb7\\xee",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 119,
+    "text": "켐浪昑",
+    "bytes": "\\xc4\\xcd\\xd2\\xa9\\xd0\\xd4",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 120,
+    "text": "마찰법",
+    "bytes": "\\xb8\\xb6\\xc2\\xfb\\xb9\\xfd",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 121,
+    "text": "彊궁낍",
+    "bytes": "\\xcb\\xae\\xb1\\xc3\\xb3\\xa7",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 122,
+    "text": "洌렙점",
+    "bytes": "\\xd6\\xac\\xb7\\xbe\\xc1\\xa1",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 123,
+    "text": "땟慤낀",
+    "bytes": "\\xb6\\xad\\xca\\xc2\\xb3\\xa4",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 124,
+    "text": "찝젓虜",
+    "bytes": "\\xc2\\xf3\\xc1\\xa3\\xd6\\xd7",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 125,
+    "text": "백寧뺏",
+    "bytes": "\\xb9\\xe9\\xd2\\xbb\\xbb\\xaf",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 126,
+    "text": "우량주",
+    "bytes": "\\xbf\\xec\\xb7\\xae\\xc1\\xd6",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 127,
+    "text": "禱친謹",
+    "bytes": "\\xd4\\xaa\\xc4\\xa3\\xd0\\xcd",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 128,
+    "text": "岱맵綾",
+    "bytes": "\\xd3\\xe0\\xb8\\xca\\xd7\\xd3",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 129,
+    "text": "최소환",
+    "bytes": "\\xc3\\xd6\\xbc\\xd2\\xc8\\xaf",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 130,
+    "text": "이행률",
+    "bytes": "\\xc0\\xcc\\xc7\\xe0\\xb7\\xfc",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 131,
+    "text": "푠櫓뗀",
+    "bytes": "\\xc7\\xa6\\xd6\\xd0\\xb6\\xbe",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 132,
+    "text": "瀾똑셕",
+    "bytes": "\\xd5\\xb3\\xb6\\xc8\\xbc\\xc6",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 133,
+    "text": "븜똑슛",
+    "bytes": "\\xba\\xee\\xb6\\xc8\\xbd\\xb8",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 134,
+    "text": "점액암",
+    "bytes": "\\xc1\\xa1\\xbe\\xd7\\xbe\\xcf",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 135,
+    "text": "호장근",
+    "bytes": "\\xc8\\xa3\\xc0\\xe5\\xb1\\xd9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 136,
+    "text": "무동요",
+    "bytes": "\\xb9\\xab\\xb5\\xbf\\xbf\\xe4",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 137,
+    "text": "冷방쪼",
+    "bytes": "\\xd5\\xd2\\xb9\\xe6\\xc2\\xc9",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 138,
+    "text": "ㅲ업붰",
+    "bytes": "\\xa4\\xe2\\xbe\\xf7\\xba\\xdd",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 139,
+    "text": "접종률",
+    "bytes": "\\xc1\\xa2\\xc1\\xbe\\xb7\\xfc",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 140,
+    "text": "스페인",
+    "bytes": "\\xbd\\xba\\xc6\\xe4\\xc0\\xce",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 141,
+    "text": "노궁혈",
+    "bytes": "\\xb3\\xeb\\xb1\\xc3\\xc7\\xf7",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 142,
+    "text": "타원낭",
+    "bytes": "\\xc5\\xb8\\xbf\\xf8\\xb3\\xb6",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 143,
+    "text": "번것꽉",
+    "bytes": "\\xb9\\xf8\\xb0\\xcd\\xb2\\xcb",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 144,
+    "text": "블쓿쫍",
+    "bytes": "\\xba\\xed\\xbe\\xb7\\xc2\\xce",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 145,
+    "text": "¹Ξ㈙",
+    "bytes": "\\xa9\\xf6\\xa5\\xce\\xa9\\xca",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 146,
+    "text": "충전소",
+    "bytes": "\\xc3\\xe6\\xc0\\xfc\\xbc\\xd2",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 147,
+    "text": "이진원",
+    "bytes": "\\xc0\\xcc\\xc1\\xf8\\xbf\\xf8",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 148,
+    "text": "전해액",
+    "bytes": "\\xc0\\xfc\\xc7\\xd8\\xbe\\xd7",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 149,
+    "text": "세차장",
+    "bytes": "\\xbc\\xbc\\xc2\\xf7\\xc0\\xe5",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 150,
+    "text": "오량액",
+    "bytes": "\\xbf\\xc0\\xb7\\xae\\xbe\\xd7",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 151,
+    "text": "즘擧촌",
+    "bytes": "\\xc1\\xf2\\xcb\\xe1\\xc3\\xcc",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 152,
+    "text": "꺼땡昑",
+    "bytes": "\\xb2\\xa8\\xb6\\xaf\\xd0\\xd4",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 153,
+    "text": "미낭화",
+    "bytes": "\\xb9\\xcc\\xb3\\xb6\\xc8\\xad",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 154,
+    "text": "세균학",
+    "bytes": "\\xbc\\xbc\\xb1\\xd5\\xc7\\xd0",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 155,
+    "text": "구충병",
+    "bytes": "\\xb1\\xb8\\xc3\\xe6\\xba\\xb4",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 156,
+    "text": "암컷개",
+    "bytes": "\\xbe\\xcf\\xc4\\xc6\\xb0\\xb3",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 157,
+    "text": "섰料懦",
+    "bytes": "\\xbc\\xb9\\xd6\\xf9\\xd1\\xd7",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 158,
+    "text": "부식성",
+    "bytes": "\\xba\\xce\\xbd\\xc4\\xbc\\xba",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 159,
+    "text": "객혈병",
+    "bytes": "\\xb0\\xb4\\xc7\\xf7\\xba\\xb4",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 160,
+    "text": "겜쥣뭣",
+    "bytes": "\\xb0\\xd7\\xc1\\xe9\\xb9\\xbd",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 161,
+    "text": "실서증",
+    "bytes": "\\xbd\\xc7\\xbc\\xad\\xc1\\xf5",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 162,
+    "text": "벧빅쐤",
+    "bytes": "\\xba\\xa6\\xba\\xf2\\xbd\\xfc",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 163,
+    "text": "튬낯밀",
+    "bytes": "\\xc6\\xac\\xb3\\xb8\\xb9\\xd0",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 164,
+    "text": "륙櫓뗀",
+    "bytes": "\\xb7\\xfa\\xd6\\xd0\\xb6\\xbe",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 165,
+    "text": "쮸루깹",
+    "bytes": "\\xc2\\xe9\\xb7\\xe7\\xb2\\xa1",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 166,
+    "text": "쭹뜸밋",
+    "bytes": "\\xc2\\xe7\\xb6\\xe4\\xb9\\xd4",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 167,
+    "text": "성병학",
+    "bytes": "\\xbc\\xba\\xba\\xb4\\xc7\\xd0",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 168,
+    "text": "동태로",
+    "bytes": "\\xb5\\xbf\\xc5\\xc2\\xb7\\xce",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 169,
+    "text": "廣잿뺏",
+    "bytes": "\\xce\\xc6\\xc0\\xed\\xbb\\xaf",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 170,
+    "text": "이금두",
+    "bytes": "\\xc0\\xcc\\xb1\\xdd\\xb5\\xce",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 171,
+    "text": "샷棺괸",
+    "bytes": "\\xbc\\xa6\\xce\\xb2\\xb1\\xad",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 172,
+    "text": "머리글",
+    "bytes": "\\xb8\\xd3\\xb8\\xae\\xb1\\xdb",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 173,
+    "text": "금사도",
+    "bytes": "\\xb1\\xdd\\xbb\\xe7\\xb5\\xb5",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 174,
+    "text": "간경화",
+    "bytes": "\\xb0\\xa3\\xb0\\xe6\\xc8\\xad",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 175,
+    "text": "조직도",
+    "bytes": "\\xc1\\xb6\\xc1\\xf7\\xb5\\xb5",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 176,
+    "text": "똬槿샛",
+    "bytes": "\\xb6\\xcc\\xd0\\xc7\\xbb\\xfb",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 177,
+    "text": "뇌회복",
+    "bytes": "\\xb3\\xfa\\xc8\\xb8\\xba\\xb9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 178,
+    "text": "든綾냘",
+    "bytes": "\\xb5\\xe7\\xd7\\xd3\\xb3\\xc7",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 179,
+    "text": "길성로",
+    "bytes": "\\xb1\\xe6\\xbc\\xba\\xb7\\xce",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 180,
+    "text": "다양한",
+    "bytes": "\\xb4\\xd9\\xbe\\xe7\\xc7\\xd1",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 181,
+    "text": "롸길제",
+    "bytes": "\\xb7\\xd6\\xb1\\xe6\\xc1\\xa6",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 182,
+    "text": "괏빱칟",
+    "bytes": "\\xb1\\xa3\\xbb\\xa4\\xc4\\xa4",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 183,
+    "text": "席Дも",
+    "bytes": "\\xe0\\xac\\xac\\xa5\\xaa\\xe2",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 184,
+    "text": "천화초",
+    "bytes": "\\xc3\\xb5\\xc8\\xad\\xc3\\xca",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 185,
+    "text": "핵셈뉘",
+    "bytes": "\\xc7\\xd9\\xbc\\xc0\\xb4\\xb5",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 186,
+    "text": "심계병",
+    "bytes": "\\xbd\\xc9\\xb0\\xe8\\xba\\xb4",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 187,
+    "text": "뗍빈畇",
+    "bytes": "\\xb6\\xc1\\xba\\xf3\\xd0\\xb4",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 188,
+    "text": "밤껍질",
+    "bytes": "\\xb9\\xe3\\xb2\\xae\\xc1\\xfa",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 189,
+    "text": "쇔暾蠱",
+    "bytes": "\\xbc\\xe5\\xd4\\xc6\\xcd\\xcc",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 190,
+    "text": "섞┼Ŧ",
+    "bytes": "\\xbc\\xaf\\xa6\\xab\\xa8\\xae",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 191,
+    "text": "목패루",
+    "bytes": "\\xb8\\xf1\\xc6\\xd0\\xb7\\xe7",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 192,
+    "text": "평면성",
+    "bytes": "\\xc6\\xf2\\xb8\\xe9\\xbc\\xba",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 193,
+    "text": "단백뇨",
+    "bytes": "\\xb4\\xdc\\xb9\\xe9\\xb4\\xa2",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 194,
+    "text": "왕립장",
+    "bytes": "\\xbf\\xd5\\xb8\\xb3\\xc0\\xe5",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 195,
+    "text": "열쇠심",
+    "bytes": "\\xbf\\xad\\xbc\\xe8\\xbd\\xc9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 196,
+    "text": "북역로",
+    "bytes": "\\xba\\xcf\\xbf\\xaa\\xb7\\xce",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 197,
+    "text": "왕예장",
+    "bytes": "\\xbf\\xd5\\xbf\\xb9\\xc0\\xe5",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 198,
+    "text": "틱눌浪",
+    "bytes": "\\xc6\\xbd\\xb4\\xad\\xd2\\xa9",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 199,
+    "text": "桿셉분",
+    "bytes": "\\xca\\xd4\\xbc\\xc1\\xba\\xd0",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 200,
+    "text": "종아리",
+    "bytes": "\\xc1\\xbe\\xbe\\xc6\\xb8\\xae",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 201,
+    "text": "조합게임",
+    "bytes": "\\xc1\\xb6\\xc7\\xd5\\xb0\\xd4\\xc0\\xd3",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 202,
+    "text": "句寡밤끝",
+    "bytes": "\\xcf\\xa3\\xcd\\xfb\\xb9\\xe3\\xb3\\xa1",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 203,
+    "text": "ⅧΚΨⅩ",
+    "bytes": "\\xa5\\xb7\\xa5\\xca\\xa5\\xd7\\xa5\\xb9",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 204,
+    "text": "戴价貢팎",
+    "bytes": "\\xd3\\xe3\\xcb\\xc0\\xcd\\xf8\\xc6\\xc6",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 205,
+    "text": "갠탤뫄꽐",
+    "bytes": "\\xb0\\xb5\\xc5\\xc5\\xb8\\xfa\\xb2\\xcc",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 206,
+    "text": "조직이식",
+    "bytes": "\\xc1\\xb6\\xc1\\xf7\\xc0\\xcc\\xbd\\xc4",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 207,
+    "text": "뇌성마비",
+    "bytes": "\\xb3\\xfa\\xbc\\xba\\xb8\\xb6\\xba\\xf1",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 208,
+    "text": "뽕뀨갖쇨",
+    "bytes": "\\xbb\\xcd\\xb2\\xf3\\xb0\\xae\\xbc\\xea",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 209,
+    "text": "임랑만목",
+    "bytes": "\\xc0\\xd3\\xb6\\xfb\\xb8\\xb8\\xb8\\xf1",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 210,
+    "text": "랑교수안",
+    "bytes": "\\xb6\\xfb\\xb1\\xb3\\xbc\\xf6\\xbe\\xc8",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 211,
+    "text": "건조고추",
+    "bytes": "\\xb0\\xc7\\xc1\\xb6\\xb0\\xed\\xc3\\xdf",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 212,
+    "text": "수박젤리",
+    "bytes": "\\xbc\\xf6\\xb9\\xda\\xc1\\xa9\\xb8\\xae",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 213,
+    "text": "ⅧΘⅧτ",
+    "bytes": "\\xa5\\xb7\\xa5\\xc8\\xa5\\xb7\\xa5\\xf3",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 214,
+    "text": "팔만사천",
+    "bytes": "\\xc6\\xc8\\xb8\\xb8\\xbb\\xe7\\xc3\\xb5",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 215,
+    "text": "오류알림",
+    "bytes": "\\xbf\\xc0\\xb7\\xf9\\xbe\\xcb\\xb8\\xb2",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 216,
+    "text": "봉렴꼇楮",
+    "bytes": "\\xba\\xc0\\xb7\\xc5\\xb2\\xbb\\xee\\xbf",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 217,
+    "text": "부팅시작",
+    "bytes": "\\xba\\xce\\xc6\\xc3\\xbd\\xc3\\xc0\\xdb",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 218,
+    "text": "눈꺄槁쓺",
+    "bytes": "\\xb4\\xab\\xb2\\xa5\\xcd\\xbe\\xbe\\xb6",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 219,
+    "text": "외음질염",
+    "bytes": "\\xbf\\xdc\\xc0\\xbd\\xc1\\xfa\\xbf\\xb0",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 220,
+    "text": "꼇列杰暾",
+    "bytes": "\\xb2\\xbb\\xd6\\xaa\\xcb\\xf9\\xd4\\xc6",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 221,
+    "text": "시효조약",
+    "bytes": "\\xbd\\xc3\\xc8\\xbf\\xc1\\xb6\\xbe\\xe0",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 222,
+    "text": "쳔뎠빵뚤",
+    "bytes": "\\xc3\\xc5\\xb5\\xb1\\xbb\\xa7\\xb6\\xd4",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 223,
+    "text": "각쵠競주",
+    "bytes": "\\xb0\\xa2\\xc3\\xd7\\xcc\\xe6\\xc1\\xd6",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 224,
+    "text": "등록기관",
+    "bytes": "\\xb5\\xee\\xb7\\xcf\\xb1\\xe2\\xb0\\xfc",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 225,
+    "text": "실행가능",
+    "bytes": "\\xbd\\xc7\\xc7\\xe0\\xb0\\xa1\\xb4\\xc9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 226,
+    "text": "捻뺏폭籃",
+    "bytes": "\\xd2\\xba\\xbb\\xaf\\xc6\\xf8\\xd5\\xbe",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 227,
+    "text": "彊끓댕欺",
+    "bytes": "\\xcb\\xae\\xb2\\xfa\\xb4\\xf3\\xd1\\xa7",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 228,
+    "text": "하비갑개",
+    "bytes": "\\xc7\\xcf\\xba\\xf1\\xb0\\xa9\\xb0\\xb3",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 229,
+    "text": "쏵뺏랙嵐",
+    "bytes": "\\xbd\\xf8\\xbb\\xaf\\xb7\\xa2\\xd5\\xb9",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 230,
+    "text": "랜덤변화",
+    "bytes": "\\xb7\\xa3\\xb4\\xfd\\xba\\xaf\\xc8\\xad",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 231,
+    "text": "꼇璃槨돛",
+    "bytes": "\\xb2\\xbb\\xd7\\xe3\\xce\\xaa\\xb5\\xc0",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 232,
+    "text": "전신회사",
+    "bytes": "\\xc0\\xfc\\xbd\\xc5\\xc8\\xb8\\xbb\\xe7",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 233,
+    "text": "재고창출",
+    "bytes": "\\xc0\\xe7\\xb0\\xed\\xc3\\xa2\\xc3\\xe2",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 234,
+    "text": "제약전파",
+    "bytes": "\\xc1\\xa6\\xbe\\xe0\\xc0\\xfc\\xc6\\xc4",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 235,
+    "text": "綾묵瀾젯",
+    "bytes": "\\xd7\\xd3\\xb9\\xac\\xd5\\xb3\\xc1\\xac",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 236,
+    "text": "자가이식",
+    "bytes": "\\xc0\\xda\\xb0\\xa1\\xc0\\xcc\\xbd\\xc4",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 237,
+    "text": "저袈션쩌",
+    "bytes": "\\xc0\\xfa\\xca\\xb7\\xbc\\xc7\\xc2\\xbc",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 238,
+    "text": "얕은복사",
+    "bytes": "\\xbe\\xe8\\xc0\\xba\\xba\\xb9\\xbb\\xe7",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 239,
+    "text": "뉜넓맏쭌",
+    "bytes": "\\xb4\\xb6\\xb3\\xd0\\xb8\\xba\\xc2\\xe0",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 240,
+    "text": "계란퍼즐",
+    "bytes": "\\xb0\\xe8\\xb6\\xf5\\xc6\\xdb\\xc1\\xf1",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 241,
+    "text": "멱묘盖돠",
+    "bytes": "\\xb8\\xe8\\xb9\\xa6\\xcb\\xcc\\xb5\\xc2",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 242,
+    "text": "踏狗炬랬",
+    "bytes": "\\xd3\\xce\\xcf\\xb7\\xcb\\xe3\\xb7\\xa8",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 243,
+    "text": "제품품질",
+    "bytes": "\\xc1\\xa6\\xc7\\xb0\\xc7\\xb0\\xc1\\xfa",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 244,
+    "text": "대조건사",
+    "bytes": "\\xb4\\xeb\\xc1\\xb6\\xb0\\xc7\\xbb\\xe7",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 245,
+    "text": "매쪽꿎桿",
+    "bytes": "\\xb8\\xc5\\xc2\\xca\\xb2\\xe2\\xca\\xd4",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 246,
+    "text": "츠列믐렇",
+    "bytes": "\\xc3\\xf7\\xd6\\xaa\\xb9\\xca\\xb7\\xb8",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 247,
+    "text": "계층모델",
+    "bytes": "\\xb0\\xe8\\xc3\\xfe\\xb8\\xf0\\xb5\\xa8",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 248,
+    "text": "어식そ섣",
+    "bytes": "\\xbe\\xee\\xbd\\xc4\\xaa\\xbd\\xbc\\xb2",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 249,
+    "text": "劤뱅懇끝",
+    "bytes": "\\xd0\\xc2\\xb9\\xf0\\xca\\xd0\\xb3\\xa1",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 250,
+    "text": "위임전환",
+    "bytes": "\\xc0\\xa7\\xc0\\xd3\\xc0\\xfc\\xc8\\xaf",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 251,
+    "text": "璘塘역묶",
+    "bytes": "\\xd7\\xf3\\xd3\\xd2\\xbf\\xaa\\xb9\\xad",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 252,
+    "text": "교통빌딩",
+    "bytes": "\\xb1\\xb3\\xc5\\xeb\\xba\\xf4\\xb5\\xf9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 253,
+    "text": "졀쎄劫賈",
+    "bytes": "\\xc1\\xb0\\xbd\\xea\\xcc\\xa4\\xca\\xb9",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 254,
+    "text": "레이저칼",
+    "bytes": "\\xb7\\xb9\\xc0\\xcc\\xc0\\xfa\\xc4\\xae",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 255,
+    "text": "과자공장",
+    "bytes": "\\xb0\\xfa\\xc0\\xda\\xb0\\xf8\\xc0\\xe5",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 256,
+    "text": "시효중단",
+    "bytes": "\\xbd\\xc3\\xc8\\xbf\\xc1\\xdf\\xb4\\xdc",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 257,
+    "text": "쒔셌돔엷",
+    "bytes": "\\xbe\\xad\\xbc\\xc3\\xb5\\xbc\\xbf\\xaf",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 258,
+    "text": "항산화제",
+    "bytes": "\\xc7\\xd7\\xbb\\xea\\xc8\\xad\\xc1\\xa6",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 259,
+    "text": "홀로서기",
+    "bytes": "\\xc8\\xa6\\xb7\\xce\\xbc\\xad\\xb1\\xe2",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 260,
+    "text": "정적링크",
+    "bytes": "\\xc1\\xa4\\xc0\\xfb\\xb8\\xb5\\xc5\\xa9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 261,
+    "text": "口봇겻탕",
+    "bytes": "\\xcf\\xa2\\xba\\xbf\\xb0\\xe4\\xc5\\xc1",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 262,
+    "text": "담강캡슐",
+    "bytes": "\\xb4\\xe3\\xb0\\xad\\xc4\\xb8\\xbd\\xb6",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 263,
+    "text": "몫톳녘환",
+    "bytes": "\\xb8\\xf2\\xc5\\xea\\xb3\\xe8\\xc8\\xaf",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 264,
+    "text": "하자담보",
+    "bytes": "\\xc7\\xcf\\xc0\\xda\\xb4\\xe3\\xba\\xb8",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 265,
+    "text": "見헙綱갖",
+    "bytes": "\\xcc\\xb8\\xc7\\xe9\\xcb\\xb5\\xb0\\xae",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 266,
+    "text": "豚冀櫓뙤",
+    "bytes": "\\xd4\\xca\\xd0\\xed\\xd6\\xd0\\xb6\\xcf",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 267,
+    "text": "눋論뮌훙",
+    "bytes": "\\xb4\\xac\\xd6\\xe5\\xb9\\xc0\\xc8\\xcb",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 268,
+    "text": "겅ㄴ샅곈",
+    "bytes": "\\xb0\\xcf\\xa4\\xa4\\xbb\\xf4\\xb0\\xe9",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 269,
+    "text": "일쯩街槁",
+    "bytes": "\\xc0\\xcf\\xc2\\xed\\xca\\xb6\\xcd\\xbe",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 270,
+    "text": "실제개발",
+    "bytes": "\\xbd\\xc7\\xc1\\xa6\\xb0\\xb3\\xb9\\xdf",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 271,
+    "text": "당唐杰낀",
+    "bytes": "\\xb4\\xe7\\xd3\\xd0\\xcb\\xf9\\xb3\\xa4",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 272,
+    "text": "취강견미",
+    "bytes": "\\xc3\\xeb\\xb0\\xad\\xb0\\xdf\\xb9\\xcc",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 273,
+    "text": "繫斤믐崍",
+    "bytes": "\\xcd\\xa8\\xd0\\xc5\\xb9\\xca\\xd5\\xcf",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 274,
+    "text": "뱉꽂늠파",
+    "bytes": "\\xb9\\xf1\\xb2\\xc8\\xb4\\xc6\\xc6\\xc4",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 275,
+    "text": "繫斤溝固",
+    "bytes": "\\xcd\\xa8\\xd0\\xc5\\xcf\\xb5\\xcd\\xb3",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 276,
+    "text": "대중교통",
+    "bytes": "\\xb4\\xeb\\xc1\\xdf\\xb1\\xb3\\xc5\\xeb",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 277,
+    "text": "열쇠이론",
+    "bytes": "\\xbf\\xad\\xbc\\xe8\\xc0\\xcc\\xb7\\xd0",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 278,
+    "text": "기우헝앙",
+    "bytes": "\\xb1\\xe2\\xbf\\xec\\xc7\\xeb\\xbe\\xd3",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 279,
+    "text": "陵擒力羈",
+    "bytes": "\\xd2\\xf8\\xd0\\xd3\\xd5\\xf4\\xd1\\xbc",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 280,
+    "text": "감정용사",
+    "bytes": "\\xb0\\xa8\\xc1\\xa4\\xbf\\xeb\\xbb\\xe7",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 281,
+    "text": "튀긴완자",
+    "bytes": "\\xc6\\xa2\\xb1\\xe4\\xbf\\xcf\\xc0\\xda",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 282,
+    "text": "구장산법",
+    "bytes": "\\xb1\\xb8\\xc0\\xe5\\xbb\\xea\\xb9\\xfd",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 283,
+    "text": "평면포장",
+    "bytes": "\\xc6\\xf2\\xb8\\xe9\\xc6\\xf7\\xc0\\xe5",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 284,
+    "text": "懼특멍錮",
+    "bytes": "\\xcf\\xab\\xc6\\xaf\\xb8\\xdb\\xcd\\xd1",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 285,
+    "text": "품행장애",
+    "bytes": "\\xc7\\xb0\\xc7\\xe0\\xc0\\xe5\\xbe\\xd6",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 286,
+    "text": "캑육굻튼",
+    "bytes": "\\xc4\\xb4\\xc0\\xb0\\xb1\\xbf\\xc6\\xb0",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 287,
+    "text": "맴테이블",
+    "bytes": "\\xb8\\xc9\\xc5\\xd7\\xc0\\xcc\\xba\\xed",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 288,
+    "text": "뮬쩜뿍큄",
+    "bytes": "\\xb9\\xc4\\xc2\\xc0\\xbb\\xd2\\xc5\\xa1",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 289,
+    "text": "影殮쟝얽",
+    "bytes": "\\xe7\\xaf\\xe6\\xf9\\xc0\\xf6\\xbe\\xf4",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 290,
+    "text": "狼獨澗뭔",
+    "bytes": "\\xd2\\xaa\\xd4\\xbc\\xca\\xd5\\xb9\\xba",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 291,
+    "text": "의약빌딩",
+    "bytes": "\\xc0\\xc7\\xbe\\xe0\\xba\\xf4\\xb5\\xf9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 292,
+    "text": "옆얜묶얠",
+    "bytes": "\\xbf\\xb7\\xbe\\xeb\\xb9\\xad\\xbe\\xec",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 293,
+    "text": "ⅱα【Π",
+    "bytes": "\\xa5\\xa2\\xa5\\xe1\\xa1\\xbc\\xa5\\xd0",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 294,
+    "text": "보체계통",
+    "bytes": "\\xba\\xb8\\xc3\\xbc\\xb0\\xe8\\xc5\\xeb",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 295,
+    "text": "룹덮윽ㆃ",
+    "bytes": "\\xb7\\xec\\xb5\\xa4\\xc0\\xb9\\xa4\\xf3",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 296,
+    "text": "혈뺏凜綾",
+    "bytes": "\\xc7\\xf7\\xbb\\xaf\\xd2\\xf2\\xd7\\xd3",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 297,
+    "text": "딤셋횡」",
+    "bytes": "\\xb5\\xf5\\xbc\\xc2\\xc8\\xbe\\xa1\\xb9",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 298,
+    "text": "닉빻쇔뎔",
+    "bytes": "\\xb4\\xd0\\xbb\\xa8\\xbc\\xe5\\xb5\\xb0",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 299,
+    "text": "부산병원",
+    "bytes": "\\xba\\xce\\xbb\\xea\\xba\\xb4\\xbf\\xf8",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 300,
+    "text": "폐외결핵",
+    "bytes": "\\xc6\\xf3\\xbf\\xdc\\xb0\\xe1\\xc7\\xd9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 301,
+    "text": "농포형건선",
+    "bytes": "\\xb3\\xf3\\xc6\\xf7\\xc7\\xfc\\xb0\\xc7\\xbc\\xb1",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 302,
+    "text": "흗폰ㅚ압ㅯ",
+    "bytes": "\\xc8\\xe9\\xc6\\xf9\\xa4\\xca\\xbe\\xd0\\xa4\\xdf",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 303,
+    "text": "菉갬饍西튬",
+    "bytes": "\\xd2\\xd2\\xb0\\xb7\\xe0\\xd7\\xe0\\xa4\\xc6\\xac",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 304,
+    "text": "묏撚昑륙깹",
+    "bytes": "\\xb9\\xa4\\xd2\\xb5\\xd0\\xd4\\xb7\\xfa\\xb2\\xa1",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 305,
+    "text": "광대역연결",
+    "bytes": "\\xb1\\xa4\\xb4\\xeb\\xbf\\xaa\\xbf\\xac\\xb0\\xe1",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 306,
+    "text": "쨌蠟列쯩제",
+    "bytes": "\\xc2\\xb7\\xd2\\xa3\\xd6\\xaa\\xc2\\xed\\xc1\\xa6",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 307,
+    "text": "안전감독국",
+    "bytes": "\\xbe\\xc8\\xc0\\xfc\\xb0\\xa8\\xb5\\xb6\\xb1\\xb9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 308,
+    "text": "읍쥑쓱먼튿",
+    "bytes": "\\xc0\\xbe\\xc1\\xe4\\xbe\\xb3\\xb8\\xd5\\xc6\\xb1",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 309,
+    "text": "굴소스버섯",
+    "bytes": "\\xb1\\xbc\\xbc\\xd2\\xbd\\xba\\xb9\\xf6\\xbc\\xb8",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 310,
+    "text": "컴퓨터구성",
+    "bytes": "\\xc4\\xc4\\xc7\\xbb\\xc5\\xcd\\xb1\\xb8\\xbc\\xba",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 311,
+    "text": "劤各셩欺叫",
+    "bytes": "\\xd0\\xc2\\xca\\xc0\\xbc\\xcd\\xd1\\xa7\\xd0\\xa3",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 312,
+    "text": "용기와지혜",
+    "bytes": "\\xbf\\xeb\\xb1\\xe2\\xbf\\xcd\\xc1\\xf6\\xc7\\xfd",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 313,
+    "text": "鮫굇唐륫暾",
+    "bytes": "\\xce\\xf7\\xb1\\xb1\\xd3\\xd0\\xb8\\xa1\\xd4\\xc6",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 314,
+    "text": "綾挑앙씽爐",
+    "bytes": "\\xd7\\xd3\\xd3\\xfb\\xbe\\xd3\\xbe\\xc5\\xd2\\xc4",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 315,
+    "text": "사용자문서",
+    "bytes": "\\xbb\\xe7\\xbf\\xeb\\xc0\\xda\\xb9\\xae\\xbc\\xad",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 316,
+    "text": "챘幹陶뻔贄",
+    "bytes": "\\xc3\\xab\\xca\\xcf\\xd4\\xb6\\xbb\\xb7\\xf2\\xbe",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 317,
+    "text": "미디어감독",
+    "bytes": "\\xb9\\xcc\\xb5\\xf0\\xbe\\xee\\xb0\\xa8\\xb5\\xb6",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 318,
+    "text": "예沂鬼겼浪",
+    "bytes": "\\xbf\\xb9\\xd1\\xaa\\xd0\\xa1\\xb0\\xe5\\xd2\\xa9",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 319,
+    "text": "누룽지요리",
+    "bytes": "\\xb4\\xa9\\xb7\\xee\\xc1\\xf6\\xbf\\xe4\\xb8\\xae",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 320,
+    "text": "강활승습탕",
+    "bytes": "\\xb0\\xad\\xc8\\xb0\\xbd\\xc2\\xbd\\xc0\\xc5\\xc1",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 321,
+    "text": "寗係질레鏤",
+    "bytes": "\\xd2\\xbc\\xcc\\xf5\\xc1\\xfa\\xb7\\xb9\\xd7\\xaf",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 322,
+    "text": "자동화구축",
+    "bytes": "\\xc0\\xda\\xb5\\xbf\\xc8\\xad\\xb1\\xb8\\xc3\\xe0",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 323,
+    "text": "곗뀨헬싻筐",
+    "bytes": "\\xb0\\xec\\xb2\\xf3\\xc7\\xef\\xbd\\xd0\\xce\\xcc",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 324,
+    "text": "대설만궁도",
+    "bytes": "\\xb4\\xeb\\xbc\\xb3\\xb8\\xb8\\xb1\\xc3\\xb5\\xb5",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 325,
+    "text": "써뭐뎔겜醴",
+    "bytes": "\\xbd\\xe1\\xb9\\xb9\\xb5\\xb0\\xb0\\xd7\\xd6\\xca",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 326,
+    "text": "렷삯昑契槨",
+    "bytes": "\\xb7\\xc7\\xbb\\xe9\\xd0\\xd4\\xd0\\xd0\\xce\\xaa",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 327,
+    "text": "북사대부초",
+    "bytes": "\\xba\\xcf\\xbb\\xe7\\xb4\\xeb\\xba\\xce\\xc3\\xca",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 328,
+    "text": "방음재공장",
+    "bytes": "\\xb9\\xe6\\xc0\\xbd\\xc0\\xe7\\xb0\\xf8\\xc0\\xe5",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 329,
+    "text": "쭤乞쭤롬컷",
+    "bytes": "\\xc2\\xe5\\xcb\\xf7\\xc2\\xe5\\xb7\\xd2\\xc4\\xc6",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 330,
+    "text": "郊壙떪磎彊",
+    "bytes": "\\xce\\xf4\\xce\\xc5\\xb6\\xb4\\xcd\\xa5\\xcb\\xae",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 331,
+    "text": "격자시스템",
+    "bytes": "\\xb0\\xdd\\xc0\\xda\\xbd\\xc3\\xbd\\xba\\xc5\\xdb",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 332,
+    "text": "罐옵갛스켠",
+    "bytes": "\\xce\\xb8\\xbf\\xc9\\xb0\\xb2\\xbd\\xba\\xc4\\xd2",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 333,
+    "text": "륫빕ㅘ최뉩",
+    "bytes": "\\xb8\\xa1\\xba\\xf7\\xa4\\xc8\\xc3\\xd6\\xb4\\xb9",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 334,
+    "text": "꼇妗랍喇櫓",
+    "bytes": "\\xb2\\xbb\\xd0\\xd2\\xb6\\xf8\\xd1\\xd4\\xd6\\xd0",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 335,
+    "text": "시스템구성",
+    "bytes": "\\xbd\\xc3\\xbd\\xba\\xc5\\xdb\\xb1\\xb8\\xbc\\xba",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 336,
+    "text": "비정형폐렴",
+    "bytes": "\\xba\\xf1\\xc1\\xa4\\xc7\\xfc\\xc6\\xf3\\xb7\\xc5",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 337,
+    "text": "흣뫘윗견깃",
+    "bytes": "\\xc8\\xee\\xb8\\xfc\\xc0\\xad\\xb0\\xdf\\xb1\\xea",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 338,
+    "text": "압닻ㆂ증ㄶ",
+    "bytes": "\\xbe\\xd0\\xb4\\xe9\\xa4\\xf2\\xc1\\xf5\\xa4\\xa6",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 339,
+    "text": "劤各셩빻韜",
+    "bytes": "\\xd0\\xc2\\xca\\xc0\\xbc\\xcd\\xbb\\xa8\\xd4\\xb7",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 340,
+    "text": "꽂쿠섐튼꼍",
+    "bytes": "\\xb2\\xc8\\xc4\\xed\\xbc\\xab\\xc6\\xb0\\xb2\\xbd",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 341,
+    "text": "컸닛후揀윗",
+    "bytes": "\\xc4\\xc7\\xb4\\xd6\\xc8\\xc4\\xca\\xd1\\xc0\\xad",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 342,
+    "text": "컴팩트모드",
+    "bytes": "\\xc4\\xc4\\xc6\\xd1\\xc6\\xae\\xb8\\xf0\\xb5\\xe5",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 343,
+    "text": "毒槨땜켓輦",
+    "bytes": "\\xd4\\xb8\\xce\\xaa\\xb6\\xab\\xc4\\xcf\\xd6\\xa6",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 344,
+    "text": "懇끝닒撚逃",
+    "bytes": "\\xca\\xd0\\xb3\\xa1\\xb4\\xd3\\xd2\\xb5\\xd4\\xb1",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 345,
+    "text": "승부욕강함",
+    "bytes": "\\xbd\\xc2\\xba\\xce\\xbf\\xe5\\xb0\\xad\\xc7\\xd4",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 346,
+    "text": "일품두부탕",
+    "bytes": "\\xc0\\xcf\\xc7\\xb0\\xb5\\xce\\xba\\xce\\xc5\\xc1",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 347,
+    "text": "콰콰ㅘ廓ㅔ",
+    "bytes": "\\xc4\\xe2\\xc4\\xe2\\xa4\\xc8\\xce\\xa9\\xa4\\xc4",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 348,
+    "text": "닝擧륙햐漑",
+    "bytes": "\\xb4\\xd7\\xcb\\xe1\\xb7\\xfa\\xc7\\xe1\\xcb\\xc9",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 349,
+    "text": "쌍다리병원",
+    "bytes": "\\xbd\\xd6\\xb4\\xd9\\xb8\\xae\\xba\\xb4\\xbf\\xf8",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 350,
+    "text": "퐁뜯앰缺쏟",
+    "bytes": "\\xc6\\xfe\\xb6\\xe2\\xbe\\xda\\xcc\\xc0\\xbd\\xf1",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 351,
+    "text": "썽덟꼍鑒匣",
+    "bytes": "\\xbd\\xe9\\xb4\\xfc\\xb2\\xbd\\xca\\xfd\\xcb\\xa1",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 352,
+    "text": "인터넷결제",
+    "bytes": "\\xc0\\xce\\xc5\\xcd\\xb3\\xdd\\xb0\\xe1\\xc1\\xa6",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 353,
+    "text": "친밀한친구",
+    "bytes": "\\xc4\\xa3\\xb9\\xd0\\xc7\\xd1\\xc4\\xa3\\xb1\\xb8",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 354,
+    "text": "명암민감도",
+    "bytes": "\\xb8\\xed\\xbe\\xcf\\xb9\\xce\\xb0\\xa8\\xb5\\xb5",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 355,
+    "text": "남아프리카",
+    "bytes": "\\xb3\\xb2\\xbe\\xc6\\xc7\\xc1\\xb8\\xae\\xc4\\xab",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 356,
+    "text": "그리드배치",
+    "bytes": "\\xb1\\xd7\\xb8\\xae\\xb5\\xe5\\xb9\\xe8\\xc4\\xa1",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 357,
+    "text": "칵테일요법",
+    "bytes": "\\xc4\\xac\\xc5\\xd7\\xc0\\xcf\\xbf\\xe4\\xb9\\xfd",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 358,
+    "text": "울금은설정",
+    "bytes": "\\xbf\\xef\\xb1\\xdd\\xc0\\xba\\xbc\\xb3\\xc1\\xa4",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 359,
+    "text": "도형그리기",
+    "bytes": "\\xb5\\xb5\\xc7\\xfc\\xb1\\xd7\\xb8\\xae\\xb1\\xe2",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 360,
+    "text": "작은볶음게",
+    "bytes": "\\xc0\\xdb\\xc0\\xba\\xba\\xba\\xc0\\xbd\\xb0\\xd4",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 361,
+    "text": "팔보찹쌀닭",
+    "bytes": "\\xc6\\xc8\\xba\\xb8\\xc2\\xfd\\xbd\\xd2\\xb4\\xdf",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 362,
+    "text": "진화유치원",
+    "bytes": "\\xc1\\xf8\\xc8\\xad\\xc0\\xaf\\xc4\\xa1\\xbf\\xf8",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 363,
+    "text": "양자문기고",
+    "bytes": "\\xbe\\xe7\\xc0\\xda\\xb9\\xae\\xb1\\xe2\\xb0\\xed",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 364,
+    "text": "시냅스전막",
+    "bytes": "\\xbd\\xc3\\xb3\\xc0\\xbd\\xba\\xc0\\xfc\\xb8\\xb7",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 365,
+    "text": "꿱짐ㆂ艮쨍",
+    "bytes": "\\xb2\\xe8\\xc1\\xfc\\xa4\\xf2\\xca\\xdd\\xc2\\xb8",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 366,
+    "text": "섰밋쇠퀘頸",
+    "bytes": "\\xbc\\xb9\\xb9\\xd4\\xbc\\xe8\\xc4\\xf9\\xcc\\xf2",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 367,
+    "text": "섐넓ㅘ섐환",
+    "bytes": "\\xbc\\xab\\xb3\\xd0\\xa4\\xc8\\xbc\\xab\\xc8\\xaf",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 368,
+    "text": "쭹읊ㅗ땜ㅦ",
+    "bytes": "\\xc2\\xe7\\xc0\\xbc\\xa4\\xc7\\xb6\\xab\\xa4\\xd6",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 369,
+    "text": "튜缺ㅚ해례",
+    "bytes": "\\xc6\\xa9\\xcc\\xc0\\xa4\\xca\\xc7\\xd8\\xb7\\xca",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 370,
+    "text": "어업정보화",
+    "bytes": "\\xbe\\xee\\xbe\\xf7\\xc1\\xa4\\xba\\xb8\\xc8\\xad",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 371,
+    "text": "覲랬劤썩뗍",
+    "bytes": "\\xd0\\xcc\\xb7\\xa8\\xd0\\xc2\\xbd\\xe2\\xb6\\xc1",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 372,
+    "text": "충분히공개",
+    "bytes": "\\xc3\\xe6\\xba\\xd0\\xc8\\xf7\\xb0\\xf8\\xb0\\xb3",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 373,
+    "text": "컁轎뽕덮툿",
+    "bytes": "\\xc4\\xbe\\xce\\xf3\\xbb\\xcd\\xb5\\xa4\\xc5\\xfb",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 374,
+    "text": "ΛβⅩΑτ",
+    "bytes": "\\xa5\\xcb\\xa5\\xe2\\xa5\\xb9\\xa5\\xc1\\xa5\\xf3",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 375,
+    "text": "중국재경보",
+    "bytes": "\\xc1\\xdf\\xb1\\xb9\\xc0\\xe7\\xb0\\xe6\\xba\\xb8",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 376,
+    "text": "윤리적문장",
+    "bytes": "\\xc0\\xb1\\xb8\\xae\\xc0\\xfb\\xb9\\xae\\xc0\\xe5",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 377,
+    "text": "임펠러펌프",
+    "bytes": "\\xc0\\xd3\\xc6\\xe7\\xb7\\xaf\\xc6\\xdf\\xc7\\xc1",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 378,
+    "text": "盖딸퓽넥괌",
+    "bytes": "\\xcb\\xcc\\xb5\\xfe\\xc7\\xc0\\xb3\\xd8\\xb1\\xa1",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 379,
+    "text": "喝ㆂ옷ㅱㅻ",
+    "bytes": "\\xca\\xe2\\xa4\\xf2\\xbf\\xca\\xa4\\xe1\\xa4\\xeb",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 380,
+    "text": "컴퓨터산업",
+    "bytes": "\\xc4\\xc4\\xc7\\xbb\\xc5\\xcd\\xbb\\xea\\xbe\\xf7",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 381,
+    "text": "릿菫돎무蹈",
+    "bytes": "\\xb8\\xb4\\xd0\\xcb\\xb5\\xba\\xb9\\xab\\xd4\\xb0",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 382,
+    "text": "전자계약서",
+    "bytes": "\\xc0\\xfc\\xc0\\xda\\xb0\\xe8\\xbe\\xe0\\xbc\\xad",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 383,
+    "text": "뇌혈전형성",
+    "bytes": "\\xb3\\xfa\\xc7\\xf7\\xc0\\xfc\\xc7\\xfc\\xbc\\xba",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 384,
+    "text": "민족문화궁",
+    "bytes": "\\xb9\\xce\\xc1\\xb7\\xb9\\xae\\xc8\\xad\\xb1\\xc3",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 385,
+    "text": "ⅷτΙⅵ璟",
+    "bytes": "\\xa5\\xa8\\xa5\\xf3\\xa5\\xc9\\xa5\\xa6\\xcc\\xdf",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 386,
+    "text": "융쟘헷읽쯧",
+    "bytes": "\\xc0\\xb6\\xc0\\xf5\\xc7\\xf2\\xc0\\xd0\\xc2\\xec",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 387,
+    "text": "명령대기열",
+    "bytes": "\\xb8\\xed\\xb7\\xc9\\xb4\\xeb\\xb1\\xe2\\xbf\\xad",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 388,
+    "text": "자동로그인",
+    "bytes": "\\xc0\\xda\\xb5\\xbf\\xb7\\xce\\xb1\\xd7\\xc0\\xce",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 389,
+    "text": "큇뼝헌로튬",
+    "bytes": "\\xc5\\xa3\\xbb\\xc6\\xc7\\xe5\\xb7\\xce\\xc6\\xac",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 390,
+    "text": "둘犁질菱彊",
+    "bytes": "\\xb5\\xd1\\xd7\\xe0\\xc1\\xfa\\xd2\\xf7\\xcb\\xae",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 391,
+    "text": "菓涇ㅛ싻ㅻ",
+    "bytes": "\\xce\\xa2\\xcc\\xdc\\xa4\\xcb\\xbd\\xd0\\xa4\\xeb",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 392,
+    "text": "대외무역법",
+    "bytes": "\\xb4\\xeb\\xbf\\xdc\\xb9\\xab\\xbf\\xaa\\xb9\\xfd",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 393,
+    "text": "완두콩껍질",
+    "bytes": "\\xbf\\xcf\\xb5\\xce\\xc4\\xe1\\xb2\\xae\\xc1\\xfa",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 394,
+    "text": "뱉궂퓽開얠",
+    "bytes": "\\xb9\\xf1\\xb1\\xc4\\xc7\\xc0\\xcb\\xd2\\xbe\\xec",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 395,
+    "text": "대동맥경화",
+    "bytes": "\\xb4\\xeb\\xb5\\xbf\\xb8\\xc6\\xb0\\xe6\\xc8\\xad",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 396,
+    "text": "대체시장법",
+    "bytes": "\\xb4\\xeb\\xc3\\xbc\\xbd\\xc3\\xc0\\xe5\\xb9\\xfd",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 397,
+    "text": "닭즙유두부",
+    "bytes": "\\xb4\\xdf\\xc1\\xf3\\xc0\\xaf\\xb5\\xce\\xba\\xce",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 398,
+    "text": "뛴폰녘룹숌",
+    "bytes": "\\xb6\\xda\\xc6\\xf9\\xb3\\xe8\\xb7\\xec\\xbc\\xf2",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 399,
+    "text": "크撚桿駱籃",
+    "bytes": "\\xc5\\xa9\\xd2\\xb5\\xca\\xd4\\xd1\\xe9\\xd5\\xbe",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 400,
+    "text": "숯영懃잿欺",
+    "bytes": "\\xbd\\xa1\\xbf\\xb5\\xd0\\xc4\\xc0\\xed\\xd1\\xa7",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 401,
+    "text": "짠맛버터사탕",
+    "bytes": "\\xc2\\xa7\\xb8\\xc0\\xb9\\xf6\\xc5\\xcd\\xbb\\xe7\\xc5\\xc1",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 402,
+    "text": "재사용가능성",
+    "bytes": "\\xc0\\xe7\\xbb\\xe7\\xbf\\xeb\\xb0\\xa1\\xb4\\xc9\\xbc\\xba",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 403,
+    "text": "카드발급은행",
+    "bytes": "\\xc4\\xab\\xb5\\xe5\\xb9\\xdf\\xb1\\xde\\xc0\\xba\\xc7\\xe0",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 404,
+    "text": "휴대전화개발",
+    "bytes": "\\xc8\\xde\\xb4\\xeb\\xc0\\xfc\\xc8\\xad\\xb0\\xb3\\xb9\\xdf",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 405,
+    "text": "프루닝최적화",
+    "bytes": "\\xc7\\xc1\\xb7\\xe7\\xb4\\xd7\\xc3\\xd6\\xc0\\xfb\\xc8\\xad",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 406,
+    "text": "독창적인구상",
+    "bytes": "\\xb5\\xb6\\xc3\\xa2\\xc0\\xfb\\xc0\\xce\\xb1\\xb8\\xbb\\xf3",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 407,
+    "text": "쳄슷윗佳件깃",
+    "bytes": "\\xc3\\xc0\\xbd\\xc1\\xc0\\xad\\xca\\xa2\\xcb\\xec\\xb1\\xea",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 408,
+    "text": "웰難昑써낌懦",
+    "bytes": "\\xc0\\xa3\\xd1\\xf1\\xd0\\xd4\\xbd\\xe1\\xb3\\xa6\\xd1\\xd7",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 409,
+    "text": "퉁꼍박좡음붸",
+    "bytes": "\\xc5\\xfc\\xb2\\xbd\\xb9\\xda\\xc1\\xc7\\xc0\\xbd\\xba\\xde",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 410,
+    "text": "愾諒凜늪얾列",
+    "bytes": "\\xcb\\xc5\\xd5\\xdf\\xd2\\xf2\\xb4\\xcb\\xbe\\xf5\\xd6\\xaa",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 411,
+    "text": "행정재심범위",
+    "bytes": "\\xc7\\xe0\\xc1\\xa4\\xc0\\xe7\\xbd\\xc9\\xb9\\xfc\\xc0\\xa7",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 412,
+    "text": "작고정예롭다",
+    "bytes": "\\xc0\\xdb\\xb0\\xed\\xc1\\xa4\\xbf\\xb9\\xb7\\xd3\\xb4\\xd9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 413,
+    "text": "완성차및부품",
+    "bytes": "\\xbf\\xcf\\xbc\\xba\\xc2\\xf7\\xb9\\xd7\\xba\\xce\\xc7\\xb0",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 414,
+    "text": "슬涇ㄼ릊쇤ㅻ",
+    "bytes": "\\xbd\\xbd\\xcc\\xdc\\xa4\\xac\\xb8\\xab\\xbc\\xe9\\xa4\\xeb",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 415,
+    "text": "κβ【Θ잔쨀",
+    "bytes": "\\xa5\\xea\\xa5\\xe2\\xa1\\xbc\\xa5\\xc8\\xc0\\xdc\\xc2\\xb3",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 416,
+    "text": "사법협조조약",
+    "bytes": "\\xbb\\xe7\\xb9\\xfd\\xc7\\xf9\\xc1\\xb6\\xc1\\xb6\\xbe\\xe0",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 417,
+    "text": "쨀환윗룽론켄",
+    "bytes": "\\xc2\\xb3\\xc8\\xaf\\xc0\\xad\\xb7\\xee\\xb7\\xd0\\xc4\\xcb",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 418,
+    "text": "跨獨愆벧톄낄",
+    "bytes": "\\xce\\xa5\\xd4\\xbc\\xcb\\xf0\\xba\\xa6\\xc5\\xe2\\xb3\\xa5",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 419,
+    "text": "집락자극인자",
+    "bytes": "\\xc1\\xfd\\xb6\\xf4\\xc0\\xda\\xb1\\xd8\\xc0\\xce\\xc0\\xda",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 420,
+    "text": "懇켄샬壙款鯨",
+    "bytes": "\\xca\\xd0\\xc4\\xcb\\xbc\\xa3\\xce\\xc5\\xce\\xb3\\xcc\\xf4",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 421,
+    "text": "개발엔지니어",
+    "bytes": "\\xb0\\xb3\\xb9\\xdf\\xbf\\xa3\\xc1\\xf6\\xb4\\xcf\\xbe\\xee",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 422,
+    "text": "듸슥띈들틥嶇",
+    "bytes": "\\xb5\\xef\\xbd\\xbb\\xb6\\xe8\\xb5\\xe9\\xc6\\xbb\\xcf\\xa9",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 423,
+    "text": "폼났톨펏묏論",
+    "bytes": "\\xc6\\xfb\\xb3\\xb5\\xc5\\xe7\\xc6\\xe1\\xb9\\xa4\\xd2\\xd5",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 424,
+    "text": "빴짬멕醵무쨌",
+    "bytes": "\\xbb\\xa6\\xc2\\xab\\xb8\\xdf\\xcb\\xd9\\xb9\\xab\\xc2\\xb7",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 425,
+    "text": "계산기하기초",
+    "bytes": "\\xb0\\xe8\\xbb\\xea\\xb1\\xe2\\xc7\\xcf\\xb1\\xe2\\xc3\\xca",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 426,
+    "text": "과민성결장염",
+    "bytes": "\\xb0\\xfa\\xb9\\xce\\xbc\\xba\\xb0\\xe1\\xc0\\xe5\\xbf\\xb0",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 427,
+    "text": "법원집행사건",
+    "bytes": "\\xb9\\xfd\\xbf\\xf8\\xc1\\xfd\\xc7\\xe0\\xbb\\xe7\\xb0\\xc7",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 428,
+    "text": "ㄲㅼㅠ끙ㅱㅸ",
+    "bytes": "\\xa4\\xa2\\xa4\\xec\\xa4\\xd0\\xb2\\xfe\\xa4\\xe1\\xa4\\xe8",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 429,
+    "text": "프로세스상태",
+    "bytes": "\\xc7\\xc1\\xb7\\xce\\xbc\\xbc\\xbd\\xba\\xbb\\xf3\\xc5\\xc2",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 430,
+    "text": "煖낀綾삽苦낌",
+    "bytes": "\\xd1\\xee\\xb3\\xa4\\xd7\\xd3\\xbb\\xf0\\xcd\\xc8\\xb3\\xa6",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 431,
+    "text": "廬었昑권注懦",
+    "bytes": "\\xd5\\xe6\\xbe\\xfa\\xd0\\xd4\\xb1\\xc7\\xf1\\xbc\\xd1\\xd7",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 432,
+    "text": "아침종저녁북",
+    "bytes": "\\xbe\\xc6\\xc4\\xa7\\xc1\\xbe\\xc0\\xfa\\xb3\\xe1\\xba\\xcf",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 433,
+    "text": "충겼넥쒜샘꽈",
+    "bytes": "\\xc3\\xe6\\xb0\\xe5\\xb3\\xd8\\xbe\\xae\\xbb\\xf9\\xb2\\xca",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 434,
+    "text": "菓좆禱羹례죕",
+    "bytes": "\\xce\\xa2\\xc1\\xbf\\xd4\\xaa\\xcb\\xd8\\xb7\\xca\\xc1\\xcf",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 435,
+    "text": "환경민사분쟁",
+    "bytes": "\\xc8\\xaf\\xb0\\xe6\\xb9\\xce\\xbb\\xe7\\xba\\xd0\\xc0\\xef",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 436,
+    "text": "뱉꽂쇘읨윈텐",
+    "bytes": "\\xb9\\xf1\\xb2\\xc8\\xbc\\xe7\\xc0\\xca\\xc0\\xa9\\xc5\\xd9",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 437,
+    "text": "도시개발가정",
+    "bytes": "\\xb5\\xb5\\xbd\\xc3\\xb0\\xb3\\xb9\\xdf\\xb0\\xa1\\xc1\\xa4",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 438,
+    "text": "ΦⅸτΘ쩜샙",
+    "bytes": "\\xa5\\xd5\\xa5\\xa9\\xa5\\xf3\\xa5\\xc8\\xc2\\xc0\\xbb\\xfa",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 439,
+    "text": "짠갈旬섄烱댈",
+    "bytes": "\\xc2\\xa7\\xb0\\xa5\\xe2\\xe2\\xbc\\xa9\\xcc\\xde\\xb4\\xee",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 440,
+    "text": "정신을가꾸다",
+    "bytes": "\\xc1\\xa4\\xbd\\xc5\\xc0\\xbb\\xb0\\xa1\\xb2\\xd9\\xb4\\xd9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 441,
+    "text": "쵠乞품죗뉼튬",
+    "bytes": "\\xc3\\xd7\\xcb\\xf7\\xc7\\xb0\\xc1\\xd0\\xb4\\xbc\\xc6\\xac",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 442,
+    "text": "팠ㄽ됴ㅱㅻㅘ",
+    "bytes": "\\xc6\\xcd\\xa4\\xad\\xb5\\xcd\\xa4\\xe1\\xa4\\xeb\\xa4\\xc8",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 443,
+    "text": "평균값극대화",
+    "bytes": "\\xc6\\xf2\\xb1\\xd5\\xb0\\xaa\\xb1\\xd8\\xb4\\xeb\\xc8\\xad",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 444,
+    "text": "ατΠ【揀웃",
+    "bytes": "\\xa5\\xe1\\xa5\\xf3\\xa5\\xd0\\xa1\\xbc\\xca\\xd1\\xbf\\xf4",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 445,
+    "text": "마환윗룽론켄",
+    "bytes": "\\xb8\\xb6\\xc8\\xaf\\xc0\\xad\\xb7\\xee\\xb7\\xd0\\xc4\\xcb",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 446,
+    "text": "통일회계제도",
+    "bytes": "\\xc5\\xeb\\xc0\\xcf\\xc8\\xb8\\xb0\\xe8\\xc1\\xa6\\xb5\\xb5",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 447,
+    "text": "갚롭혓쯩뜩튬",
+    "bytes": "\\xb0\\xb1\\xb7\\xd3\\xc7\\xfa\\xc2\\xed\\xb6\\xe0\\xc6\\xac",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 448,
+    "text": "μⅧΑτ엉붸",
+    "bytes": "\\xa5\\xec\\xa5\\xb7\\xa5\\xc1\\xa5\\xf3\\xbe\\xfb\\xba\\xde",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 449,
+    "text": "핀옹제샷棺아",
+    "bytes": "\\xc7\\xc9\\xbf\\xcb\\xc1\\xa6\\xbc\\xa6\\xce\\xb2\\xbe\\xc6",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 450,
+    "text": "손발흔들며춤",
+    "bytes": "\\xbc\\xd5\\xb9\\xdf\\xc8\\xe7\\xb5\\xe9\\xb8\\xe7\\xc3\\xe3",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 451,
+    "text": "휴대전화진동",
+    "bytes": "\\xc8\\xde\\xb4\\xeb\\xc0\\xfc\\xc8\\xad\\xc1\\xf8\\xb5\\xbf",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 452,
+    "text": "옆웸쭤ㅞ캣얜",
+    "bytes": "\\xbf\\xb7\\xc0\\xa4\\xc2\\xe5\\xa4\\xce\\xc4\\xb9\\xbe\\xeb",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 453,
+    "text": "뜯뜸假居겁윈",
+    "bytes": "\\xb6\\xe2\\xb6\\xe4\\xca\\xa3\\xcb\\xdc\\xb0\\xcc\\xc0\\xa9",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 454,
+    "text": "吉擧쳄儉뻔羹",
+    "bytes": "\\xd1\\xce\\xcb\\xe1\\xc3\\xc0\\xcb\\xfb\\xbb\\xb7\\xcb\\xd8",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 455,
+    "text": "똬ㅝㄾ翔ㅱ恭",
+    "bytes": "\\xb6\\xcc\\xa4\\xcd\\xa4\\xae\\xdf\\xd6\\xa4\\xe1\\xcd\\xf1",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 456,
+    "text": "鮫갛젬북댕欺",
+    "bytes": "\\xce\\xf7\\xb0\\xb2\\xc1\\xaa\\xba\\xcf\\xb4\\xf3\\xd1\\xa7",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 457,
+    "text": "댕各썹踏있끝",
+    "bytes": "\\xb4\\xf3\\xca\\xc0\\xbd\\xe7\\xd3\\xce\\xc0\\xd6\\xb3\\xa1",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 458,
+    "text": "든綾뀌醵齡땡",
+    "bytes": "\\xb5\\xe7\\xd7\\xd3\\xb2\\xee\\xcb\\xd9\\xd6\\xc6\\xb6\\xaf",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 459,
+    "text": "뉴스발표제도",
+    "bytes": "\\xb4\\xba\\xbd\\xba\\xb9\\xdf\\xc7\\xa5\\xc1\\xa6\\xb5\\xb5",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 460,
+    "text": "鬼랏岺옴鎌쉬",
+    "bytes": "\\xd0\\xa1\\xb6\\xf9\\xd6\\xb9\\xbf\\xc8\\xcc\\xc7\\xbd\\xac",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 461,
+    "text": "은행카드번호",
+    "bytes": "\\xc0\\xba\\xc7\\xe0\\xc4\\xab\\xb5\\xe5\\xb9\\xf8\\xc8\\xa3",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 462,
+    "text": "顧ㅞ펐징适果",
+    "bytes": "\\xcd\\xd3\\xa4\\xce\\xc6\\xe2\\xc2\\xa1\\xce\\xc1\\xcd\\xfd",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 463,
+    "text": "공리주의법학",
+    "bytes": "\\xb0\\xf8\\xb8\\xae\\xc1\\xd6\\xc0\\xc7\\xb9\\xfd\\xc7\\xd0",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 464,
+    "text": "은화비염영편",
+    "bytes": "\\xc0\\xba\\xc8\\xad\\xba\\xf1\\xbf\\xb0\\xbf\\xb5\\xc6\\xed",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 465,
+    "text": "일반형편두통",
+    "bytes": "\\xc0\\xcf\\xb9\\xdd\\xc7\\xfc\\xc6\\xed\\xb5\\xce\\xc5\\xeb",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 466,
+    "text": "생강소스칼콩",
+    "bytes": "\\xbb\\xfd\\xb0\\xad\\xbc\\xd2\\xbd\\xba\\xc4\\xae\\xc4\\xe1",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 467,
+    "text": "페닐케톤뇨증",
+    "bytes": "\\xc6\\xe4\\xb4\\xd2\\xc4\\xc9\\xc5\\xe6\\xb4\\xa2\\xc1\\xf5",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 468,
+    "text": "다리기슭캠프",
+    "bytes": "\\xb4\\xd9\\xb8\\xae\\xb1\\xe2\\xbd\\xbe\\xc4\\xb7\\xc7\\xc1",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 469,
+    "text": "양식어류월동",
+    "bytes": "\\xbe\\xe7\\xbd\\xc4\\xbe\\xee\\xb7\\xf9\\xbf\\xf9\\xb5\\xbf",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 470,
+    "text": "도형알고리즘",
+    "bytes": "\\xb5\\xb5\\xc7\\xfc\\xbe\\xcb\\xb0\\xed\\xb8\\xae\\xc1\\xf2",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 471,
+    "text": "조합논리회로",
+    "bytes": "\\xc1\\xb6\\xc7\\xd5\\xb3\\xed\\xb8\\xae\\xc8\\xb8\\xb7\\xce",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 472,
+    "text": "유지자사경성",
+    "bytes": "\\xc0\\xaf\\xc1\\xf6\\xc0\\xda\\xbb\\xe7\\xb0\\xe6\\xbc\\xba",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 473,
+    "text": "똘儆ㅞㅔㅚㄾ",
+    "bytes": "\\xb6\\xca\\xcc\\xcc\\xa4\\xce\\xa4\\xc4\\xa4\\xca\\xa4\\xae",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 474,
+    "text": "쀼ㅞ械밭댓려",
+    "bytes": "\\xbb\\xd8\\xa4\\xce\\xcc\\xfe\\xb9\\xe7\\xb4\\xf1\\xb7\\xc1",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 475,
+    "text": "신희망로중앙",
+    "bytes": "\\xbd\\xc5\\xc8\\xf1\\xb8\\xc1\\xb7\\xce\\xc1\\xdf\\xbe\\xd3",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 476,
+    "text": "쌌ㅴㅸㄴ契쁩",
+    "bytes": "\\xbd\\xd5\\xa4\\xe4\\xa4\\xe8\\xa4\\xa4\\xcc\\xf8\\xbb\\xde",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 477,
+    "text": "고추잎계란국",
+    "bytes": "\\xb0\\xed\\xc3\\xdf\\xc0\\xd9\\xb0\\xe8\\xb6\\xf5\\xb1\\xb9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 478,
+    "text": "민족악기공장",
+    "bytes": "\\xb9\\xce\\xc1\\xb7\\xbe\\xc7\\xb1\\xe2\\xb0\\xf8\\xc0\\xe5",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 479,
+    "text": "물내린어릴터",
+    "bytes": "\\xb9\\xb0\\xb3\\xbb\\xb8\\xb0\\xbe\\xee\\xb8\\xb1\\xc5\\xcd",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 480,
+    "text": "날카로운빚露",
+    "bytes": "\\xb3\\xaf\\xc4\\xab\\xb7\\xce\\xbf\\xee\\xba\\xfa\\xd6\\xda",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 481,
+    "text": "통합개발환경",
+    "bytes": "\\xc5\\xeb\\xc7\\xd5\\xb0\\xb3\\xb9\\xdf\\xc8\\xaf\\xb0\\xe6",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 482,
+    "text": "속퓻익땡괏빱",
+    "bytes": "\\xbc\\xd3\\xc7\\xbf\\xc0\\xcd\\xb6\\xaf\\xb1\\xa3\\xbb\\xa4",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 483,
+    "text": "푸른곰팡이병",
+    "bytes": "\\xc7\\xaa\\xb8\\xa5\\xb0\\xf5\\xc6\\xce\\xc0\\xcc\\xba\\xb4",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 484,
+    "text": "꿱儆자ㅺ쬐ㄸ",
+    "bytes": "\\xb2\\xe8\\xcc\\xcc\\xc0\\xda\\xa4\\xea\\xc2\\xd8\\xa4\\xa8",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 485,
+    "text": "윕샐쀼澗샙齡",
+    "bytes": "\\xc0\\xac\\xbb\\xf8\\xbb\\xd8\\xca\\xd5\\xbb\\xfa\\xd6\\xc6",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 486,
+    "text": "옆렛륙뷕뿔얠",
+    "bytes": "\\xbf\\xb7\\xb7\\xbf\\xb7\\xfa\\xba\\xe0\\xbb\\xd4\\xbe\\xec",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 487,
+    "text": "요점을찌르다",
+    "bytes": "\\xbf\\xe4\\xc1\\xa1\\xc0\\xbb\\xc2\\xee\\xb8\\xa3\\xb4\\xd9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 488,
+    "text": "전기공급계약",
+    "bytes": "\\xc0\\xfc\\xb1\\xe2\\xb0\\xf8\\xb1\\xde\\xb0\\xe8\\xbe\\xe0",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 489,
+    "text": "契漣퓻齡獵契",
+    "bytes": "\\xd0\\xd0\\xd5\\xfe\\xc7\\xbf\\xd6\\xc6\\xd6\\xb4\\xd0\\xd0",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 490,
+    "text": "殮쌈凜벎밑溝",
+    "bytes": "\\xd6\\xb1\\xbd\\xd3\\xd2\\xf2\\xb9\\xfb\\xb9\\xd8\\xcf\\xb5",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 491,
+    "text": "심장이떨리다",
+    "bytes": "\\xbd\\xc9\\xc0\\xe5\\xc0\\xcc\\xb6\\xb3\\xb8\\xae\\xb4\\xd9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 492,
+    "text": "심하게혼나다",
+    "bytes": "\\xbd\\xc9\\xc7\\xcf\\xb0\\xd4\\xc8\\xa5\\xb3\\xaa\\xb4\\xd9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 493,
+    "text": "셋덧ΗΠΓⅠ",
+    "bytes": "\\xbc\\xc2\\xb5\\xa1\\xa5\\xc7\\xa5\\xd0\\xa5\\xc3\\xa5\\xb0",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 494,
+    "text": "옵寡랍꼇옵섦",
+    "bytes": "\\xbf\\xc9\\xcd\\xfb\\xb6\\xf8\\xb2\\xbb\\xbf\\xc9\\xbc\\xb4",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 495,
+    "text": "늬巧속켬쥣捻",
+    "bytes": "\\xb4\\xcc\\xce\\xe5\\xbc\\xd3\\xc4\\xd4\\xc1\\xe9\\xd2\\xba",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 496,
+    "text": "팻땜契漣櫓懃",
+    "bytes": "\\xc6\\xd6\\xb6\\xab\\xd0\\xd0\\xd5\\xfe\\xd6\\xd0\\xd0\\xc4",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 497,
+    "text": "초콜릿탄산주",
+    "bytes": "\\xc3\\xca\\xc4\\xdd\\xb8\\xb4\\xc5\\xba\\xbb\\xea\\xc1\\xd6",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 498,
+    "text": "법률문화연구",
+    "bytes": "\\xb9\\xfd\\xb7\\xfc\\xb9\\xae\\xc8\\xad\\xbf\\xac\\xb1\\xb8",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 499,
+    "text": "벌소寮柩齡똑",
+    "bytes": "\\xb9\\xfa\\xbc\\xd2\\xd6\\xf7\\xcf\\xaf\\xd6\\xc6\\xb6\\xc8",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 500,
+    "text": "신용카드도용",
+    "bytes": "\\xbd\\xc5\\xbf\\xeb\\xc4\\xab\\xb5\\xe5\\xb5\\xb5\\xbf\\xeb",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 501,
+    "text": "프로그래밍방법",
+    "bytes": "\\xc7\\xc1\\xb7\\xce\\xb1\\xd7\\xb7\\xa1\\xb9\\xd6\\xb9\\xe6\\xb9\\xfd",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 502,
+    "text": "옰欺세減팹섟랬",
+    "bytes": "\\xbf\\xc6\\xd1\\xa7\\xbc\\xbc\\xca\\xf5\\xc6\\xd5\\xbc\\xb0\\xb7\\xa8",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 503,
+    "text": "멕촌擧솜棍痰튬",
+    "bytes": "\\xb8\\xdf\\xc3\\xcc\\xcb\\xe1\\xbc\\xd8\\xcd\\xe2\\xd3\\xc3\\xc6\\xac",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 504,
+    "text": "ㅃㅼㅛ僑요ㅉㅻ",
+    "bytes": "\\xa4\\xb3\\xa4\\xec\\xa4\\xcb\\xce\\xe0\\xbf\\xe4\\xa4\\xb9\\xa4\\xeb",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 505,
+    "text": "갈ㅇㅯㄼ묶ㄼㅻ",
+    "bytes": "\\xb0\\xa5\\xa4\\xb7\\xa4\\xdf\\xa4\\xac\\xb9\\xad\\xa4\\xac\\xa4\\xeb",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 506,
+    "text": "淚撚세減잚斂貫",
+    "bytes": "\\xd7\\xa8\\xd2\\xb5\\xbc\\xbc\\xca\\xf5\\xc0\\xe0\\xd6\\xb0\\xce\\xbb",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 507,
+    "text": "병렬프로그래밍",
+    "bytes": "\\xba\\xb4\\xb7\\xc4\\xc7\\xc1\\xb7\\xce\\xb1\\xd7\\xb7\\xa1\\xb9\\xd6",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 508,
+    "text": "寧家푤맣迦懃갛",
+    "bytes": "\\xd2\\xbb\\xca\\xab\\xc7\\xa7\\xb8\\xc4\\xca\\xbc\\xd0\\xc4\\xb0\\xb2",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 509,
+    "text": "염산부프레놀핀",
+    "bytes": "\\xbf\\xb0\\xbb\\xea\\xba\\xce\\xc7\\xc1\\xb7\\xb9\\xb3\\xee\\xc7\\xc9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 510,
+    "text": "시동애니메이션",
+    "bytes": "\\xbd\\xc3\\xb5\\xbf\\xbe\\xd6\\xb4\\xcf\\xb8\\xde\\xc0\\xcc\\xbc\\xc7",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 511,
+    "text": "옵菱譚뚝뻣새귑",
+    "bytes": "\\xbf\\xc9\\xd7\\xd4\\xd3\\xc9\\xb6\\xd2\\xbb\\xbb\\xbb\\xf5\\xb1\\xd2",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 512,
+    "text": "불씨를전달하다",
+    "bytes": "\\xba\\xd2\\xbe\\xbe\\xb8\\xa6\\xc0\\xfc\\xb4\\xde\\xc7\\xcf\\xb4\\xd9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 513,
+    "text": "껀酊띈못걔暇똔",
+    "bytes": "\\xb2\\xab\\xef\\xf8\\xb6\\xe8\\xb8\\xf8\\xb0\\xc2\\xca\\xac\\xb6\\xc9",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 514,
+    "text": "ΤΗⅹ뀜돨낙환",
+    "bytes": "\\xa5\\xd3\\xa5\\xc7\\xa5\\xaa\\xb2\\xf1\\xb5\\xc4\\xb3\\xab\\xc8\\xaf",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 515,
+    "text": "못犬곳부錮뎄쾨",
+    "bytes": "\\xb8\\xf8\\xcc\\xb3\\xb0\\xf7\\xba\\xce\\xcd\\xd1\\xb5\\xac\\xc4\\xea",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 516,
+    "text": "프로그래밍지식",
+    "bytes": "\\xc7\\xc1\\xb7\\xce\\xb1\\xd7\\xb7\\xa1\\xb9\\xd6\\xc1\\xf6\\xbd\\xc4",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 517,
+    "text": "쨌갛폼났얇있꼬",
+    "bytes": "\\xc2\\xb7\\xb0\\xb2\\xc6\\xfb\\xb3\\xb5\\xbe\\xe3\\xc0\\xd6\\xb2\\xbf",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 518,
+    "text": "발걸음을내딛다",
+    "bytes": "\\xb9\\xdf\\xb0\\xc9\\xc0\\xbd\\xc0\\xbb\\xb3\\xbb\\xb5\\xf3\\xb4\\xd9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 519,
+    "text": "비어있는어묵국",
+    "bytes": "\\xba\\xf1\\xbe\\xee\\xc0\\xd6\\xb4\\xc2\\xbe\\xee\\xb9\\xac\\xb1\\xb9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 520,
+    "text": "섐튼솔겨튼앰缺",
+    "bytes": "\\xbc\\xab\\xc6\\xb0\\xbc\\xd6\\xb0\\xdc\\xc6\\xb0\\xbe\\xda\\xcc\\xc0",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 521,
+    "text": "생강소스시금치",
+    "bytes": "\\xbb\\xfd\\xb0\\xad\\xbc\\xd2\\xbd\\xba\\xbd\\xc3\\xb1\\xdd\\xc4\\xa1",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 522,
+    "text": "크림화이트소스",
+    "bytes": "\\xc5\\xa9\\xb8\\xb2\\xc8\\xad\\xc0\\xcc\\xc6\\xae\\xbc\\xd2\\xbd\\xba",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 523,
+    "text": "미디어접근제어",
+    "bytes": "\\xb9\\xcc\\xb5\\xf0\\xbe\\xee\\xc1\\xa2\\xb1\\xd9\\xc1\\xa6\\xbe\\xee",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 524,
+    "text": "문자를물고씹다",
+    "bytes": "\\xb9\\xae\\xc0\\xda\\xb8\\xa6\\xb9\\xb0\\xb0\\xed\\xbe\\xc3\\xb4\\xd9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 525,
+    "text": "난형수박해파리",
+    "bytes": "\\xb3\\xad\\xc7\\xfc\\xbc\\xf6\\xb9\\xda\\xc7\\xd8\\xc6\\xc4\\xb8\\xae",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 526,
+    "text": "렷촙돠랑駕瑙눈",
+    "bytes": "\\xb7\\xc7\\xc3\\xcf\\xb5\\xc2\\xb6\\xfb\\xca\\xbd\\xd2\\xc5\\xb4\\xab",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 527,
+    "text": "녹음자보호협약",
+    "bytes": "\\xb3\\xec\\xc0\\xbd\\xc0\\xda\\xba\\xb8\\xc8\\xa3\\xc7\\xf9\\xbe\\xe0",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 528,
+    "text": "ΨκτΘⅱⅵΘ",
+    "bytes": "\\xa5\\xd7\\xa5\\xea\\xa5\\xf3\\xa5\\xc8\\xa5\\xa2\\xa5\\xa6\\xa5\\xc8",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 529,
+    "text": "서양의학외과학",
+    "bytes": "\\xbc\\xad\\xbe\\xe7\\xc0\\xc7\\xc7\\xd0\\xbf\\xdc\\xb0\\xfa\\xc7\\xd0",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 530,
+    "text": "슝죽擧랗향랗컷",
+    "bytes": "\\xbd\\xb9\\xc1\\xd7\\xcb\\xe1\\xb6\\xfe\\xc7\\xe2\\xb6\\xfe\\xc4\\xc6",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 531,
+    "text": "대항연극을하다",
+    "bytes": "\\xb4\\xeb\\xc7\\xd7\\xbf\\xac\\xb1\\xd8\\xc0\\xbb\\xc7\\xcf\\xb4\\xd9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 532,
+    "text": "땡윈섰밋ㅞ뫄卦",
+    "bytes": "\\xb6\\xaf\\xc0\\xa9\\xbc\\xb9\\xb9\\xd4\\xa4\\xce\\xb8\\xfa\\xce\\xcf",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 533,
+    "text": "아목시실린과립",
+    "bytes": "\\xbe\\xc6\\xb8\\xf1\\xbd\\xc3\\xbd\\xc7\\xb8\\xb0\\xb0\\xfa\\xb8\\xb3",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 534,
+    "text": "털어깨부레벌레",
+    "bytes": "\\xc5\\xd0\\xbe\\xee\\xb1\\xfa\\xba\\xce\\xb7\\xb9\\xb9\\xfa\\xb7\\xb9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 535,
+    "text": "뫙밀ㅞ枯漑艮뤼",
+    "bytes": "\\xb8\\xfd\\xb9\\xd0\\xa4\\xce\\xcd\\xbd\\xcb\\xc9\\xca\\xdd\\xb7\\xf2",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 536,
+    "text": "유행성뇌수막염",
+    "bytes": "\\xc0\\xaf\\xc7\\xe0\\xbc\\xba\\xb3\\xfa\\xbc\\xf6\\xb8\\xb7\\xbf\\xb0",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 537,
+    "text": "중대선제비안제",
+    "bytes": "\\xc1\\xdf\\xb4\\xeb\\xbc\\xb1\\xc1\\xa6\\xba\\xf1\\xbe\\xc8\\xc1\\xa6",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 538,
+    "text": "쳔품잤쭝같쯩區",
+    "bytes": "\\xc3\\xc5\\xc7\\xb0\\xc0\\xe4\\xc2\\xe4\\xb0\\xb0\\xc2\\xed\\xcf\\xa1",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 539,
+    "text": "뱍ㄿ섯잇ㅅㅼㅻ",
+    "bytes": "\\xb9\\xf3\\xa4\\xaf\\xbc\\xb8\\xc0\\xd5\\xa4\\xb5\\xa4\\xec\\xa4\\xeb",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 540,
+    "text": "Αⅶ【τ섟잔쨀",
+    "bytes": "\\xa5\\xc1\\xa5\\xa7\\xa1\\xbc\\xa5\\xf3\\xbc\\xb0\\xc0\\xdc\\xc2\\xb3",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 541,
+    "text": "빪얀질遮부뇹角",
+    "bytes": "\\xbb\\xa2\\xbe\\xe1\\xc1\\xfa\\xf3\\xb4\\xba\\xce\\xb4\\xa6\\xca\\xc7",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 542,
+    "text": "단단한뼈를먹다",
+    "bytes": "\\xb4\\xdc\\xb4\\xdc\\xc7\\xd1\\xbb\\xc0\\xb8\\xa6\\xb8\\xd4\\xb4\\xd9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 543,
+    "text": "찹昑袒칟苟沂虜",
+    "bytes": "\\xc2\\xfd\\xd0\\xd4\\xd3\\xb2\\xc4\\xa4\\xcf\\xc2\\xd1\\xaa\\xd6\\xd7",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 544,
+    "text": "굇쑴鮫籃켓밤끝",
+    "bytes": "\\xb1\\xb1\\xbe\\xa9\\xce\\xf7\\xd5\\xbe\\xc4\\xcf\\xb9\\xe3\\xb3\\xa1",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 545,
+    "text": "장성화이트와인",
+    "bytes": "\\xc0\\xe5\\xbc\\xba\\xc8\\xad\\xc0\\xcc\\xc6\\xae\\xbf\\xcd\\xc0\\xce",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 546,
+    "text": "양장자햄소시지",
+    "bytes": "\\xbe\\xe7\\xc0\\xe5\\xc0\\xda\\xc7\\xdc\\xbc\\xd2\\xbd\\xc3\\xc1\\xf6",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 547,
+    "text": "챰곗겻탕뿍셈뉘",
+    "bytes": "\\xc3\\xb1\\xb0\\xec\\xb0\\xe4\\xc5\\xc1\\xbb\\xd2\\xbc\\xc0\\xb4\\xb5",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 548,
+    "text": "롱프레스제스처",
+    "bytes": "\\xb7\\xd5\\xc7\\xc1\\xb7\\xb9\\xbd\\xba\\xc1\\xa6\\xbd\\xba\\xc3\\xb3",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 549,
+    "text": "λ【Ψㆂ홱ㅁㅻ",
+    "bytes": "\\xa5\\xeb\\xa1\\xbc\\xa5\\xd7\\xa4\\xf2\\xc8\\xb4\\xa4\\xb1\\xa4\\xeb",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 550,
+    "text": "구내염성인두염",
+    "bytes": "\\xb1\\xb8\\xb3\\xbb\\xbf\\xb0\\xbc\\xba\\xc0\\xce\\xb5\\xce\\xbf\\xb0",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 551,
+    "text": "참깨소스시금치",
+    "bytes": "\\xc2\\xfc\\xb1\\xfa\\xbc\\xd2\\xbd\\xba\\xbd\\xc3\\xb1\\xdd\\xc4\\xa1",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 552,
+    "text": "건조해삼수정닭",
+    "bytes": "\\xb0\\xc7\\xc1\\xb6\\xc7\\xd8\\xbb\\xef\\xbc\\xf6\\xc1\\xa4\\xb4\\xdf",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 553,
+    "text": "석사시변방대대",
+    "bytes": "\\xbc\\xae\\xbb\\xe7\\xbd\\xc3\\xba\\xaf\\xb9\\xe6\\xb4\\xeb\\xb4\\xeb",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 554,
+    "text": "퓸펐튼읖膈댓려",
+    "bytes": "\\xc7\\xbe\\xc6\\xe2\\xc6\\xb0\\xc0\\xc5\\xcc\\xae\\xb4\\xf1\\xb7\\xc1",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 555,
+    "text": "두각을드러내다",
+    "bytes": "\\xb5\\xce\\xb0\\xa2\\xc0\\xbb\\xb5\\xe5\\xb7\\xaf\\xb3\\xbb\\xb4\\xd9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 556,
+    "text": "돼지간시금치국",
+    "bytes": "\\xb5\\xc5\\xc1\\xf6\\xb0\\xa3\\xbd\\xc3\\xb1\\xdd\\xc4\\xa1\\xb1\\xb9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 557,
+    "text": "꽈級凌핸투圖爐",
+    "bytes": "\\xb2\\xca\\xd0\\xe4\\xd2\\xf3\\xc7\\xda\\xc5\\xf5\\xd3\\xf1\\xd6\\xd3",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 558,
+    "text": "쟁샤렉색팅奸匣",
+    "bytes": "\\xc0\\xef\\xbb\\xfe\\xb7\\xba\\xbb\\xf6\\xc6\\xc3\\xca\\xcc\\xcb\\xa1",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 559,
+    "text": "멕沂箕昑懃斗깹",
+    "bytes": "\\xb8\\xdf\\xd1\\xaa\\xd1\\xb9\\xd0\\xd4\\xd0\\xc4\\xd4\\xe0\\xb2\\xa1",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 560,
+    "text": "컴퓨터알고리즘",
+    "bytes": "\\xc4\\xc4\\xc7\\xbb\\xc5\\xcd\\xbe\\xcb\\xb0\\xed\\xb8\\xae\\xc1\\xf2",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 561,
+    "text": "그림과글이풍성",
+    "bytes": "\\xb1\\xd7\\xb8\\xb2\\xb0\\xfa\\xb1\\xdb\\xc0\\xcc\\xc7\\xb3\\xbc\\xba",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 562,
+    "text": "섦닒것臼누愧臼",
+    "bytes": "\\xbc\\xb4\\xb4\\xd3\\xb0\\xcd\\xcf\\xbf\\xb4\\xa9\\xce\\xd7\\xcf\\xbf",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 563,
+    "text": "질更韜愷혐굇쳔",
+    "bytes": "\\xc1\\xfa\\xcc\\xda\\xd4\\xb7\\xcb\\xc4\\xc7\\xf8\\xb1\\xb1\\xc3\\xc5",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 564,
+    "text": "낀냘맴겜팥境아",
+    "bytes": "\\xb3\\xa4\\xb3\\xc7\\xb8\\xc9\\xb0\\xd7\\xc6\\xcf\\xcc\\xd1\\xbe\\xc6",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 565,
+    "text": "접몽覩瞳팎喫櫓",
+    "bytes": "\\xc1\\xa2\\xb8\\xf9\\xd4\\xad\\xd4\\xda\\xc6\\xc6\\xd1\\xd2\\xd6\\xd0",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 566,
+    "text": "프로토타입상속",
+    "bytes": "\\xc7\\xc1\\xb7\\xce\\xc5\\xe4\\xc5\\xb8\\xc0\\xd4\\xbb\\xf3\\xbc\\xd3",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 567,
+    "text": "아이스라떼커피",
+    "bytes": "\\xbe\\xc6\\xc0\\xcc\\xbd\\xba\\xb6\\xf3\\xb6\\xbc\\xc4\\xbf\\xc7\\xc7",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 568,
+    "text": "쏵놔왯벌소짖뙤",
+    "bytes": "\\xbd\\xf8\\xb3\\xf6\\xbf\\xda\\xb9\\xfa\\xbc\\xd2\\xc2\\xa2\\xb6\\xcf",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 569,
+    "text": "맒쭤텃뿔ㅞ꽂긍",
+    "bytes": "\\xb8\\xbd\\xc2\\xe5\\xc5\\xd4\\xbb\\xd4\\xa4\\xce\\xb2\\xc8\\xb1\\xe0",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 570,
+    "text": "충겼넥메눙꽈넥",
+    "bytes": "\\xc3\\xe6\\xb0\\xe5\\xb3\\xd8\\xb8\\xde\\xb4\\xb1\\xb2\\xca\\xb3\\xd8",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 571,
+    "text": "뿔얠쇘쫍뎄윈匣",
+    "bytes": "\\xbb\\xd4\\xbe\\xec\\xbc\\xe7\\xc2\\xce\\xb5\\xac\\xc0\\xa9\\xcb\\xa1",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 572,
+    "text": "뮬짜棍댕쌍켓籃",
+    "bytes": "\\xb9\\xc4\\xc2\\xa5\\xcd\\xe2\\xb4\\xf3\\xbd\\xd6\\xc4\\xcf\\xd5\\xbe",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 573,
+    "text": "부동산거래센터",
+    "bytes": "\\xba\\xce\\xb5\\xbf\\xbb\\xea\\xb0\\xc5\\xb7\\xa1\\xbc\\xbe\\xc5\\xcd",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 574,
+    "text": "금빛휘황오락장",
+    "bytes": "\\xb1\\xdd\\xba\\xfb\\xc8\\xd6\\xc8\\xb2\\xbf\\xc0\\xb6\\xf4\\xc0\\xe5",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 575,
+    "text": "盾塊劤뉴겜誅擄",
+    "bytes": "\\xe2\\xea\\xce\\xd4\\xd0\\xc2\\xb4\\xba\\xb0\\xd7\\xf1\\xca\\xd2\\xc2",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 576,
+    "text": "전환애니메이션",
+    "bytes": "\\xc0\\xfc\\xc8\\xaf\\xbe\\xd6\\xb4\\xcf\\xb8\\xde\\xc0\\xcc\\xbc\\xc7",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 577,
+    "text": "담즙역류성위염",
+    "bytes": "\\xb4\\xe3\\xc1\\xf3\\xbf\\xaa\\xb7\\xf9\\xbc\\xba\\xc0\\xa7\\xbf\\xb0",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 578,
+    "text": "포트폴리오투자",
+    "bytes": "\\xc6\\xf7\\xc6\\xae\\xc6\\xfa\\xb8\\xae\\xbf\\xc0\\xc5\\xf5\\xc0\\xda",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 579,
+    "text": "컴퓨터문화기초",
+    "bytes": "\\xc4\\xc4\\xc7\\xbb\\xc5\\xcd\\xb9\\xae\\xc8\\xad\\xb1\\xe2\\xc3\\xca",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 580,
+    "text": "시장규제법연구",
+    "bytes": "\\xbd\\xc3\\xc0\\xe5\\xb1\\xd4\\xc1\\xa6\\xb9\\xfd\\xbf\\xac\\xb1\\xb8",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 581,
+    "text": "써쌘昑뜩땡찧懦",
+    "bytes": "\\xbd\\xe1\\xbd\\xda\\xd0\\xd4\\xb6\\xe0\\xb6\\xaf\\xc2\\xf6\\xd1\\xd7",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 582,
+    "text": "라플라스연산자",
+    "bytes": "\\xb6\\xf3\\xc7\\xc3\\xb6\\xf3\\xbd\\xba\\xbf\\xac\\xbb\\xea\\xc0\\xda",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 583,
+    "text": "支苟地밑쌘퓻殮",
+    "bytes": "\\xf2\\xa8\\xcf\\xc2\\xf2\\xa2\\xb9\\xd8\\xbd\\xda\\xc7\\xbf\\xd6\\xb1",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 584,
+    "text": "컴퓨터응용기초",
+    "bytes": "\\xc4\\xc4\\xc7\\xbb\\xc5\\xcd\\xc0\\xc0\\xbf\\xeb\\xb1\\xe2\\xc3\\xca",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 585,
+    "text": "말차프라푸치노",
+    "bytes": "\\xb8\\xbb\\xc2\\xf7\\xc7\\xc1\\xb6\\xf3\\xc7\\xaa\\xc4\\xa1\\xb3\\xeb",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 586,
+    "text": "絹ㄻㅹ낙똑ㅉㅻ",
+    "bytes": "\\xcc\\xb5\\xa4\\xab\\xa4\\xe9\\xb3\\xab\\xb6\\xc8\\xa4\\xb9\\xa4\\xeb",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 587,
+    "text": "但擒庚잦늴뒤역",
+    "bytes": "\\xd3\\xa3\\xd0\\xd3\\xcc\\xd2\\xc0\\xe6\\xb4\\xce\\xb5\\xda\\xbf\\xaa",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 588,
+    "text": "기와혈을통하다",
+    "bytes": "\\xb1\\xe2\\xbf\\xcd\\xc7\\xf7\\xc0\\xbb\\xc5\\xeb\\xc7\\xcf\\xb4\\xd9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 589,
+    "text": "충뱉못푤뀜롼뾔",
+    "bytes": "\\xc3\\xe6\\xb9\\xf1\\xb8\\xf8\\xc7\\xa7\\xb2\\xf1\\xb7\\xd7\\xbb\\xce",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 590,
+    "text": "임업과학연구소",
+    "bytes": "\\xc0\\xd3\\xbe\\xf7\\xb0\\xfa\\xc7\\xd0\\xbf\\xac\\xb1\\xb8\\xbc\\xd2",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 591,
+    "text": "찹昑풍깊昑罐懦",
+    "bytes": "\\xc2\\xfd\\xd0\\xd4\\xc7\\xb3\\xb1\\xed\\xd0\\xd4\\xce\\xb8\\xd1\\xd7",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 592,
+    "text": "베쒀ㅟ꼬ㅞ쒀ㄻ",
+    "bytes": "\\xba\\xa3\\xbe\\xac\\xa4\\xcf\\xb2\\xbf\\xa4\\xce\\xbe\\xac\\xa4\\xab",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 593,
+    "text": "꿱짐ΨμΤε【",
+    "bytes": "\\xb2\\xe8\\xc1\\xfc\\xa5\\xd7\\xa5\\xec\\xa5\\xd3\\xa5\\xe5\\xa1\\xbc",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 594,
+    "text": "비임균성요도염",
+    "bytes": "\\xba\\xf1\\xc0\\xd3\\xb1\\xd5\\xbc\\xba\\xbf\\xe4\\xb5\\xb5\\xbf\\xb0",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 595,
+    "text": "苦ㅂβΔⅩ【Ψ",
+    "bytes": "\\xcd\\xc8\\xa4\\xb2\\xa5\\xe2\\xa5\\xc4\\xa5\\xb9\\xa1\\xbc\\xa5\\xd7",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 596,
+    "text": "매탄득전하소영",
+    "bytes": "\\xb8\\xc5\\xc5\\xba\\xb5\\xe6\\xc0\\xfc\\xc7\\xcf\\xbc\\xd2\\xbf\\xb5",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 597,
+    "text": "盖딸똬加霰못긍",
+    "bytes": "\\xcb\\xcc\\xb5\\xfe\\xb6\\xcc\\xca\\xa5\\xdf\\xac\\xb8\\xf8\\xb1\\xe0",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 598,
+    "text": "위군대자이위정",
+    "bytes": "\\xc0\\xa7\\xb1\\xba\\xb4\\xeb\\xc0\\xda\\xc0\\xcc\\xc0\\xa7\\xc1\\xa4",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 599,
+    "text": "상속법비교연구",
+    "bytes": "\\xbb\\xf3\\xbc\\xd3\\xb9\\xfd\\xba\\xf1\\xb1\\xb3\\xbf\\xac\\xb1\\xb8",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 600,
+    "text": "쏵却멤뵨榴禱깰",
+    "bytes": "\\xbd\\xf8\\xca\\xbf\\xb8\\xe2\\xba\\xcd\\xd7\\xb4\\xd4\\xaa\\xb1\\xfd",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 601,
+    "text": "클라우드계산개발",
+    "bytes": "\\xc5\\xac\\xb6\\xf3\\xbf\\xec\\xb5\\xe5\\xb0\\xe8\\xbb\\xea\\xb0\\xb3\\xb9\\xdf",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 602,
+    "text": "傀똑ⅩΖ【Ⅷητ",
+    "bytes": "\\xce\\xd3\\xb6\\xc8\\xa5\\xb9\\xa5\\xc6\\xa1\\xbc\\xa5\\xb7\\xa5\\xe7\\xa5\\xf3",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 603,
+    "text": "말로전달할수없다",
+    "bytes": "\\xb8\\xbb\\xb7\\xce\\xc0\\xfc\\xb4\\xde\\xc7\\xd2\\xbc\\xf6\\xbe\\xf8\\xb4\\xd9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 604,
+    "text": "벨곶털臼앰缺윈텐",
+    "bytes": "\\xba\\xa7\\xb0\\xf9\\xc5\\xd0\\xcf\\xbf\\xbe\\xda\\xcc\\xc0\\xc0\\xa9\\xc5\\xd9",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 605,
+    "text": "巧枷諒옵鹿擄껏錄",
+    "bytes": "\\xce\\xe5\\xca\\xae\\xd5\\xdf\\xbf\\xc9\\xd2\\xd4\\xd2\\xc2\\xb2\\xaf\\xd2\\xd3",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 606,
+    "text": "듭ㆂ끅ㅇ옆ㆂ廓ㅔ",
+    "bytes": "\\xb5\\xec\\xa4\\xf2\\xb2\\xf5\\xa4\\xb7\\xbf\\xb7\\xa4\\xf2\\xce\\xa9\\xa4\\xc4",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 607,
+    "text": "쓰촨성관광집행대",
+    "bytes": "\\xbe\\xb2\\xc3\\xd3\\xbc\\xba\\xb0\\xfc\\xb1\\xa4\\xc1\\xfd\\xc7\\xe0\\xb4\\xeb",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 608,
+    "text": "췽痰샙끝밗잿係절",
+    "bytes": "\\xc3\\xf1\\xd3\\xc3\\xbb\\xfa\\xb3\\xa1\\xb9\\xdc\\xc0\\xed\\xcc\\xf5\\xc0\\xfd",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 609,
+    "text": "안드로이드테스트",
+    "bytes": "\\xbe\\xc8\\xb5\\xe5\\xb7\\xce\\xc0\\xcc\\xb5\\xe5\\xc5\\xd7\\xbd\\xba\\xc6\\xae",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 610,
+    "text": "부추상추나물볶음",
+    "bytes": "\\xba\\xce\\xc3\\xdf\\xbb\\xf3\\xc3\\xdf\\xb3\\xaa\\xb9\\xb0\\xba\\xba\\xc0\\xbd",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 611,
+    "text": "최단경로알고리즘",
+    "bytes": "\\xc3\\xd6\\xb4\\xdc\\xb0\\xe6\\xb7\\xce\\xbe\\xcb\\xb0\\xed\\xb8\\xae\\xc1\\xf2",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 612,
+    "text": "찹昑균실謹행밟癩",
+    "bytes": "\\xc2\\xfd\\xd0\\xd4\\xb1\\xd5\\xbd\\xc7\\xd0\\xcd\\xc7\\xe0\\xb9\\xe2\\xd1\\xdb",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 613,
+    "text": "βτβκⅹΚⅳΘ",
+    "bytes": "\\xa5\\xe2\\xa5\\xf3\\xa5\\xe2\\xa5\\xea\\xa5\\xaa\\xa5\\xca\\xa5\\xa4\\xa5\\xc8",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 614,
+    "text": "묑덧곤ㅉㅩㄻㅹㅊ",
+    "bytes": "\\xb9\\xa5\\xb5\\xa1\\xb0\\xef\\xa4\\xb9\\xa4\\xd9\\xa4\\xab\\xa4\\xe9\\xa4\\xba",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 615,
+    "text": "낀섈멕醵무쨌놔왯",
+    "bytes": "\\xb3\\xa4\\xbc\\xaa\\xb8\\xdf\\xcb\\xd9\\xb9\\xab\\xc2\\xb7\\xb3\\xf6\\xbf\\xda",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 616,
+    "text": "중국중대사건실록",
+    "bytes": "\\xc1\\xdf\\xb1\\xb9\\xc1\\xdf\\xb4\\xeb\\xbb\\xe7\\xb0\\xc7\\xbd\\xc7\\xb7\\xcf",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 617,
+    "text": "제네릭프로그래밍",
+    "bytes": "\\xc1\\xa6\\xb3\\xd7\\xb8\\xaf\\xc7\\xc1\\xb7\\xce\\xb1\\xd7\\xb7\\xa1\\xb9\\xd6",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 618,
+    "text": "澗롤무쨌밗잿係절",
+    "bytes": "\\xca\\xd5\\xb7\\xd1\\xb9\\xab\\xc2\\xb7\\xb9\\xdc\\xc0\\xed\\xcc\\xf5\\xc0\\xfd",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 619,
+    "text": "민사소송절차협약",
+    "bytes": "\\xb9\\xce\\xbb\\xe7\\xbc\\xd2\\xbc\\xdb\\xc0\\xfd\\xc2\\xf7\\xc7\\xf9\\xbe\\xe0",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 620,
+    "text": "유상민사법률행위",
+    "bytes": "\\xc0\\xaf\\xbb\\xf3\\xb9\\xce\\xbb\\xe7\\xb9\\xfd\\xb7\\xfc\\xc7\\xe0\\xc0\\xa7",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 621,
+    "text": "안드로이드시스템",
+    "bytes": "\\xbe\\xc8\\xb5\\xe5\\xb7\\xce\\xc0\\xcc\\xb5\\xe5\\xbd\\xc3\\xbd\\xba\\xc5\\xdb",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 622,
+    "text": "다처리기스케줄링",
+    "bytes": "\\xb4\\xd9\\xc3\\xb3\\xb8\\xae\\xb1\\xe2\\xbd\\xba\\xc4\\xc9\\xc1\\xd9\\xb8\\xb5",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 623,
+    "text": "皐뒈되션덜잿북谿",
+    "bytes": "\\xcd\\xc1\\xb5\\xd8\\xb5\\xc7\\xbc\\xc7\\xb4\\xfa\\xc0\\xed\\xba\\xcf\\xcd\\xac",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 624,
+    "text": "堅ㆂ퇴ㅯㅛㅇㅚㄴ",
+    "bytes": "\\xcc\\xb1\\xa4\\xf2\\xc5\\xf0\\xa4\\xdf\\xa4\\xcb\\xa4\\xb7\\xa4\\xca\\xa4\\xa4",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 625,
+    "text": "장을사용할수없다",
+    "bytes": "\\xc0\\xe5\\xc0\\xbb\\xbb\\xe7\\xbf\\xeb\\xc7\\xd2\\xbc\\xf6\\xbe\\xf8\\xb4\\xd9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 626,
+    "text": "휴대전화웹페이지",
+    "bytes": "\\xc8\\xde\\xb4\\xeb\\xc0\\xfc\\xc8\\xad\\xc0\\xa5\\xc6\\xe4\\xc0\\xcc\\xc1\\xf6",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 627,
+    "text": "네비게이션페이지",
+    "bytes": "\\xb3\\xd7\\xba\\xf1\\xb0\\xd4\\xc0\\xcc\\xbc\\xc7\\xc6\\xe4\\xc0\\xcc\\xc1\\xf6",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 628,
+    "text": "텔촙階쐰뽁錮렝驚",
+    "bytes": "\\xc5\\xda\\xc3\\xcf\\xcd\\xad\\xbd\\xfe\\xbb\\xc8\\xcd\\xd1\\xb7\\xc0\\xcc\\xf3",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 629,
+    "text": "κβ【ΘΨΓⅧε",
+    "bytes": "\\xa5\\xea\\xa5\\xe2\\xa1\\xbc\\xa5\\xc8\\xa5\\xd7\\xa5\\xc3\\xa5\\xb7\\xa5\\xe5",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 630,
+    "text": "프레임애니메이션",
+    "bytes": "\\xc7\\xc1\\xb7\\xb9\\xc0\\xd3\\xbe\\xd6\\xb4\\xcf\\xb8\\xde\\xc0\\xcc\\xbc\\xc7",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 631,
+    "text": "뱝琯뭬않꼲更쁜뿔",
+    "bytes": "\\xb9\\xf5\\xce\\xb5\\xb9\\xbe\\xbe\\xca\\xb2\\xc2\\xcc\\xda\\xbb\\xdb\\xbb\\xd4",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 632,
+    "text": "ㅰㅴㅯㅛ압ㅿㅚㄴ",
+    "bytes": "\\xa4\\xe0\\xa4\\xe4\\xa4\\xdf\\xa4\\xcb\\xbe\\xd0\\xa4\\xef\\xa4\\xca\\xa4\\xa4",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 633,
+    "text": "백두옹감초아교탕",
+    "bytes": "\\xb9\\xe9\\xb5\\xce\\xbf\\xcb\\xb0\\xa8\\xc3\\xca\\xbe\\xc6\\xb1\\xb3\\xc5\\xc1",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 634,
+    "text": "부당접촉금지제도",
+    "bytes": "\\xba\\xce\\xb4\\xe7\\xc1\\xa2\\xc3\\xcb\\xb1\\xdd\\xc1\\xf6\\xc1\\xa6\\xb5\\xb5",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 635,
+    "text": "눋逃륩蛟밗잿방땍",
+    "bytes": "\\xb4\\xac\\xd4\\xb1\\xb7\\xfe\\xce\\xf1\\xb9\\xdc\\xc0\\xed\\xb9\\xe6\\xb6\\xa8",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 636,
+    "text": "샙꼇옵呵珂꼇疼윱",
+    "bytes": "\\xbb\\xfa\\xb2\\xbb\\xbf\\xc9\\xca\\xa7\\xca\\xb1\\xb2\\xbb\\xd4\\xd9\\xc0\\xb4",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 637,
+    "text": "전용프로그램집합",
+    "bytes": "\\xc0\\xfc\\xbf\\xeb\\xc7\\xc1\\xb7\\xce\\xb1\\xd7\\xb7\\xa5\\xc1\\xfd\\xc7\\xd5",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 638,
+    "text": "뽁錮훰겅ㆂ캘ㄸㅻ",
+    "bytes": "\\xbb\\xc8\\xcd\\xd1\\xc8\\xcf\\xb0\\xcf\\xa4\\xf2\\xc4\\xb6\\xa4\\xa8\\xa4\\xeb",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 639,
+    "text": "베荳뜩鎌왕懃스켠",
+    "bytes": "\\xba\\xa3\\xd4\\xe5\\xb6\\xe0\\xcc\\xc7\\xbf\\xd5\\xd0\\xc4\\xbd\\xba\\xc4\\xd2",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 640,
+    "text": "선昑젓玖곽겜沂깹",
+    "bytes": "\\xbc\\xb1\\xd0\\xd4\\xc1\\xa3\\xcf\\xb8\\xb0\\xfb\\xb0\\xd7\\xd1\\xaa\\xb2\\xa1",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 641,
+    "text": "한잔마시고또한잔",
+    "bytes": "\\xc7\\xd1\\xc0\\xdc\\xb8\\xb6\\xbd\\xc3\\xb0\\xed\\xb6\\xc7\\xc7\\xd1\\xc0\\xdc",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 642,
+    "text": "낙엽송구과꽃파리",
+    "bytes": "\\xb3\\xab\\xbf\\xb1\\xbc\\xdb\\xb1\\xb8\\xb0\\xfa\\xb2\\xc9\\xc6\\xc4\\xb8\\xae",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 643,
+    "text": "행놔黨융랍價黨융",
+    "bytes": "\\xc7\\xe0\\xb3\\xf6\\xd3\\xda\\xc0\\xb6\\xb6\\xf8\\xca\\xa4\\xd3\\xda\\xc0\\xb6",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 644,
+    "text": "화불행복상응하다",
+    "bytes": "\\xc8\\xad\\xba\\xd2\\xc7\\xe0\\xba\\xb9\\xbb\\xf3\\xc0\\xc0\\xc7\\xcf\\xb4\\xd9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 645,
+    "text": "途溜寮땡넷쫴菉넓",
+    "bytes": "\\xd4\\xb2\\xd7\\xb6\\xd6\\xf7\\xb6\\xaf\\xb3\\xdd\\xc2\\xd6\\xd6\\xe1\\xb3\\xd0",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 646,
+    "text": "갚롭慣쮸쳄컸츌튬",
+    "bytes": "\\xb0\\xb1\\xb7\\xd3\\xce\\xb1\\xc2\\xe9\\xc3\\xc0\\xc4\\xc7\\xc3\\xf4\\xc6\\xac",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 647,
+    "text": "중국공인회계사법",
+    "bytes": "\\xc1\\xdf\\xb1\\xb9\\xb0\\xf8\\xc0\\xce\\xc8\\xb8\\xb0\\xe8\\xbb\\xe7\\xb9\\xfd",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 648,
+    "text": "μⅳΞ【λ鑒퀑섟",
+    "bytes": "\\xa5\\xec\\xa5\\xa4\\xa5\\xce\\xa1\\xbc\\xa5\\xeb\\xca\\xfd\\xc4\\xf8\\xbc\\xb0",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 649,
+    "text": "폼났陋干륩蛟櫓懃",
+    "bytes": "\\xc6\\xfb\\xb3\\xb5\\xd7\\xb0\\xca\\xce\\xb7\\xfe\\xce\\xf1\\xd6\\xd0\\xd0\\xc4",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 650,
+    "text": "찹昑데늉昑행밟癩",
+    "bytes": "\\xc2\\xfd\\xd0\\xd4\\xb5\\xa5\\xb4\\xbf\\xd0\\xd4\\xc7\\xe0\\xb9\\xe2\\xd1\\xdb",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 651,
+    "text": "쇨븜ㅺθ【ⅠλΘ",
+    "bytes": "\\xbc\\xea\\xba\\xee\\xa4\\xea\\xa5\\xe8\\xa1\\xbc\\xa5\\xb0\\xa5\\xeb\\xa5\\xc8",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 652,
+    "text": "베이징창포하공원",
+    "bytes": "\\xba\\xa3\\xc0\\xcc\\xc2\\xa1\\xc3\\xa2\\xc6\\xf7\\xc7\\xcf\\xb0\\xf8\\xbf\\xf8",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 653,
+    "text": "ⅵⅳλⅩ윗견캉깃",
+    "bytes": "\\xa5\\xa6\\xa5\\xa4\\xa5\\xeb\\xa5\\xb9\\xc0\\xad\\xb0\\xdf\\xc4\\xb2\\xb1\\xea",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 654,
+    "text": "吉擧璘鮫競적僊튬",
+    "bytes": "\\xd1\\xce\\xcb\\xe1\\xd7\\xf3\\xce\\xf7\\xcc\\xe6\\xc0\\xfb\\xe0\\xba\\xc6\\xac",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 655,
+    "text": "돐싼큭셋맒꼼퓰윗",
+    "bytes": "\\xb5\\xbb\\xbd\\xd1\\xc5\\xaa\\xbc\\xc2\\xb8\\xbd\\xb2\\xc4\\xc7\\xbd\\xc0\\xad",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 656,
+    "text": "남경선림대학교성",
+    "bytes": "\\xb3\\xb2\\xb0\\xe6\\xbc\\xb1\\xb8\\xb2\\xb4\\xeb\\xc7\\xd0\\xb1\\xb3\\xbc\\xba",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 657,
+    "text": "법학기초과정입문",
+    "bytes": "\\xb9\\xfd\\xc7\\xd0\\xb1\\xe2\\xc3\\xca\\xb0\\xfa\\xc1\\xa4\\xc0\\xd4\\xb9\\xae",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 658,
+    "text": "급성폐쇄형녹내장",
+    "bytes": "\\xb1\\xde\\xbc\\xba\\xc6\\xf3\\xbc\\xe2\\xc7\\xfc\\xb3\\xec\\xb3\\xbb\\xc0\\xe5",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 659,
+    "text": "춰붜밭겐ㅞ階뫄윗",
+    "bytes": "\\xc3\\xe7\\xba\\xdb\\xb9\\xe7\\xb0\\xd5\\xa4\\xce\\xcd\\xad\\xb8\\xfa\\xc0\\xad",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 660,
+    "text": "櫓努랐권驥블옰欺",
+    "bytes": "\\xd6\\xd0\\xd2\\xbd\\xb6\\xfa\\xb1\\xc7\\xd1\\xca\\xba\\xed\\xbf\\xc6\\xd1\\xa7",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 661,
+    "text": "전쟁에공적이있다",
+    "bytes": "\\xc0\\xfc\\xc0\\xef\\xbf\\xa1\\xb0\\xf8\\xc0\\xfb\\xc0\\xcc\\xc0\\xd6\\xb4\\xd9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 662,
+    "text": "매우재미있는화제",
+    "bytes": "\\xb8\\xc5\\xbf\\xec\\xc0\\xe7\\xb9\\xcc\\xc0\\xd6\\xb4\\xc2\\xc8\\xad\\xc1\\xa6",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 663,
+    "text": "체인식프로그래밍",
+    "bytes": "\\xc3\\xbc\\xc0\\xce\\xbd\\xc4\\xc7\\xc1\\xb7\\xce\\xb1\\xd7\\xb7\\xa1\\xb9\\xd6",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 664,
+    "text": "히알루론산나트륨",
+    "bytes": "\\xc8\\xf7\\xbe\\xcb\\xb7\\xe7\\xb7\\xd0\\xbb\\xea\\xb3\\xaa\\xc6\\xae\\xb7\\xfd",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 665,
+    "text": "κΠΤκτ枷見붸",
+    "bytes": "\\xa5\\xea\\xa5\\xd0\\xa5\\xd3\\xa5\\xea\\xa5\\xf3\\xca\\xae\\xcc\\xb8\\xba\\xde",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 666,
+    "text": "큠ㆂ촘ㅺ맵ㆂ촘ㅻ",
+    "bytes": "\\xc5\\xa8\\xa4\\xf2\\xc3\\xce\\xa4\\xea\\xb8\\xca\\xa4\\xf2\\xc3\\xce\\xa4\\xeb",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 667,
+    "text": "신문관리잠정규정",
+    "bytes": "\\xbd\\xc5\\xb9\\xae\\xb0\\xfc\\xb8\\xae\\xc0\\xe1\\xc1\\xa4\\xb1\\xd4\\xc1\\xa4",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 668,
+    "text": "서브네트워크분할",
+    "bytes": "\\xbc\\xad\\xba\\xea\\xb3\\xd7\\xc6\\xae\\xbf\\xf6\\xc5\\xa9\\xba\\xd0\\xc7\\xd2",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 669,
+    "text": "고페닐알라닌혈증",
+    "bytes": "\\xb0\\xed\\xc6\\xe4\\xb4\\xd2\\xbe\\xcb\\xb6\\xf3\\xb4\\xd1\\xc7\\xf7\\xc1\\xf5",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 670,
+    "text": "헛소리만늘어놓음",
+    "bytes": "\\xc7\\xea\\xbc\\xd2\\xb8\\xae\\xb8\\xb8\\xb4\\xc3\\xbe\\xee\\xb3\\xf5\\xc0\\xbd",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 671,
+    "text": "치안사건처리개론",
+    "bytes": "\\xc4\\xa1\\xbe\\xc8\\xbb\\xe7\\xb0\\xc7\\xc3\\xb3\\xb8\\xae\\xb0\\xb3\\xb7\\xd0",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 672,
+    "text": "영원히잊지않겠다",
+    "bytes": "\\xbf\\xb5\\xbf\\xf8\\xc8\\xf7\\xc0\\xd8\\xc1\\xf6\\xbe\\xca\\xb0\\xda\\xb4\\xd9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 673,
+    "text": "강청새더더욱희다",
+    "bytes": "\\xb0\\xad\\xc3\\xbb\\xbb\\xf5\\xb4\\xf5\\xb4\\xf5\\xbf\\xed\\xc8\\xf1\\xb4\\xd9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 674,
+    "text": "償킵옹僅컷두癩捻",
+    "bytes": "\\xdf\\xc1\\xc5\\xb5\\xbf\\xcb\\xd0\\xc1\\xc4\\xc6\\xb5\\xce\\xd1\\xdb\\xd2\\xba",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 675,
+    "text": "자동차화물하치장",
+    "bytes": "\\xc0\\xda\\xb5\\xbf\\xc2\\xf7\\xc8\\xad\\xb9\\xb0\\xc7\\xcf\\xc4\\xa1\\xc0\\xe5",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 676,
+    "text": "庫練갚輔뻠姦스켠",
+    "bytes": "\\xcd\\xb7\\xe6\\xdf\\xb0\\xb1\\xdc\\xd0\\xbb\\xba\\xca\\xcd\\xbd\\xba\\xc4\\xd2",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 677,
+    "text": "벗이먼곳에서오다",
+    "bytes": "\\xb9\\xfe\\xc0\\xcc\\xb8\\xd5\\xb0\\xf7\\xbf\\xa1\\xbc\\xad\\xbf\\xc0\\xb4\\xd9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 678,
+    "text": "노인은즐겁지않다",
+    "bytes": "\\xb3\\xeb\\xc0\\xce\\xc0\\xba\\xc1\\xf1\\xb0\\xcc\\xc1\\xf6\\xbe\\xca\\xb4\\xd9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 679,
+    "text": "ㅃㅼㅟ따ㅞ넬ㅚㅺ",
+    "bytes": "\\xa4\\xb3\\xa4\\xec\\xa4\\xcf\\xb5\\xfb\\xa4\\xce\\xb3\\xda\\xa4\\xca\\xa4\\xea",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 680,
+    "text": "충뱉ㅞ艮얇렛슥찐",
+    "bytes": "\\xc3\\xe6\\xb9\\xf1\\xa4\\xce\\xca\\xdd\\xbe\\xe3\\xb7\\xbf\\xbd\\xbb\\xc2\\xf0",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 681,
+    "text": "법률법규적용범위",
+    "bytes": "\\xb9\\xfd\\xb7\\xfc\\xb9\\xfd\\xb1\\xd4\\xc0\\xfb\\xbf\\xeb\\xb9\\xfc\\xc0\\xa7",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 682,
+    "text": "나는느낀것이있다",
+    "bytes": "\\xb3\\xaa\\xb4\\xc2\\xb4\\xc0\\xb3\\xa4\\xb0\\xcd\\xc0\\xcc\\xc0\\xd6\\xb4\\xd9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 683,
+    "text": "ⅹκⅨΚλΧνⅠ",
+    "bytes": "\\xa5\\xaa\\xa5\\xea\\xa5\\xb8\\xa5\\xca\\xa5\\xeb\\xa5\\xd6\\xa5\\xed\\xa5\\xb0",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 684,
+    "text": "契漣契槨寮竟북랬",
+    "bytes": "\\xd0\\xd0\\xd5\\xfe\\xd0\\xd0\\xce\\xaa\\xd6\\xf7\\xcc\\xe5\\xba\\xcf\\xb7\\xa8",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 685,
+    "text": "긴壇昑쌈뇰昑튄懦",
+    "bytes": "\\xb1\\xe4\\xd3\\xa6\\xd0\\xd4\\xbd\\xd3\\xb4\\xa5\\xd0\\xd4\\xc6\\xa4\\xd1\\xd7",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 686,
+    "text": "민사간이절차연구",
+    "bytes": "\\xb9\\xce\\xbb\\xe7\\xb0\\xa3\\xc0\\xcc\\xc0\\xfd\\xc2\\xf7\\xbf\\xac\\xb1\\xb8",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 687,
+    "text": "생각을남기려하다",
+    "bytes": "\\xbb\\xfd\\xb0\\xa2\\xc0\\xbb\\xb3\\xb2\\xb1\\xe2\\xb7\\xc1\\xc7\\xcf\\xb4\\xd9",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 688,
+    "text": "炬걸삐낢ⅧνΓΨ",
+    "bytes": "\\xcb\\xe3\\xb0\\xc9\\xbb\\xdf\\xb3\\xb1\\xa5\\xb7\\xa5\\xed\\xa5\\xc3\\xa5\\xd7",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 689,
+    "text": "슥繫契漣獵랬방렀",
+    "bytes": "\\xbd\\xbb\\xcd\\xa8\\xd0\\xd0\\xd5\\xfe\\xd6\\xb4\\xb7\\xa8\\xb9\\xe6\\xb7\\xb6",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 690,
+    "text": "염산세티리진캡슐",
+    "bytes": "\\xbf\\xb0\\xbb\\xea\\xbc\\xbc\\xc6\\xbc\\xb8\\xae\\xc1\\xf8\\xc4\\xb8\\xbd\\xb6",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 691,
+    "text": "손바닥치며큰웃음",
+    "bytes": "\\xbc\\xd5\\xb9\\xd9\\xb4\\xda\\xc4\\xa1\\xb8\\xe7\\xc5\\xab\\xbf\\xf4\\xc0\\xbd",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 692,
+    "text": "마환윗짝빕뮴꼍앉",
+    "bytes": "\\xb8\\xb6\\xc8\\xaf\\xc0\\xad\\xc2\\xa6\\xba\\xf7\\xb9\\xc5\\xb2\\xbd\\xbe\\xc9",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 693,
+    "text": "다진고추작은전분",
+    "bytes": "\\xb4\\xd9\\xc1\\xf8\\xb0\\xed\\xc3\\xdf\\xc0\\xdb\\xc0\\xba\\xc0\\xfc\\xba\\xd0",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 694,
+    "text": "중남대학철도학원",
+    "bytes": "\\xc1\\xdf\\xb3\\xb2\\xb4\\xeb\\xc7\\xd0\\xc3\\xb6\\xb5\\xb5\\xc7\\xd0\\xbf\\xf8",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 695,
+    "text": "클윳흴퉈윈꼰너匣",
+    "bytes": "\\xc5\\xac\\xc0\\xb5\\xc8\\xf3\\xc5\\xfd\\xc0\\xa9\\xb2\\xc1\\xb3\\xca\\xcb\\xa1",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 696,
+    "text": "喇랍轟匡契裂꼇陶",
+    "bytes": "\\xd1\\xd4\\xb6\\xf8\\xce\\xde\\xce\\xc4\\xd0\\xd0\\xd6\\xae\\xb2\\xbb\\xd4\\xb6",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 697,
+    "text": "稽덮ㅘ선릊ㆂ생ㅔ",
+    "bytes": "\\xcd\\xa6\\xb5\\xa4\\xa4\\xc8\\xbc\\xb1\\xb8\\xab\\xa4\\xf2\\xbb\\xfd\\xa4\\xc4",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 698,
+    "text": "의료보건복리제도",
+    "bytes": "\\xc0\\xc7\\xb7\\xe1\\xba\\xb8\\xb0\\xc7\\xba\\xb9\\xb8\\xae\\xc1\\xa6\\xb5\\xb5",
+    "enc": "euc_kr",
+    "label": true
+  },
+  {
+    "id": 699,
+    "text": "鎌쿱깹計璉擧櫓뗀",
+    "bytes": "\\xcc\\xc7\\xc4\\xf2\\xb2\\xa1\\xcd\\xaa\\xd6\\xa2\\xcb\\xe1\\xd6\\xd0\\xb6\\xbe",
+    "enc": "euc_kr",
+    "label": false
+  },
+  {
+    "id": 700,
+    "text": "槻제덤땍랬쪼契槨",
+    "bytes": "\\xd0\\xa7\\xc1\\xa6\\xb4\\xfd\\xb6\\xa8\\xb7\\xa8\\xc2\\xc9\\xd0\\xd0\\xce\\xaa",
+    "enc": "euc_kr",
+    "label": false
+  }
+]

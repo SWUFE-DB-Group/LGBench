@@ -1,0 +1,4902 @@
+[
+  {
+    "id": 1,
+    "text": "滑膜",
+    "bytes": "\\xbb\\xac\\xc4\\xa4",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 2,
+    "text": "渴瓢",
+    "bytes": "\\xbf\\xca\\xc6\\xb0",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 3,
+    "text": "复种",
+    "bytes": "\\xb8\\xb4\\xd6\\xd6",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 4,
+    "text": "羚┏",
+    "bytes": "\\xc1\\xe7\\xa9\\xb3",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 5,
+    "text": "吗啡",
+    "bytes": "\\xc2\\xf0\\xb7\\xc8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 6,
+    "text": "波谱",
+    "bytes": "\\xb2\\xa8\\xc6\\xd7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 7,
+    "text": "暋帇",
+    "bytes": "\\x95\\xa1\\x8e\\x8b",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 8,
+    "text": "误朗",
+    "bytes": "\\xce\\xf3\\xc0\\xca",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 9,
+    "text": "孽瓻",
+    "bytes": "\\xc4\\xf5\\xae\\x45",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 10,
+    "text": "野花",
+    "bytes": "\\xd2\\xb0\\xbb\\xa8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 11,
+    "text": "薄墓",
+    "bytes": "\\xb1\\xa1\\xc4\\xb9",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 12,
+    "text": "陆蟹",
+    "bytes": "\\xc2\\xbd\\xd0\\xb7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 13,
+    "text": "吉嚏",
+    "bytes": "\\xbc\\xaa\\xcc\\xe7",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 14,
+    "text": "挿掔",
+    "bytes": "\\x92\\xb7\\x92\\xe7",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 15,
+    "text": "刘安",
+    "bytes": "\\xc1\\xf5\\xb0\\xb2",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 16,
+    "text": "肠道",
+    "bytes": "\\xb3\\xa6\\xb5\\xc0",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 17,
+    "text": "肪琴",
+    "bytes": "\\xb7\\xbe\\xc7\\xd9",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 18,
+    "text": "谅籍",
+    "bytes": "\\xc1\\xc2\\xbc\\xae",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 19,
+    "text": "东北",
+    "bytes": "\\xb6\\xab\\xb1\\xb1",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 20,
+    "text": "摛桘",
+    "bytes": "\\x93\\xa4\\x96\\xfb",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 21,
+    "text": "秦价",
+    "bytes": "\\xc7\\xd8\\xbc\\xdb",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 22,
+    "text": "荚膜",
+    "bytes": "\\xbc\\xd4\\xc4\\xa4",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 23,
+    "text": "大漠",
+    "bytes": "\\xb4\\xf3\\xc4\\xae",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 24,
+    "text": "絖絓",
+    "bytes": "\\xbd\\x5f\\xbd\\x5c",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 25,
+    "text": "退市",
+    "bytes": "\\xcd\\xcb\\xca\\xd0",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 26,
+    "text": "按趋",
+    "bytes": "\\xb0\\xb4\\xc7\\xf7",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 27,
+    "text": "环跌",
+    "bytes": "\\xbb\\xb7\\xb5\\xf8",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 28,
+    "text": "金林",
+    "bytes": "\\xbd\\xf0\\xc1\\xd6",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 29,
+    "text": "己寸",
+    "bytes": "\\xbc\\xba\\xb4\\xe7",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 30,
+    "text": "当礹",
+    "bytes": "\\xb5\\xb1\\xb5\\x68",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 31,
+    "text": "刘巴",
+    "bytes": "\\xc1\\xf5\\xb0\\xcd",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 32,
+    "text": "古币",
+    "bytes": "\\xb9\\xc5\\xb1\\xd2",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 33,
+    "text": "憮敀",
+    "bytes": "\\x91\\x93\\x94\\x92",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 34,
+    "text": "进场",
+    "bytes": "\\xbd\\xf8\\xb3\\xa1",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 35,
+    "text": "冯牟",
+    "bytes": "\\xb7\\xeb\\xc4\\xb2",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 36,
+    "text": "剂量",
+    "bytes": "\\xbc\\xc1\\xc1\\xbf",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 37,
+    "text": "财经",
+    "bytes": "\\xb2\\xc6\\xbe\\xad",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 38,
+    "text": "笔录",
+    "bytes": "\\xb1\\xca\\xc2\\xbc",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 39,
+    "text": "波浪",
+    "bytes": "\\xb2\\xa8\\xc0\\xcb",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 40,
+    "text": "林诀",
+    "bytes": "\\xc1\\xd6\\xbe\\xf7",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 41,
+    "text": "猳猀",
+    "bytes": "\\xaa\\x6f\\xaa\\x51",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 42,
+    "text": "急性",
+    "bytes": "\\xbc\\xb1\\xd0\\xd4",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 43,
+    "text": "晕厥",
+    "bytes": "\\xd4\\xce\\xd8\\xca",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 44,
+    "text": "股票",
+    "bytes": "\\xb9\\xc9\\xc6\\xb1",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 45,
+    "text": "胎漏",
+    "bytes": "\\xcc\\xa5\\xc2\\xa9",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 46,
+    "text": "摹怕",
+    "bytes": "\\xc4\\xa1\\xc5\\xc2",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 47,
+    "text": "蹦﹀",
+    "bytes": "\\xb1\\xc4\\xa6\\xe5",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 48,
+    "text": "梨子",
+    "bytes": "\\xc0\\xe6\\xd7\\xd3",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 49,
+    "text": "化脓",
+    "bytes": "\\xbb\\xaf\\xc5\\xa7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 50,
+    "text": "大街",
+    "bytes": "\\xb4\\xf3\\xbd\\xd6",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 51,
+    "text": "尿液",
+    "bytes": "\\xc4\\xf2\\xd2\\xba",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 52,
+    "text": "珐窍",
+    "bytes": "\\xb7\\xa9\\xc7\\xcf",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 53,
+    "text": "趾骨",
+    "bytes": "\\xd6\\xba\\xb9\\xc7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 54,
+    "text": "玫侥",
+    "bytes": "\\xc3\\xb5\\xbd\\xc4",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 55,
+    "text": "娔岇",
+    "bytes": "\\x8a\\xc4\\x8c\\xec",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 56,
+    "text": "鑷抣",
+    "bytes": "\\xe8\\x87\\x92\\x6c",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 57,
+    "text": "旂帀",
+    "bytes": "\\x94\\xe7\\x8e\\x89",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 58,
+    "text": "弌寣",
+    "bytes": "\\x8f\\x6f\\x8c\\x8c",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 59,
+    "text": "慎嚏",
+    "bytes": "\\xc9\\xf7\\xcc\\xe7",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 60,
+    "text": "法医",
+    "bytes": "\\xb7\\xa8\\xd2\\xbd",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 61,
+    "text": "分化",
+    "bytes": "\\xb7\\xd6\\xbb\\xaf",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 62,
+    "text": "子宫",
+    "bytes": "\\xd7\\xd3\\xb9\\xac",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 63,
+    "text": "纸钞",
+    "bytes": "\\xd6\\xbd\\xb3\\xae",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 64,
+    "text": "怪笑",
+    "bytes": "\\xb9\\xd6\\xd0\\xa6",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 65,
+    "text": "头晕",
+    "bytes": "\\xcd\\xb7\\xd4\\xce",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 66,
+    "text": "产值",
+    "bytes": "\\xb2\\xfa\\xd6\\xb5",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 67,
+    "text": "络桅",
+    "bytes": "\\xc2\\xe7\\xce\\xa6",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 68,
+    "text": "仙境",
+    "bytes": "\\xcf\\xc9\\xbe\\xb3",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 69,
+    "text": "家蜡",
+    "bytes": "\\xbc\\xd2\\xc0\\xaf",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 70,
+    "text": "衬底",
+    "bytes": "\\xb3\\xc4\\xb5\\xd7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 71,
+    "text": "垛划",
+    "bytes": "\\xb6\\xe2\\xbb\\xae",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 72,
+    "text": "古遂",
+    "bytes": "\\xb9\\xc5\\xcb\\xec",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 73,
+    "text": "案祇",
+    "bytes": "\\xb0\\xb8\\xb5\\x6f",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 74,
+    "text": "络傅",
+    "bytes": "\\xc2\\xe7\\xb8\\xb5",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 75,
+    "text": "低位",
+    "bytes": "\\xb5\\xcd\\xce\\xbb",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 76,
+    "text": "竒絥",
+    "bytes": "\\xb8\\x67\\xbd\\x6e",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 77,
+    "text": "白桃",
+    "bytes": "\\xb0\\xd7\\xcc\\xd2",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 78,
+    "text": "切盔",
+    "bytes": "\\xc7\\xd0\\xbf\\xf8",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 79,
+    "text": "大城",
+    "bytes": "\\xb4\\xf3\\xb3\\xc7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 80,
+    "text": "蕊怕",
+    "bytes": "\\xc8\\xef\\xc5\\xc2",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 81,
+    "text": "逃税",
+    "bytes": "\\xcc\\xd3\\xcb\\xb0",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 82,
+    "text": "琅间",
+    "bytes": "\\xc0\\xc5\\xbc\\xe4",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 83,
+    "text": "抢彩",
+    "bytes": "\\xc7\\xc0\\xb2\\xca",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 84,
+    "text": "集成",
+    "bytes": "\\xbc\\xaf\\xb3\\xc9",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 85,
+    "text": "辰猳",
+    "bytes": "\\xb3\\xbd\\xaa\\x6f",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 86,
+    "text": "杻墿",
+    "bytes": "\\x96\\x83\\x89\\xa9",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 87,
+    "text": "质膜",
+    "bytes": "\\xd6\\xca\\xc4\\xa4",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 88,
+    "text": "寎弔",
+    "bytes": "\\x8c\\x7d\\x8f\\x74",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 89,
+    "text": "蚊曹",
+    "bytes": "\\xce\\xc3\\xb2\\xdc",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 90,
+    "text": "罢嘲",
+    "bytes": "\\xb0\\xd5\\xb3\\xb0",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 91,
+    "text": "踩」",
+    "bytes": "\\xb2\\xc8\\xa1\\xb9",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 92,
+    "text": "极化",
+    "bytes": "\\xbc\\xab\\xbb\\xaf",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 93,
+    "text": "咖喱",
+    "bytes": "\\xbf\\xa7\\xe0\\xac",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 94,
+    "text": "昏厥",
+    "bytes": "\\xbb\\xe8\\xd8\\xca",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 95,
+    "text": "花市",
+    "bytes": "\\xbb\\xa8\\xca\\xd0",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 96,
+    "text": "奜斀",
+    "bytes": "\\x8a\\x4f\\x94\\xbd",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 97,
+    "text": "初潮",
+    "bytes": "\\xb3\\xf5\\xb3\\xb1",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 98,
+    "text": "林林",
+    "bytes": "\\xc1\\xd6\\xc1\\xd6",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 99,
+    "text": "婥岴",
+    "bytes": "\\x8b\\x43\\x8d\\x45",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 100,
+    "text": "交易",
+    "bytes": "\\xbd\\xbb\\xd2\\xd7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 101,
+    "text": "篙遂标",
+    "bytes": "\\xb8\\xdd\\xcb\\xec\\xb1\\xea",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 102,
+    "text": "钙化影",
+    "bytes": "\\xb8\\xc6\\xbb\\xaf\\xd3\\xb0",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 103,
+    "text": "浅幅巢",
+    "bytes": "\\xc7\\xb3\\xb7\\xf9\\xb3\\xb2",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 104,
+    "text": "太溪穴",
+    "bytes": "\\xcc\\xab\\xcf\\xaa\\xd1\\xa8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 105,
+    "text": "结果集",
+    "bytes": "\\xbd\\xe1\\xb9\\xfb\\xbc\\xaf",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 106,
+    "text": "合家欢",
+    "bytes": "\\xba\\xcf\\xbc\\xd2\\xbb\\xb6",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 107,
+    "text": "珠宝街",
+    "bytes": "\\xd6\\xe9\\xb1\\xa6\\xbd\\xd6",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 108,
+    "text": "暴力法",
+    "bytes": "\\xb1\\xa9\\xc1\\xa6\\xb7\\xa8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 109,
+    "text": "廖斯囤",
+    "bytes": "\\xc1\\xce\\xcb\\xb9\\xb6\\xda",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 110,
+    "text": "介袋猛",
+    "bytes": "\\xbd\\xe9\\xb4\\xfc\\xc3\\xcd",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 111,
+    "text": "额窦炎",
+    "bytes": "\\xb6\\xee\\xf1\\xbc\\xd1\\xd7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 112,
+    "text": "支沟穴",
+    "bytes": "\\xd6\\xa7\\xb9\\xb5\\xd1\\xa8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 113,
+    "text": "懝幐棪",
+    "bytes": "\\x91\\xb9\\x8e\\xb8\\x97\\xa6",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 114,
+    "text": "汗没矫",
+    "bytes": "\\xba\\xb9\\xc3\\xbb\\xbd\\xc3",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 115,
+    "text": "细菌学",
+    "bytes": "\\xcf\\xb8\\xbe\\xfa\\xd1\\xa7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 116,
+    "text": "叉盆繲",
+    "bytes": "\\xb2\\xe6\\xc5\\xe8\\xc0\\x54",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 117,
+    "text": "广通道",
+    "bytes": "\\xb9\\xe3\\xcd\\xa8\\xb5\\xc0",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 118,
+    "text": "韩非子",
+    "bytes": "\\xba\\xab\\xb7\\xc7\\xd7\\xd3",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 119,
+    "text": "梅家河",
+    "bytes": "\\xc3\\xb7\\xbc\\xd2\\xba\\xd3",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 120,
+    "text": "区块链",
+    "bytes": "\\xc7\\xf8\\xbf\\xe9\\xc1\\xb4",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 121,
+    "text": "联买暗",
+    "bytes": "\\xc1\\xaa\\xc2\\xf2\\xb0\\xb5",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 122,
+    "text": "面片汤",
+    "bytes": "\\xc3\\xe6\\xc6\\xac\\xcc\\xc0",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 123,
+    "text": "嬥忛峕",
+    "bytes": "\\x8b\\xe0\\x8f\\xe9\\x8d\\x5d",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 124,
+    "text": "兆赫兹",
+    "bytes": "\\xd5\\xd7\\xba\\xd5\\xd7\\xc8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 125,
+    "text": "葫芦牌",
+    "bytes": "\\xba\\xf9\\xc2\\xab\\xc5\\xc6",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 126,
+    "text": "磊染拳",
+    "bytes": "\\xc0\\xda\\xc8\\xbe\\xc8\\xad",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 127,
+    "text": "尸ける",
+    "bytes": "\\xca\\xac\\xa4\\xb1\\xa4\\xeb",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 128,
+    "text": "联买房",
+    "bytes": "\\xc1\\xaa\\xc2\\xf2\\xb7\\xbf",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 129,
+    "text": "西瓜冻",
+    "bytes": "\\xce\\xf7\\xb9\\xcf\\xb6\\xb3",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 130,
+    "text": "玻璃化",
+    "bytes": "\\xb2\\xa3\\xc1\\xa7\\xbb\\xaf",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 131,
+    "text": "い惑笵",
+    "bytes": "\\xa4\\xa4\\xbb\\xf3\\xb9\\x44",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 132,
+    "text": "枇杷叶",
+    "bytes": "\\xe8\\xc1\\xe8\\xcb\\xd2\\xb6",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 133,
+    "text": "转运站",
+    "bytes": "\\xd7\\xaa\\xd4\\xcb\\xd5\\xbe",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 134,
+    "text": "鹿角片",
+    "bytes": "\\xc2\\xb9\\xbd\\xc7\\xc6\\xac",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 135,
+    "text": "灿璏睪",
+    "bytes": "\\xb2\\xd3\\xad\\x4d\\xb2\\x47",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 136,
+    "text": "票弛烯",
+    "bytes": "\\xc6\\xb1\\xb3\\xda\\xcf\\xa9",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 137,
+    "text": "牙髓病",
+    "bytes": "\\xd1\\xc0\\xcb\\xe8\\xb2\\xa1",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 138,
+    "text": "擾嬈惻",
+    "bytes": "\\x94\\x5f\\x8b\\xc6\\x90\\xc5",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 139,
+    "text": "猝倒症",
+    "bytes": "\\xe2\\xa7\\xb5\\xb9\\xd6\\xa2",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 140,
+    "text": "攏彫壆",
+    "bytes": "\\x94\\x6e\\x8f\\xac\\x89\\xae",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 141,
+    "text": "慢揭侗",
+    "bytes": "\\xc2\\xfd\\xbd\\xd2\\xb6\\xb1",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 142,
+    "text": "╄┿瞯",
+    "bytes": "\\xa9\\xe8\\xa9\\xe3\\xb2\\x76",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 143,
+    "text": "纪念币",
+    "bytes": "\\xbc\\xcd\\xc4\\xee\\xb1\\xd2",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 144,
+    "text": "屠宰场",
+    "bytes": "\\xcd\\xc0\\xd4\\xd7\\xb3\\xa1",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 145,
+    "text": "蒸馏酒",
+    "bytes": "\\xd5\\xf4\\xc1\\xf3\\xbe\\xc6",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 146,
+    "text": "镇咳药",
+    "bytes": "\\xd5\\xf2\\xbf\\xc8\\xd2\\xa9",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 147,
+    "text": "最长链",
+    "bytes": "\\xd7\\xee\\xb3\\xa4\\xc1\\xb4",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 148,
+    "text": "滑膜炎",
+    "bytes": "\\xbb\\xac\\xc4\\xa4\\xd1\\xd7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 149,
+    "text": "玂臔饯",
+    "bytes": "\\xab\\x4f\\xc5\\x40\\xbd\\xa4",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 150,
+    "text": "坷规盲",
+    "bytes": "\\xbf\\xc0\\xb9\\xe6\\xc3\\xa4",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 151,
+    "text": "厚傈沥",
+    "bytes": "\\xba\\xf1\\xc0\\xfc\\xc1\\xa4",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 152,
+    "text": "子查询",
+    "bytes": "\\xd7\\xd3\\xb2\\xe9\\xd1\\xaf",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 153,
+    "text": "低功耗",
+    "bytes": "\\xb5\\xcd\\xb9\\xa6\\xba\\xc4",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 154,
+    "text": "利胆片",
+    "bytes": "\\xc0\\xfb\\xb5\\xa8\\xc6\\xac",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 155,
+    "text": "兴顺街",
+    "bytes": "\\xd0\\xcb\\xcb\\xb3\\xbd\\xd6",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 156,
+    "text": "噶阜捍",
+    "bytes": "\\xb8\\xc1\\xb8\\xb7\\xba\\xb4",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 157,
+    "text": "酬らか",
+    "bytes": "\\xb3\\xea\\xa4\\xe9\\xa4\\xab",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 158,
+    "text": "柉偺帀",
+    "bytes": "\\x96\\xaf\\x82\\xcc\\x8e\\x89",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 159,
+    "text": "т箂窥",
+    "bytes": "\\xa7\\xe4\\xb9\\x73\\xbf\\xfa",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 160,
+    "text": "矹イ秔",
+    "bytes": "\\xb3\\x4a\\xa5\\xa4\\xb6\\x70",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 161,
+    "text": "桡骨头",
+    "bytes": "\\xe8\\xe3\\xb9\\xc7\\xcd\\xb7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 162,
+    "text": "畴拳帕",
+    "bytes": "\\xb3\\xeb\\xc8\\xad\\xc5\\xc1",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 163,
+    "text": "历趋拘",
+    "bytes": "\\xc0\\xfa\\xc7\\xf7\\xbe\\xd0",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 164,
+    "text": "仪表灯",
+    "bytes": "\\xd2\\xc7\\xb1\\xed\\xb5\\xc6",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 165,
+    "text": "婾暘晍",
+    "bytes": "\\x8b\\x55\\x95\\xaa\\x95\\x7a",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 166,
+    "text": "法医学",
+    "bytes": "\\xb7\\xa8\\xd2\\xbd\\xd1\\xa7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 167,
+    "text": "眏︽猭",
+    "bytes": "\\xb1\\x6a\\xa6\\xe6\\xaa\\x6b",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 168,
+    "text": "好痜痝",
+    "bytes": "\\xba\\xc3\\xaf\\x66\\xaf\\x67",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 169,
+    "text": "努炳旧",
+    "bytes": "\\xc5\\xac\\xb1\\xfe\\xbe\\xc9",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 170,
+    "text": "农业局",
+    "bytes": "\\xc5\\xa9\\xd2\\xb5\\xbe\\xd6",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 171,
+    "text": "露营车",
+    "bytes": "\\xc2\\xb6\\xd3\\xaa\\xb3\\xb5",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 172,
+    "text": "烤羊腿",
+    "bytes": "\\xbf\\xbe\\xd1\\xf2\\xcd\\xc8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 173,
+    "text": "太阴病",
+    "bytes": "\\xcc\\xab\\xd2\\xf5\\xb2\\xa1",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 174,
+    "text": "冠窍蕾",
+    "bytes": "\\xb9\\xda\\xc7\\xcf\\xc0\\xd9",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 175,
+    "text": "敀奌巕",
+    "bytes": "\\x94\\x92\\x8a\\x48\\x8e\\x71",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 176,
+    "text": "筣い瑀",
+    "bytes": "\\xb9\\x5d\\xa4\\xa4\\xac\\x72",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 177,
+    "text": "丹吊旧",
+    "bytes": "\\xb5\\xa4\\xb5\\xf5\\xbe\\xc9",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 178,
+    "text": "巢篮捣",
+    "bytes": "\\xb3\\xb2\\xc0\\xba\\xb5\\xb7",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 179,
+    "text": "骨碎补",
+    "bytes": "\\xb9\\xc7\\xcb\\xe9\\xb2\\xb9",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 180,
+    "text": "媑暉奨",
+    "bytes": "\\x8b\\x67\\x95\\x9f\\x8a\\x58",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 181,
+    "text": "投资学",
+    "bytes": "\\xcd\\xb6\\xd7\\xca\\xd1\\xa7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 182,
+    "text": "峔憿惈",
+    "bytes": "\\x8d\\x5c\\x91\\xa2\\x90\\xab",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 183,
+    "text": "手足癣",
+    "bytes": "\\xca\\xd6\\xd7\\xe3\\xd1\\xa2",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 184,
+    "text": "嗍搢徢",
+    "bytes": "\\xe0\\xca\\x93\\x7c\\x8f\\xc7",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 185,
+    "text": "焊刘力",
+    "bytes": "\\xba\\xb8\\xc1\\xf5\\xc1\\xa6",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 186,
+    "text": "词汇学",
+    "bytes": "\\xb4\\xca\\xbb\\xe3\\xd1\\xa7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 187,
+    "text": "集揽痝",
+    "bytes": "\\xbc\\xaf\\xc0\\xbf\\xaf\\x67",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 188,
+    "text": "爆鱼丁",
+    "bytes": "\\xb1\\xac\\xd3\\xe3\\xb6\\xa1",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 189,
+    "text": "けん步",
+    "bytes": "\\xa4\\xb1\\xa4\\xf3\\xb2\\xbd",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 190,
+    "text": "恑巑朧",
+    "bytes": "\\x90\\x69\\x8e\\x6d\\x96\\x56",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 191,
+    "text": "采集卡",
+    "bytes": "\\xb2\\xc9\\xbc\\xaf\\xbf\\xa8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 192,
+    "text": "珍珠河",
+    "bytes": "\\xd5\\xe4\\xd6\\xe9\\xba\\xd3",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 193,
+    "text": "皊綥ツ",
+    "bytes": "\\xb0\\x73\\xbe\\x4c\\xa5\\xc4",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 194,
+    "text": "何夯笼",
+    "bytes": "\\xba\\xce\\xba\\xbb\\xc1\\xfd",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 195,
+    "text": "利培酮",
+    "bytes": "\\xc0\\xfb\\xc5\\xe0\\xcd\\xaa",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 196,
+    "text": "心室率",
+    "bytes": "\\xd0\\xc4\\xca\\xd2\\xc2\\xca",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 197,
+    "text": "琴败竣",
+    "bytes": "\\xc7\\xd9\\xb0\\xdc\\xbf\\xa2",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 198,
+    "text": "拨庀鞠",
+    "bytes": "\\xb2\\xa6\\xe2\\xcf\\xbe\\xcf",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 199,
+    "text": "蓖搬琴",
+    "bytes": "\\xb1\\xcd\\xb0\\xe1\\xc7\\xd9",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 200,
+    "text": "木牌楼",
+    "bytes": "\\xc4\\xbe\\xc5\\xc6\\xc2\\xa5",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 201,
+    "text": "真枪实弹",
+    "bytes": "\\xd5\\xe6\\xc7\\xb9\\xca\\xb5\\xb5\\xaf",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 202,
+    "text": "工作平台",
+    "bytes": "\\xb9\\xa4\\xd7\\xf7\\xc6\\xbd\\xcc\\xa8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 203,
+    "text": "乔剧扯辆",
+    "bytes": "\\xc7\\xc7\\xbe\\xe7\\xb3\\xb6\\xc1\\xbe",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 204,
+    "text": "死不瞑目",
+    "bytes": "\\xcb\\xc0\\xb2\\xbb\\xee\\xa8\\xc4\\xbf",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 205,
+    "text": "应急预案",
+    "bytes": "\\xd3\\xa6\\xbc\\xb1\\xd4\\xa4\\xb0\\xb8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 206,
+    "text": "系统构建",
+    "bytes": "\\xcf\\xb5\\xcd\\xb3\\xb9\\xb9\\xbd\\xa8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 207,
+    "text": "度坛梦急",
+    "bytes": "\\xb6\\xc8\\xcc\\xb3\\xc3\\xce\\xbc\\xb1",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 208,
+    "text": "樱桃谷鸭",
+    "bytes": "\\xd3\\xa3\\xcc\\xd2\\xb9\\xc8\\xd1\\xbc",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 209,
+    "text": "厚魄过切",
+    "bytes": "\\xba\\xf1\\xc6\\xc7\\xb9\\xfd\\xc7\\xd0",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 210,
+    "text": "可选类型",
+    "bytes": "\\xbf\\xc9\\xd1\\xa1\\xc0\\xe0\\xd0\\xcd",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 211,
+    "text": "沉默寡言",
+    "bytes": "\\xb3\\xc1\\xc4\\xac\\xb9\\xd1\\xd1\\xd4",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 212,
+    "text": "建德花园",
+    "bytes": "\\xbd\\xa8\\xb5\\xc2\\xbb\\xa8\\xd4\\xb0",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 213,
+    "text": "施缄长徊",
+    "bytes": "\\xca\\xa9\\xbc\\xea\\xb3\\xa4\\xbb\\xb2",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 214,
+    "text": "贱硅何抚",
+    "bytes": "\\xbc\\xfa\\xb9\\xe8\\xba\\xce\\xb8\\xa7",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 215,
+    "text": "救沥惑怕",
+    "bytes": "\\xbe\\xc8\\xc1\\xa4\\xbb\\xf3\\xc5\\xc2",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 216,
+    "text": "蔷创蔷标",
+    "bytes": "\\xc7\\xbe\\xb4\\xb4\\xc7\\xbe\\xb1\\xea",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 217,
+    "text": "秨瓣じρ",
+    "bytes": "\\xb6\\x7d\\xb0\\xea\\xa4\\xb8\\xa6\\xd1",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 218,
+    "text": "肤痒颗粒",
+    "bytes": "\\xb7\\xf4\\xd1\\xf7\\xbf\\xc5\\xc1\\xa3",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 219,
+    "text": "瓣產诀篶",
+    "bytes": "\\xb0\\xea\\xae\\x61\\xbe\\xf7\\xba\\x63",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 220,
+    "text": "蜡府傍厘",
+    "bytes": "\\xc0\\xaf\\xb8\\xae\\xb0\\xf8\\xc0\\xe5",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 221,
+    "text": "络达日喇",
+    "bytes": "\\xc2\\xe7\\xb4\\xef\\xc8\\xd5\\xc0\\xae",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 222,
+    "text": "八方支援",
+    "bytes": "\\xb0\\xcb\\xb7\\xbd\\xd6\\xa7\\xd4\\xae",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 223,
+    "text": "交通大学",
+    "bytes": "\\xbd\\xbb\\xcd\\xa8\\xb4\\xf3\\xd1\\xa7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 224,
+    "text": "扥怱暽寣",
+    "bytes": "\\x92\\x4f\\x90\\x53\\x95\\xc9\\x8c\\x8c",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 225,
+    "text": "匣含蓝爵",
+    "bytes": "\\xcf\\xbb\\xba\\xac\\xc0\\xb6\\xbe\\xf4",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 226,
+    "text": "啊傈矫厘",
+    "bytes": "\\xb0\\xa1\\xc0\\xfc\\xbd\\xc3\\xc0\\xe5",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 227,
+    "text": "家乐鸡精",
+    "bytes": "\\xbc\\xd2\\xc0\\xd6\\xbc\\xa6\\xbe\\xab",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 228,
+    "text": "类型推断",
+    "bytes": "\\xc0\\xe0\\xd0\\xcd\\xcd\\xc6\\xb6\\xcf",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 229,
+    "text": "技术资讯",
+    "bytes": "\\xbc\\xbc\\xca\\xf5\\xd7\\xca\\xd1\\xb6",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 230,
+    "text": "卿卿我我",
+    "bytes": "\\xc7\\xe4\\xc7\\xe4\\xce\\xd2\\xce\\xd2",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 231,
+    "text": "自出机杼",
+    "bytes": "\\xd7\\xd4\\xb3\\xf6\\xbb\\xfa\\xe8\\xcc",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 232,
+    "text": "祷窖回瞥",
+    "bytes": "\\xb5\\xbb\\xbd\\xd1\\xbb\\xd8\\xc6\\xb3",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 233,
+    "text": "闻风而逃",
+    "bytes": "\\xce\\xc5\\xb7\\xe7\\xb6\\xf8\\xcc\\xd3",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 234,
+    "text": "扁充拳企",
+    "bytes": "\\xb1\\xe2\\xb3\\xe4\\xc8\\xad\\xc6\\xf3",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 235,
+    "text": "老傈何摹",
+    "bytes": "\\xc0\\xcf\\xc0\\xfc\\xba\\xce\\xc4\\xa1",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 236,
+    "text": "预测模型",
+    "bytes": "\\xd4\\xa4\\xb2\\xe2\\xc4\\xa3\\xd0\\xcd",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 237,
+    "text": "叫蜗妨及",
+    "bytes": "\\xbd\\xd0\\xce\\xcf\\xb7\\xc1\\xbc\\xb0",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 238,
+    "text": "堿擷悈庮",
+    "bytes": "\\x89\\x41\\x94\\x58\\x90\\x85\\x8e\\xee",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 239,
+    "text": "油气资源",
+    "bytes": "\\xd3\\xcd\\xc6\\xf8\\xd7\\xca\\xd4\\xb4",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 240,
+    "text": "嬻灆嫑栚",
+    "bytes": "\\x8b\\xf3\\x9e\\x99\\x8b\\x9b\\x96\\xda",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 241,
+    "text": "配剧搬钦",
+    "bytes": "\\xc5\\xe4\\xbe\\xe7\\xb0\\xe1\\xc7\\xd5",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 242,
+    "text": "存乎一心",
+    "bytes": "\\xb4\\xe6\\xba\\xf5\\xd2\\xbb\\xd0\\xc4",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 243,
+    "text": "暥壔朶椡",
+    "bytes": "\\x95\\xb6\\x89\\xbb\\x96\\x5c\\x97\\xcd",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 244,
+    "text": "角眉版力",
+    "bytes": "\\xbd\\xc7\\xc3\\xbc\\xb0\\xe6\\xc1\\xa6",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 245,
+    "text": "耀武胡同",
+    "bytes": "\\xd2\\xab\\xce\\xe4\\xba\\xfa\\xcd\\xac",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 246,
+    "text": "即时查询",
+    "bytes": "\\xbc\\xb4\\xca\\xb1\\xb2\\xe9\\xd1\\xaf",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 247,
+    "text": "杒屲枴巕",
+    "bytes": "\\x96\\x6b\\x8c\\xdc\\x96\\xa1\\x8e\\x71",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 248,
+    "text": "别树一帜",
+    "bytes": "\\xb1\\xf0\\xca\\xf7\\xd2\\xbb\\xd6\\xc4",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 249,
+    "text": "螟秆螟だ",
+    "bytes": "\\xc3\\xf8\\xb8\\xd1\\xc3\\xf8\\xa4\\xc0",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 250,
+    "text": "角巩膜缘",
+    "bytes": "\\xbd\\xc7\\xb9\\xae\\xc4\\xa4\\xd4\\xb5",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 251,
+    "text": "僀僇鄒傔",
+    "bytes": "\\x83\\x43\\x83\\x4a\\xe0\\x75\\x82\\xdf",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 252,
+    "text": "酒泉抢度",
+    "bytes": "\\xbe\\xc6\\xc8\\xaa\\xc7\\xc0\\xb6\\xc8",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 253,
+    "text": "曲面拼接",
+    "bytes": "\\xc7\\xfa\\xc3\\xe6\\xc6\\xb4\\xbd\\xd3",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 254,
+    "text": "执行董事",
+    "bytes": "\\xd6\\xb4\\xd0\\xd0\\xb6\\xad\\xca\\xc2",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 255,
+    "text": "捠壿曐帩",
+    "bytes": "\\x92\\xca\\x89\\xdd\\x95\\xdb\\x8e\\x9d",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 256,
+    "text": "苦尽甘来",
+    "bytes": "\\xbf\\xe0\\xbe\\xa1\\xb8\\xca\\xc0\\xb4",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 257,
+    "text": "原子广播",
+    "bytes": "\\xd4\\xad\\xd7\\xd3\\xb9\\xe3\\xb2\\xa5",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 258,
+    "text": "帀朾慻怐",
+    "bytes": "\\x8e\\x89\\x96\\x62\\x91\\x67\\x90\\x44",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 259,
+    "text": "至圣先师",
+    "bytes": "\\xd6\\xc1\\xca\\xa5\\xcf\\xc8\\xca\\xa6",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 260,
+    "text": "搭跑哎弛",
+    "bytes": "\\xb4\\xee\\xc5\\xdc\\xb0\\xa5\\xb3\\xda",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 261,
+    "text": "斌侣瓜穝",
+    "bytes": "\\xb1\\xf3\\xc2\\xc2\\xb9\\xcf\\xb7\\x73",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 262,
+    "text": "瘤开烹钦",
+    "bytes": "\\xc1\\xf6\\xbf\\xaa\\xc5\\xeb\\xc7\\xd5",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 263,
+    "text": "硄ノよ猭",
+    "bytes": "\\xb3\\x71\\xa5\\xce\\xa4\\xe8\\xaa\\x6b",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 264,
+    "text": "老炼老籍",
+    "bytes": "\\xc0\\xcf\\xc1\\xb6\\xc0\\xcf\\xbc\\xae",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 265,
+    "text": "委托机制",
+    "bytes": "\\xce\\xaf\\xcd\\xd0\\xbb\\xfa\\xd6\\xc6",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 266,
+    "text": "笨瓢借数",
+    "bytes": "\\xb1\\xbf\\xc6\\xb0\\xbd\\xe8\\xca\\xfd",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 267,
+    "text": "芮吉瘗纬",
+    "bytes": "\\xdc\\xc7\\xbc\\xaa\\xf0\\xf9\\xce\\xb3",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 268,
+    "text": "技术研发",
+    "bytes": "\\xbc\\xbc\\xca\\xf5\\xd1\\xd0\\xb7\\xa2",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 269,
+    "text": "白耳画眉",
+    "bytes": "\\xb0\\xd7\\xb6\\xfa\\xbb\\xad\\xc3\\xbc",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 270,
+    "text": "玸翬筂偿",
+    "bytes": "\\xab\\x73\\xc2\\x45\\xb9\\x4d\\xb3\\xa5",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 271,
+    "text": "中文分词",
+    "bytes": "\\xd6\\xd0\\xce\\xc4\\xb7\\xd6\\xb4\\xca",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 272,
+    "text": "背腊磊丰",
+    "bytes": "\\xb1\\xb3\\xc0\\xb0\\xc0\\xda\\xb7\\xe1",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 273,
+    "text": "湿法制粒",
+    "bytes": "\\xca\\xaa\\xb7\\xa8\\xd6\\xc6\\xc1\\xa3",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 274,
+    "text": "视频网站",
+    "bytes": "\\xca\\xd3\\xc6\\xb5\\xcd\\xf8\\xd5\\xbe",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 275,
+    "text": "冉年射规",
+    "bytes": "\\xc8\\xbd\\xc4\\xea\\xc9\\xe4\\xb9\\xe6",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 276,
+    "text": "绡纟冯佬",
+    "bytes": "\\xe7\\xaf\\xe6\\xf9\\xb7\\xeb\\xc0\\xd0",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 277,
+    "text": "舅灰挛陕",
+    "bytes": "\\xbe\\xcb\\xbb\\xd2\\xc2\\xce\\xc9\\xc2",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 278,
+    "text": "名不虚传",
+    "bytes": "\\xc3\\xfb\\xb2\\xbb\\xd0\\xe9\\xb4\\xab",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 279,
+    "text": "矢机磅湖",
+    "bytes": "\\xca\\xb8\\xbb\\xfa\\xb0\\xf5\\xba\\xfe",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 280,
+    "text": "驮绅刚票",
+    "bytes": "\\xcd\\xd4\\xc9\\xf0\\xb8\\xd5\\xc6\\xb1",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 281,
+    "text": "铁板钉钉",
+    "bytes": "\\xcc\\xfa\\xb0\\xe5\\xb6\\xa4\\xb6\\xa4",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 282,
+    "text": "办丹谊喇",
+    "bytes": "\\xb0\\xec\\xb5\\xa4\\xd2\\xea\\xc0\\xae",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 283,
+    "text": "笴栏励猭",
+    "bytes": "\\xb9\\x43\\xc0\\xb8\\xc0\\xf8\\xaa\\x6b",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 284,
+    "text": "夸窍琼贾",
+    "bytes": "\\xbf\\xe4\\xc7\\xcf\\xc7\\xed\\xbc\\xd6",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 285,
+    "text": "筂菌ヘ魁",
+    "bytes": "\\xb9\\x4d\\xbe\\xfa\\xa5\\xd8\\xbf\\xfd",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 286,
+    "text": "蜡荐青款",
+    "bytes": "\\xc0\\xaf\\xbc\\xf6\\xc7\\xe0\\xbf\\xee",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 287,
+    "text": "妇婴医院",
+    "bytes": "\\xb8\\xbe\\xd3\\xa4\\xd2\\xbd\\xd4\\xba",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 288,
+    "text": "亲子鉴定",
+    "bytes": "\\xc7\\xd7\\xd7\\xd3\\xbc\\xf8\\xb6\\xa8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 289,
+    "text": "通信机制",
+    "bytes": "\\xcd\\xa8\\xd0\\xc5\\xbb\\xfa\\xd6\\xc6",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 290,
+    "text": "底层知识",
+    "bytes": "\\xb5\\xd7\\xb2\\xe3\\xd6\\xaa\\xca\\xb6",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 291,
+    "text": "办崇弥垂",
+    "bytes": "\\xb0\\xec\\xb3\\xe7\\xc3\\xd6\\xb4\\xb9",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 292,
+    "text": "膀娄洛厩",
+    "bytes": "\\xb0\\xf2\\xc2\\xa6\\xc2\\xe5\\xbe\\xc7",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 293,
+    "text": "不明不白",
+    "bytes": "\\xb2\\xbb\\xc3\\xf7\\xb2\\xbb\\xb0\\xd7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 294,
+    "text": "清汤抄手",
+    "bytes": "\\xc7\\xe5\\xcc\\xc0\\xb3\\xad\\xca\\xd6",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 295,
+    "text": "街心公园",
+    "bytes": "\\xbd\\xd6\\xd0\\xc4\\xb9\\xab\\xd4\\xb0",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 296,
+    "text": "市区街道",
+    "bytes": "\\xca\\xd0\\xc7\\xf8\\xbd\\xd6\\xb5\\xc0",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 297,
+    "text": "经济开发",
+    "bytes": "\\xbe\\xad\\xbc\\xc3\\xbf\\xaa\\xb7\\xa2",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 298,
+    "text": "预防接种",
+    "bytes": "\\xd4\\xa4\\xb7\\xc0\\xbd\\xd3\\xd6\\xd6",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 299,
+    "text": "行云流水",
+    "bytes": "\\xd0\\xd0\\xd4\\xc6\\xc1\\xf7\\xcb\\xae",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 300,
+    "text": "水火之中",
+    "bytes": "\\xcb\\xae\\xbb\\xf0\\xd6\\xae\\xd6\\xd0",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 301,
+    "text": "阳子问其故",
+    "bytes": "\\xd1\\xf4\\xd7\\xd3\\xce\\xca\\xc6\\xe4\\xb9\\xca",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 302,
+    "text": "橇肺弃府胶",
+    "bytes": "\\xc7\\xc1\\xb7\\xce\\xc6\\xfa\\xb8\\xae\\xbd\\xba",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 303,
+    "text": "芉荒粹觟喱",
+    "bytes": "\\xc6\\x51\\xbb\\xc4\\xb4\\xe2\\xd3\\x69\\xe0\\xac",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 304,
+    "text": "矫治心理学",
+    "bytes": "\\xbd\\xc3\\xd6\\xce\\xd0\\xc4\\xc0\\xed\\xd1\\xa7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 305,
+    "text": "辆啊焊绊辑",
+    "bytes": "\\xc1\\xbe\\xb0\\xa1\\xba\\xb8\\xb0\\xed\\xbc\\xad",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 306,
+    "text": "结构型模式",
+    "bytes": "\\xbd\\xe1\\xb9\\xb9\\xd0\\xcd\\xc4\\xa3\\xca\\xbd",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 307,
+    "text": "寄存器长度",
+    "bytes": "\\xbc\\xc4\\xb4\\xe6\\xc6\\xf7\\xb3\\xa4\\xb6\\xc8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 308,
+    "text": "流动资金量",
+    "bytes": "\\xc1\\xf7\\xb6\\xaf\\xd7\\xca\\xbd\\xf0\\xc1\\xbf",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 309,
+    "text": "狼磊殿罐捞",
+    "bytes": "\\xc0\\xc7\\xc0\\xda\\xb5\\xee\\xb9\\xde\\xc0\\xcc",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 310,
+    "text": "指压止血法",
+    "bytes": "\\xd6\\xb8\\xd1\\xb9\\xd6\\xb9\\xd1\\xaa\\xb7\\xa8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 311,
+    "text": "邓禄普轮胎",
+    "bytes": "\\xb5\\xcb\\xc2\\xbb\\xc6\\xd5\\xc2\\xd6\\xcc\\xa5",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 312,
+    "text": "喉肺弊盲澄",
+    "bytes": "\\xba\\xed\\xb7\\xce\\xb1\\xd7\\xc3\\xa4\\xb3\\xce",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 313,
+    "text": "颂必バス匿",
+    "bytes": "\\xcb\\xcc\\xb1\\xd8\\xa5\\xd0\\xa5\\xb9\\xc4\\xe4",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 314,
+    "text": "法院编制法",
+    "bytes": "\\xb7\\xa8\\xd4\\xba\\xb1\\xe0\\xd6\\xc6\\xb7\\xa8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 315,
+    "text": "得其民有道",
+    "bytes": "\\xb5\\xc3\\xc6\\xe4\\xc3\\xf1\\xd3\\xd0\\xb5\\xc0",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 316,
+    "text": "稍罢を仆く",
+    "bytes": "\\xc9\\xd4\\xb0\\xd5\\xa4\\xf2\\xc6\\xcd\\xa4\\xaf",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 317,
+    "text": "摹辟窜扯辆",
+    "bytes": "\\xc4\\xa1\\xb1\\xd9\\xb4\\xdc\\xb3\\xb6\\xc1\\xbe",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 318,
+    "text": "单片机开发",
+    "bytes": "\\xb5\\xa5\\xc6\\xac\\xbb\\xfa\\xbf\\xaa\\xb7\\xa2",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 319,
+    "text": "多媒体开发",
+    "bytes": "\\xb6\\xe0\\xc3\\xbd\\xcc\\xe5\\xbf\\xaa\\xb7\\xa2",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 320,
+    "text": "装饰器模式",
+    "bytes": "\\xd7\\xb0\\xca\\xce\\xc6\\xf7\\xc4\\xa3\\xca\\xbd",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 321,
+    "text": "巚偄傪堚偡",
+    "bytes": "\\x8e\\x76\\x82\\xa2\\x82\\xf0\\x88\\xe2\\x82\\xb7",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 322,
+    "text": "捐霸富窍扁",
+    "bytes": "\\xbe\\xe8\\xb0\\xd4\\xb8\\xbb\\xc7\\xcf\\xb1\\xe2",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 323,
+    "text": "北杏猪肺汤",
+    "bytes": "\\xb1\\xb1\\xd0\\xd3\\xd6\\xed\\xb7\\xce\\xcc\\xc0",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 324,
+    "text": "右前门玻璃",
+    "bytes": "\\xd3\\xd2\\xc7\\xb0\\xc3\\xc5\\xb2\\xa3\\xc1\\xa7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 325,
+    "text": "快嚼霸焊促",
+    "bytes": "\\xbf\\xec\\xbd\\xc0\\xb0\\xd4\\xba\\xb8\\xb4\\xd9",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 326,
+    "text": "一朝被谗言",
+    "bytes": "\\xd2\\xbb\\xb3\\xaf\\xb1\\xbb\\xb2\\xf7\\xd1\\xd4",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 327,
+    "text": "大黄附子汤",
+    "bytes": "\\xb4\\xf3\\xbb\\xc6\\xb8\\xbd\\xd7\\xd3\\xcc\\xc0",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 328,
+    "text": "萎れに骄う",
+    "bytes": "\\xce\\xae\\xa4\\xec\\xa4\\xcb\\xbd\\xbe\\xa4\\xa6",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 329,
+    "text": "矫胶袍八刘",
+    "bytes": "\\xbd\\xc3\\xbd\\xba\\xc5\\xdb\\xb0\\xcb\\xc1\\xf5",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 330,
+    "text": "耻撮烫瘩妨",
+    "bytes": "\\xb3\\xdc\\xb4\\xe9\\xcc\\xcc\\xb4\\xf1\\xb7\\xc1",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 331,
+    "text": "黎家竹筒饭",
+    "bytes": "\\xc0\\xe8\\xbc\\xd2\\xd6\\xf1\\xcd\\xb2\\xb7\\xb9",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 332,
+    "text": "韭菜炒河虾",
+    "bytes": "\\xbe\\xc2\\xb2\\xcb\\xb3\\xb4\\xba\\xd3\\xcf\\xba",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 333,
+    "text": "忱惮Ё癌皊",
+    "bytes": "\\xb3\\xc0\\xb5\\xac\\xa7\\xa7\\xb0\\xa9\\xb0\\x73",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 334,
+    "text": "卡托普利片",
+    "bytes": "\\xbf\\xa8\\xcd\\xd0\\xc6\\xd5\\xc0\\xfb\\xc6\\xac",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 335,
+    "text": "晄掕曽掱幃",
+    "bytes": "\\x95\\x73\\x92\\xe8\\x95\\xfb\\x92\\xf6\\x8e\\xae",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 336,
+    "text": "苯妥英钠片",
+    "bytes": "\\xb1\\xbd\\xcd\\xd7\\xd3\\xa2\\xc4\\xc6\\xc6\\xac",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 337,
+    "text": "屆時偵怴庰",
+    "bytes": "\\x8c\\xc3\\x95\\x72\\x82\\xc9\\x90\\x56\\x8e\\xf0",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 338,
+    "text": "梨の却け程",
+    "bytes": "\\xc0\\xe6\\xa4\\xce\\xc8\\xb4\\xa4\\xb1\\xb3\\xcc",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 339,
+    "text": "市场主体法",
+    "bytes": "\\xca\\xd0\\xb3\\xa1\\xd6\\xf7\\xcc\\xe5\\xb7\\xa8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 340,
+    "text": "畴阑蝴父档",
+    "bytes": "\\xb3\\xeb\\xc0\\xbb\\xba\\xfb\\xb8\\xb8\\xb5\\xb5",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 341,
+    "text": "档肺惑炔窍",
+    "bytes": "\\xb5\\xb5\\xb7\\xce\\xbb\\xf3\\xc8\\xb2\\xc7\\xcf",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 342,
+    "text": "儌僼僇僀僐",
+    "bytes": "\\x83\\x82\\x83\\x74\\x83\\x4a\\x83\\x43\\x83\\x52",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 343,
+    "text": "蜡傈距府切",
+    "bytes": "\\xc0\\xaf\\xc0\\xfc\\xbe\\xe0\\xb8\\xae\\xc7\\xd0",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 344,
+    "text": "ゑㄈ瓆栋刮",
+    "bytes": "\\xa4\\xf1\\xa8\\xc8\\xad\\x7d\\xb6\\xb0\\xb9\\xce",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 345,
+    "text": "单用户模式",
+    "bytes": "\\xb5\\xa5\\xd3\\xc3\\xbb\\xa7\\xc4\\xa3\\xca\\xbd",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 346,
+    "text": "滚胶磐固澄",
+    "bytes": "\\xb9\\xf6\\xbd\\xba\\xc5\\xcd\\xb9\\xcc\\xb3\\xce",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 347,
+    "text": "矿用自卸车",
+    "bytes": "\\xbf\\xf3\\xd3\\xc3\\xd7\\xd4\\xd0\\xb6\\xb3\\xb5",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 348,
+    "text": "锄魂烹母蕉",
+    "bytes": "\\xb3\\xfa\\xbb\\xea\\xc5\\xeb\\xc4\\xb8\\xbd\\xb6",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 349,
+    "text": "市建四公司",
+    "bytes": "\\xca\\xd0\\xbd\\xa8\\xcb\\xc4\\xb9\\xab\\xcb\\xbe",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 350,
+    "text": "攛惈怱憻昦",
+    "bytes": "\\x94\\x78\\x90\\xab\\x90\\x53\\x91\\x9f\\x95\\x61",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 351,
+    "text": "惰粗カバ〖",
+    "bytes": "\\xb6\\xe8\\xb4\\xd6\\xa5\\xab\\xa5\\xd0\\xa1\\xbc",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 352,
+    "text": "橇肺技胶档",
+    "bytes": "\\xc7\\xc1\\xb7\\xce\\xbc\\xbc\\xbd\\xba\\xb5\\xb5",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 353,
+    "text": "芝士蛋堡餐",
+    "bytes": "\\xd6\\xa5\\xca\\xbf\\xb5\\xb0\\xb1\\xa4\\xb2\\xcd",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 354,
+    "text": "脾肺气虚证",
+    "bytes": "\\xc6\\xa2\\xb7\\xce\\xc6\\xf8\\xd0\\xe9\\xd6\\xa4",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 355,
+    "text": "鸟哥私房菜",
+    "bytes": "\\xc4\\xf1\\xb8\\xe7\\xcb\\xbd\\xb7\\xbf\\xb2\\xcb",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 356,
+    "text": "趋厘窜归龙",
+    "bytes": "\\xc7\\xf7\\xc0\\xe5\\xb4\\xdc\\xb9\\xe9\\xc1\\xfa",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 357,
+    "text": "皮肤真菌病",
+    "bytes": "\\xc6\\xa4\\xb7\\xf4\\xd5\\xe6\\xbe\\xfa\\xb2\\xa1",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 358,
+    "text": "塤撿敀栻忶",
+    "bytes": "\\x89\\x5f\\x93\\xec\\x94\\x92\\x96\\xf2\\x8f\\xf9",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 359,
+    "text": "探究其本源",
+    "bytes": "\\xcc\\xbd\\xbe\\xbf\\xc6\\xe4\\xb1\\xbe\\xd4\\xb4",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 360,
+    "text": "嬨壺帳釋愷",
+    "bytes": "\\x8b\\xe3\\x89\\xd8\\x8e\\xa4\\xe1\\x8c\\x90\\xf0",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 361,
+    "text": "八月十八潮",
+    "bytes": "\\xb0\\xcb\\xd4\\xc2\\xca\\xae\\xb0\\xcb\\xb3\\xb1",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 362,
+    "text": "堔弅惈旲墛",
+    "bytes": "\\x88\\xde\\x8f\\x6b\\x90\\xab\\x95\\x40\\x89\\x8a",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 363,
+    "text": "最终产品法",
+    "bytes": "\\xd7\\xee\\xd6\\xd5\\xb2\\xfa\\xc6\\xb7\\xb7\\xa8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 364,
+    "text": "怴忛彫妛峑",
+    "bytes": "\\x90\\x56\\x8f\\xe9\\x8f\\xac\\x8a\\x77\\x8d\\x5a",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 365,
+    "text": "郑裕彤中学",
+    "bytes": "\\xd6\\xa3\\xd4\\xa3\\xcd\\xae\\xd6\\xd0\\xd1\\xa7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 366,
+    "text": "鹿筋壮骨酒",
+    "bytes": "\\xc2\\xb9\\xbd\\xee\\xd7\\xb3\\xb9\\xc7\\xbe\\xc6",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 367,
+    "text": "忈奞儌僨儖",
+    "bytes": "\\x8f\\xe1\\x8a\\x51\\x83\\x82\\x83\\x66\\x83\\x8b",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 368,
+    "text": "空啊龋滴户",
+    "bytes": "\\xbf\\xd5\\xb0\\xa1\\xc8\\xa3\\xb5\\xce\\xbb\\xa7",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 369,
+    "text": "微誊に叫る",
+    "bytes": "\\xce\\xa2\\xcc\\xdc\\xa4\\xcb\\xbd\\xd0\\xa4\\xeb",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 370,
+    "text": "温胃舒胶囊",
+    "bytes": "\\xce\\xc2\\xce\\xb8\\xca\\xe6\\xbd\\xba\\xc4\\xd2",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 371,
+    "text": "函疙档绝捞",
+    "bytes": "\\xba\\xaf\\xb8\\xed\\xb5\\xb5\\xbe\\xf8\\xc0\\xcc",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 372,
+    "text": "刮开快扁快",
+    "bytes": "\\xb9\\xce\\xbf\\xaa\\xbf\\xec\\xb1\\xe2\\xbf\\xec",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 373,
+    "text": "朔方路街道",
+    "bytes": "\\xcb\\xb7\\xb7\\xbd\\xc2\\xb7\\xbd\\xd6\\xb5\\xc0",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 374,
+    "text": "从头读历史",
+    "bytes": "\\xb4\\xd3\\xcd\\xb7\\xb6\\xc1\\xc0\\xfa\\xca\\xb7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 375,
+    "text": "锻压机床厂",
+    "bytes": "\\xb6\\xcd\\xd1\\xb9\\xbb\\xfa\\xb4\\xb2\\xb3\\xa7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 376,
+    "text": "独钓寒江雪",
+    "bytes": "\\xb6\\xc0\\xb5\\xf6\\xba\\xae\\xbd\\xad\\xd1\\xa9",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 377,
+    "text": "冬瓜连锅汤",
+    "bytes": "\\xb6\\xac\\xb9\\xcf\\xc1\\xac\\xb9\\xf8\\xcc\\xc0",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 378,
+    "text": "鱼头豆腐汤",
+    "bytes": "\\xd3\\xe3\\xcd\\xb7\\xb6\\xb9\\xb8\\xaf\\xcc\\xc0",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 379,
+    "text": "宊栺傪寢傇",
+    "bytes": "\\x8c\\x5f\\x96\\xf1\\x82\\xf0\\x8c\\x8b\\x82\\xd4",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 380,
+    "text": "氯雷他定片",
+    "bytes": "\\xc2\\xc8\\xc0\\xd7\\xcb\\xfb\\xb6\\xa8\\xc6\\xac",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 381,
+    "text": "驴屯な恃步",
+    "bytes": "\\xc2\\xbf\\xcd\\xcd\\xa4\\xca\\xca\\xd1\\xb2\\xbd",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 382,
+    "text": "最小圆覆盖",
+    "bytes": "\\xd7\\xee\\xd0\\xa1\\xd4\\xb2\\xb8\\xb2\\xb8\\xc7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 383,
+    "text": "惣奨彫妛峑",
+    "bytes": "\\x90\\xbc\\x8a\\x58\\x8f\\xac\\x8a\\x77\\x8d\\x5a",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 384,
+    "text": "儁乕僕峏怴",
+    "bytes": "\\x83\\x79\\x81\\x5b\\x83\\x57\\x8d\\x58\\x90\\x56",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 385,
+    "text": "栺懇偺姷椺",
+    "bytes": "\\x96\\xf1\\x91\\xa9\\x82\\xcc\\x8a\\xb5\\x97\\xe1",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 386,
+    "text": "肋霸何荐促",
+    "bytes": "\\xc0\\xdf\\xb0\\xd4\\xba\\xce\\xbc\\xf6\\xb4\\xd9",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 387,
+    "text": "使老有所终",
+    "bytes": "\\xca\\xb9\\xc0\\xcf\\xd3\\xd0\\xcb\\xf9\\xd6\\xd5",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 388,
+    "text": "嬫岞埨暘嬊",
+    "bytes": "\\x8b\\xe6\\x8c\\xf6\\x88\\xc0\\x95\\xaa\\x8b\\xc7",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 389,
+    "text": "路遥知马力",
+    "bytes": "\\xc2\\xb7\\xd2\\xa3\\xd6\\xaa\\xc2\\xed\\xc1\\xa6",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 390,
+    "text": "栘懐偲杻墿",
+    "bytes": "\\x96\\xd8\\x91\\xaf\\x82\\xc6\\x96\\x83\\x89\\xa9",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 391,
+    "text": "醾傪敽偆奝",
+    "bytes": "\\xe1\\x82\\x82\\xf0\\x94\\xba\\x82\\xa4\\x8a\\x50",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 392,
+    "text": "永安台街道",
+    "bytes": "\\xd3\\xc0\\xb0\\xb2\\xcc\\xa8\\xbd\\xd6\\xb5\\xc0",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 393,
+    "text": "过伏沥焊切",
+    "bytes": "\\xb9\\xfd\\xb7\\xfc\\xc1\\xa4\\xba\\xb8\\xc7\\xd0",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 394,
+    "text": "变应性咳嗽",
+    "bytes": "\\xb1\\xe4\\xd3\\xa6\\xd0\\xd4\\xbf\\xc8\\xcb\\xd4",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 395,
+    "text": "奜斻巵斀墳",
+    "bytes": "\\x8a\\x4f\\x94\\xe3\\x8e\\x81\\x94\\xbd\\x89\\x9e",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 396,
+    "text": "篮矫舅唯兀",
+    "bytes": "\\xc0\\xba\\xbd\\xc3\\xbe\\xcb\\xce\\xa8\\xd8\\xa3",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 397,
+    "text": "奶油蘑菇鸡",
+    "bytes": "\\xc4\\xcc\\xd3\\xcd\\xc4\\xa2\\xb9\\xbd\\xbc\\xa6",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 398,
+    "text": "博学而笃志",
+    "bytes": "\\xb2\\xa9\\xd1\\xa7\\xb6\\xf8\\xf3\\xc6\\xd6\\xbe",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 399,
+    "text": "大国多良材",
+    "bytes": "\\xb4\\xf3\\xb9\\xfa\\xb6\\xe0\\xc1\\xbc\\xb2\\xc4",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 400,
+    "text": "布洛芬颗粒",
+    "bytes": "\\xb2\\xbc\\xc2\\xe5\\xb7\\xd2\\xbf\\xc5\\xc1\\xa3",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 401,
+    "text": "盐酸曲美他嗪",
+    "bytes": "\\xd1\\xce\\xcb\\xe1\\xc7\\xfa\\xc3\\xc0\\xcb\\xfb\\xe0\\xba",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 402,
+    "text": "忠臣不谄其君",
+    "bytes": "\\xd6\\xd2\\xb3\\xbc\\xb2\\xbb\\xda\\xc6\\xc6\\xe4\\xbe\\xfd",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 403,
+    "text": "法拉利越野车",
+    "bytes": "\\xb7\\xa8\\xc0\\xad\\xc0\\xfb\\xd4\\xbd\\xd2\\xb0\\xb3\\xb5",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 404,
+    "text": "奔家胶坷府惯",
+    "bytes": "\\xb1\\xbc\\xbc\\xd2\\xbd\\xba\\xbf\\xc0\\xb8\\xae\\xb9\\xdf",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 405,
+    "text": "包惑悼钙版访",
+    "bytes": "\\xb0\\xfc\\xbb\\xf3\\xb5\\xbf\\xb8\\xc6\\xb0\\xe6\\xb7\\xc3",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 406,
+    "text": "稿券拉球柒俱",
+    "bytes": "\\xb8\\xe5\\xc8\\xaf\\xc0\\xad\\xc7\\xf2\\xc6\\xe2\\xbe\\xe3",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 407,
+    "text": "废旧金属市场",
+    "bytes": "\\xb7\\xcf\\xbe\\xc9\\xbd\\xf0\\xca\\xf4\\xca\\xd0\\xb3\\xa1",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 408,
+    "text": "合营企业章程",
+    "bytes": "\\xba\\xcf\\xd3\\xaa\\xc6\\xf3\\xd2\\xb5\\xd5\\xc2\\xb3\\xcc",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 409,
+    "text": "光化性角化病",
+    "bytes": "\\xb9\\xe2\\xbb\\xaf\\xd0\\xd4\\xbd\\xc7\\xbb\\xaf\\xb2\\xa1",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 410,
+    "text": "专用集成电路",
+    "bytes": "\\xd7\\xa8\\xd3\\xc3\\xbc\\xaf\\xb3\\xc9\\xb5\\xe7\\xc2\\xb7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 411,
+    "text": "四方之政行焉",
+    "bytes": "\\xcb\\xc4\\xb7\\xbd\\xd6\\xae\\xd5\\xfe\\xd0\\xd0\\xd1\\xc9",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 412,
+    "text": "结核性关节炎",
+    "bytes": "\\xbd\\xe1\\xba\\xcb\\xd0\\xd4\\xb9\\xd8\\xbd\\xda\\xd1\\xd7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 413,
+    "text": "东北财经大学",
+    "bytes": "\\xb6\\xab\\xb1\\xb1\\xb2\\xc6\\xbe\\xad\\xb4\\xf3\\xd1\\xa7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 414,
+    "text": "司法考试大纲",
+    "bytes": "\\xcb\\xbe\\xb7\\xa8\\xbf\\xbc\\xca\\xd4\\xb4\\xf3\\xb8\\xd9",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 415,
+    "text": "机房收费系统",
+    "bytes": "\\xbb\\xfa\\xb7\\xbf\\xca\\xd5\\xb7\\xd1\\xcf\\xb5\\xcd\\xb3",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 416,
+    "text": "從偒嫑僼傿儗",
+    "bytes": "\\x8f\\xc4\\x82\\xab\\x8b\\x9b\\x83\\x74\\x83\\x42\\x83\\x8c",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 417,
+    "text": "篮澜揣看瘗纬",
+    "bytes": "\\xc0\\xba\\xc0\\xbd\\xb4\\xa7\\xbf\\xb4\\xf0\\xf9\\xce\\xb3",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 418,
+    "text": "流盔狼丰厚侩",
+    "bytes": "\\xc1\\xf7\\xbf\\xf8\\xc0\\xc7\\xb7\\xe1\\xba\\xf1\\xbf\\xeb",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 419,
+    "text": "输锦アクチン",
+    "bytes": "\\xca\\xe4\\xbd\\xf5\\xa5\\xa2\\xa5\\xaf\\xa5\\xc1\\xa5\\xf3",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 420,
+    "text": "脚拳檬殿切背",
+    "bytes": "\\xbd\\xc5\\xc8\\xad\\xc3\\xca\\xb5\\xee\\xc7\\xd0\\xb1\\xb3",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 421,
+    "text": "堪魂抛扼炼脚",
+    "bytes": "\\xbf\\xb0\\xbb\\xea\\xc5\\xd7\\xb6\\xf3\\xc1\\xb6\\xbd\\xc5",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 422,
+    "text": "结核性脑膜炎",
+    "bytes": "\\xbd\\xe1\\xba\\xcb\\xd0\\xd4\\xc4\\xd4\\xc4\\xa4\\xd1\\xd7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 423,
+    "text": "锄趋傈饶蜡刘",
+    "bytes": "\\xb3\\xfa\\xc7\\xf7\\xc0\\xfc\\xc8\\xc4\\xc0\\xaf\\xc1\\xf5",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 424,
+    "text": "幵椉専嵏椏嬥",
+    "bytes": "\\x8e\\xd4\\x97\\xbc\\x8c\\x9f\\x8d\\xb8\\x97\\xbf\\x8b\\xe0",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 425,
+    "text": "碍力立辟力绢",
+    "bytes": "\\xb0\\xad\\xc1\\xa6\\xc1\\xa2\\xb1\\xd9\\xc1\\xa6\\xbe\\xee",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 426,
+    "text": "国家主席制度",
+    "bytes": "\\xb9\\xfa\\xbc\\xd2\\xd6\\xf7\\xcf\\xaf\\xd6\\xc6\\xb6\\xc8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 427,
+    "text": "通信基础知识",
+    "bytes": "\\xcd\\xa8\\xd0\\xc5\\xbb\\xf9\\xb4\\xa1\\xd6\\xaa\\xca\\xb6",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 428,
+    "text": "中国法学前沿",
+    "bytes": "\\xd6\\xd0\\xb9\\xfa\\xb7\\xa8\\xd1\\xa7\\xc7\\xb0\\xd1\\xd8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 429,
+    "text": "中华民国约法",
+    "bytes": "\\xd6\\xd0\\xbb\\xaa\\xc3\\xf1\\xb9\\xfa\\xd4\\xbc\\xb7\\xa8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 430,
+    "text": "大隐静脉曲张",
+    "bytes": "\\xb4\\xf3\\xd2\\xfe\\xbe\\xb2\\xc2\\xf6\\xc7\\xfa\\xd5\\xc5",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 431,
+    "text": "纷换傣部梦急",
+    "bytes": "\\xb7\\xd7\\xbb\\xbb\\xb4\\xf6\\xb2\\xbf\\xc3\\xce\\xbc\\xb1",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 432,
+    "text": "夛幮崌暪暘棫",
+    "bytes": "\\x89\\xef\\x8e\\xd0\\x8d\\x87\\x95\\xb9\\x95\\xaa\\x97\\xa7",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 433,
+    "text": "僈僜儕儞拞撆",
+    "bytes": "\\x83\\x4b\\x83\\x5c\\x83\\x8a\\x83\\x93\\x92\\x86\\x93\\xc5",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 434,
+    "text": "共同违法违纪",
+    "bytes": "\\xb9\\xb2\\xcd\\xac\\xce\\xa5\\xb7\\xa8\\xce\\xa5\\xbc\\xcd",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 435,
+    "text": "高原性心脏病",
+    "bytes": "\\xb8\\xdf\\xd4\\xad\\xd0\\xd4\\xd0\\xc4\\xd4\\xe0\\xb2\\xa1",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 436,
+    "text": "碍力笼青过切",
+    "bytes": "\\xb0\\xad\\xc1\\xa6\\xc1\\xfd\\xc7\\xe0\\xb9\\xfd\\xc7\\xd0",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 437,
+    "text": "汽车车体结构",
+    "bytes": "\\xc6\\xfb\\xb3\\xb5\\xb3\\xb5\\xcc\\xe5\\xbd\\xe1\\xb9\\xb9",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 438,
+    "text": "怴媂敀戝捠傝",
+    "bytes": "\\x90\\x56\\x8b\\x58\\x94\\x92\\x91\\xe5\\x92\\xca\\x82\\xe8",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 439,
+    "text": "财政普法读本",
+    "bytes": "\\xb2\\xc6\\xd5\\xfe\\xc6\\xd5\\xb7\\xa8\\xb6\\xc1\\xb1\\xbe",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 440,
+    "text": "促矫付坷府买",
+    "bytes": "\\xb4\\xd9\\xbd\\xc3\\xb8\\xb6\\xbf\\xc0\\xb8\\xae\\xc2\\xf2",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 441,
+    "text": "吾党有直躬者",
+    "bytes": "\\xce\\xe1\\xb5\\xb3\\xd3\\xd0\\xd6\\xb1\\xb9\\xaa\\xd5\\xdf",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 442,
+    "text": "有颜回者好学",
+    "bytes": "\\xd3\\xd0\\xd1\\xd5\\xbb\\xd8\\xd5\\xdf\\xba\\xc3\\xd1\\xa7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 443,
+    "text": "最大子矩阵和",
+    "bytes": "\\xd7\\xee\\xb4\\xf3\\xd7\\xd3\\xbe\\xd8\\xd5\\xf3\\xba\\xcd",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 444,
+    "text": "拞崙帒杮巗応",
+    "bytes": "\\x92\\x86\\x8d\\x91\\x8e\\x91\\x96\\x7b\\x8e\\x73\\x8f\\xea",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 445,
+    "text": "崙壠奐敪嬧峴",
+    "bytes": "\\x8d\\x91\\x89\\xc6\\x8a\\x4a\\x94\\xad\\x8b\\xe2\\x8d\\x73",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 446,
+    "text": "簇簇歌台舞榭",
+    "bytes": "\\xb4\\xd8\\xb4\\xd8\\xb8\\xe8\\xcc\\xa8\\xce\\xe8\\xe9\\xbf",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 447,
+    "text": "墌宍儊僯儏乕",
+    "bytes": "\\x89\\x7e\\x8c\\x60\\x83\\x81\\x83\\x6a\\x83\\x85\\x81\\x5b",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 448,
+    "text": "国有独资企业",
+    "bytes": "\\xb9\\xfa\\xd3\\xd0\\xb6\\xc0\\xd7\\xca\\xc6\\xf3\\xd2\\xb5",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 449,
+    "text": "右前车门玻璃",
+    "bytes": "\\xd3\\xd2\\xc7\\xb0\\xb3\\xb5\\xc3\\xc5\\xb2\\xa3\\xc1\\xa7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 450,
+    "text": "祁叠衡沸络池",
+    "bytes": "\\xc6\\xee\\xb5\\xfe\\xba\\xe2\\xb7\\xd0\\xc2\\xe7\\xb3\\xd8",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 451,
+    "text": "撿屛幚尡彫妛",
+    "bytes": "\\x93\\xec\\x8c\\xce\\x8e\\xc0\\x8c\\xb1\\x8f\\xac\\x8a\\x77",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 452,
+    "text": "巌朄帋尡戝峧",
+    "bytes": "\\x8e\\x69\\x96\\x40\\x8e\\x8e\\x8c\\xb1\\x91\\xe5\\x8d\\x6a",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 453,
+    "text": "僯儊僗儕僪忶",
+    "bytes": "\\x83\\x6a\\x83\\x81\\x83\\x58\\x83\\x8a\\x83\\x68\\x8f\\xf9",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 454,
+    "text": "柜旁アパ〖ト",
+    "bytes": "\\xb9\\xf1\\xc5\\xd4\\xa5\\xa2\\xa5\\xd1\\xa1\\xbc\\xa5\\xc8",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 455,
+    "text": "法院强制执行",
+    "bytes": "\\xb7\\xa8\\xd4\\xba\\xc7\\xbf\\xd6\\xc6\\xd6\\xb4\\xd0\\xd0",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 456,
+    "text": "力前前龙皑刀",
+    "bytes": "\\xc1\\xa6\\xc7\\xb0\\xc7\\xb0\\xc1\\xfa\\xb0\\xa8\\xb5\\xb6",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 457,
+    "text": "广告发布合同",
+    "bytes": "\\xb9\\xe3\\xb8\\xe6\\xb7\\xa2\\xb2\\xbc\\xba\\xcf\\xcd\\xac",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 458,
+    "text": "预防口腔医学",
+    "bytes": "\\xd4\\xa4\\xb7\\xc0\\xbf\\xda\\xc7\\xbb\\xd2\\xbd\\xd1\\xa7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 459,
+    "text": "屄恖懱宱嵪朄",
+    "bytes": "\\x8c\\xc2\\x90\\x6c\\x91\\xcc\\x8c\\x6f\\x8d\\xcf\\x96\\x40",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 460,
+    "text": "僿僥儘愙崌懱",
+    "bytes": "\\x83\\x77\\x83\\x65\\x83\\x8d\\x90\\xda\\x8d\\x87\\x91\\xcc",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 461,
+    "text": "解放西街街道",
+    "bytes": "\\xbd\\xe2\\xb7\\xc5\\xce\\xf7\\xbd\\xd6\\xbd\\xd6\\xb5\\xc0",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 462,
+    "text": "ル〖プの鸥倡",
+    "bytes": "\\xa5\\xeb\\xa1\\xbc\\xa5\\xd7\\xa4\\xce\\xc5\\xb8\\xb3\\xab",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 463,
+    "text": "理顺外贸体制",
+    "bytes": "\\xc0\\xed\\xcb\\xb3\\xcd\\xe2\\xc3\\xb3\\xcc\\xe5\\xd6\\xc6",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 464,
+    "text": "风湿骨痛胶囊",
+    "bytes": "\\xb7\\xe7\\xca\\xaa\\xb9\\xc7\\xcd\\xb4\\xbd\\xba\\xc4\\xd2",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 465,
+    "text": "柜踩倡券朵乖",
+    "bytes": "\\xb9\\xf1\\xb2\\xc8\\xb3\\xab\\xc8\\xaf\\xb6\\xe4\\xb9\\xd4",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 466,
+    "text": "呼隔硄癟祘Α",
+    "bytes": "\\xba\\xf4\\xb8\\xf4\\xb3\\x71\\xb0\\x54\\xb5\\x7b\\xa6\\xa1",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 467,
+    "text": "快茄过伏惑淬",
+    "bytes": "\\xbf\\xec\\xc7\\xd1\\xb9\\xfd\\xb7\\xfc\\xbb\\xf3\\xb4\\xe3",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 468,
+    "text": "尅媿惎偲怐昉",
+    "bytes": "\\x8c\\xa1\\x8b\\x8d\\x90\\xaf\\x82\\xc6\\x90\\x44\\x95\\x50",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 469,
+    "text": "超越使用范围",
+    "bytes": "\\xb3\\xac\\xd4\\xbd\\xca\\xb9\\xd3\\xc3\\xb7\\xb6\\xce\\xa7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 470,
+    "text": "企业一般制度",
+    "bytes": "\\xc6\\xf3\\xd2\\xb5\\xd2\\xbb\\xb0\\xe3\\xd6\\xc6\\xb6\\xc8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 471,
+    "text": "死刑复核裁定",
+    "bytes": "\\xcb\\xc0\\xd0\\xcc\\xb8\\xb4\\xba\\xcb\\xb2\\xc3\\xb6\\xa8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 472,
+    "text": "﹀睪硓猂筁耾",
+    "bytes": "\\xa6\\xe5\\xb2\\x47\\xb3\\x7a\\xaa\\x52\\xb9\\x4c\\xc2\\x6f",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 473,
+    "text": "挌偼挌塊偼塊",
+    "bytes": "\\x92\\x9a\\x82\\xcd\\x92\\x9a\\x89\\x4b\\x82\\xcd\\x89\\x4b",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 474,
+    "text": "江苏省江阴市",
+    "bytes": "\\xbd\\xad\\xcb\\xd5\\xca\\xa1\\xbd\\xad\\xd2\\xf5\\xca\\xd0",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 475,
+    "text": "篓祸驴く墩ぶ",
+    "bytes": "\\xc2\\xa8\\xbb\\xf6\\xc2\\xbf\\xa4\\xaf\\xb6\\xd5\\xa4\\xd6",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 476,
+    "text": "卡他性结膜炎",
+    "bytes": "\\xbf\\xa8\\xcb\\xfb\\xd0\\xd4\\xbd\\xe1\\xc4\\xa4\\xd1\\xd7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 477,
+    "text": "真菌性角膜炎",
+    "bytes": "\\xd5\\xe6\\xbe\\xfa\\xd0\\xd4\\xbd\\xc7\\xc4\\xa4\\xd1\\xd7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 478,
+    "text": "吹绉一池春水",
+    "bytes": "\\xb4\\xb5\\xe7\\xa7\\xd2\\xbb\\xb3\\xd8\\xb4\\xba\\xcb\\xae",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 479,
+    "text": "垻銹僇僾僙儖",
+    "bytes": "\\x88\\xa2\\xe4\\x50\\x83\\x4a\\x83\\x76\\x83\\x5a\\x83\\x8b",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 480,
+    "text": "促窜拌乔靛归",
+    "bytes": "\\xb4\\xd9\\xb4\\xdc\\xb0\\xe8\\xc7\\xc7\\xb5\\xe5\\xb9\\xe9",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 481,
+    "text": "进气道转换阀",
+    "bytes": "\\xbd\\xf8\\xc6\\xf8\\xb5\\xc0\\xd7\\xaa\\xbb\\xbb\\xb7\\xa7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 482,
+    "text": "企业集团战略",
+    "bytes": "\\xc6\\xf3\\xd2\\xb5\\xbc\\xaf\\xcd\\xc5\\xd5\\xbd\\xc2\\xd4",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 483,
+    "text": "中国喇叭水母",
+    "bytes": "\\xd6\\xd0\\xb9\\xfa\\xc0\\xae\\xb0\\xc8\\xcb\\xae\\xc4\\xb8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 484,
+    "text": "萌思怠酷叫庚",
+    "bytes": "\\xc3\\xc8\\xcb\\xbc\\xb5\\xa1\\xbf\\xe1\\xbd\\xd0\\xb8\\xfd",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 485,
+    "text": "积扁惯饿窍促",
+    "bytes": "\\xbb\\xfd\\xb1\\xe2\\xb9\\xdf\\xb6\\xf6\\xc7\\xcf\\xb4\\xd9",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 486,
+    "text": "紫米四喜汤圆",
+    "bytes": "\\xd7\\xcf\\xc3\\xd7\\xcb\\xc4\\xcf\\xb2\\xcc\\xc0\\xd4\\xb2",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 487,
+    "text": "钩付钩挛瓤炳",
+    "bytes": "\\xb9\\xb3\\xb8\\xb6\\xb9\\xb3\\xc2\\xce\\xc8\\xbf\\xb1\\xfe",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 488,
+    "text": "惫力过盔痹距",
+    "bytes": "\\xb1\\xb9\\xc1\\xa6\\xb9\\xfd\\xbf\\xf8\\xb1\\xd4\\xbe\\xe0",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 489,
+    "text": "曽朄屇傃弌偟",
+    "bytes": "\\x95\\xfb\\x96\\x40\\x8c\\xc4\\x82\\xd1\\x8f\\x6f\\x82\\xb5",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 490,
+    "text": "普通型偏头痛",
+    "bytes": "\\xc6\\xd5\\xcd\\xa8\\xd0\\xcd\\xc6\\xab\\xcd\\xb7\\xcd\\xb4",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 491,
+    "text": "ハ〖ドリンク",
+    "bytes": "\\xa5\\xcf\\xa1\\xbc\\xa5\\xc9\\xa5\\xea\\xa5\\xf3\\xa5\\xaf",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 492,
+    "text": "舅绊府硫楷备",
+    "bytes": "\\xbe\\xcb\\xb0\\xed\\xb8\\xae\\xc1\\xf2\\xbf\\xac\\xb1\\xb8",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 493,
+    "text": "企业经营决策",
+    "bytes": "\\xc6\\xf3\\xd2\\xb5\\xbe\\xad\\xd3\\xaa\\xbe\\xf6\\xb2\\xdf",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 494,
+    "text": "络牟遁柒魄燎",
+    "bytes": "\\xc2\\xe7\\xc4\\xb2\\xb6\\xdd\\xc6\\xe2\\xc6\\xc7\\xc1\\xc7",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 495,
+    "text": "傗傓傪摼側偄",
+    "bytes": "\\x82\\xe2\\x82\\xde\\x82\\xf0\\x93\\xbe\\x82\\xc8\\x82\\xa2",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 496,
+    "text": "一条道走到黑",
+    "bytes": "\\xd2\\xbb\\xcc\\xf5\\xb5\\xc0\\xd7\\xdf\\xb5\\xbd\\xba\\xda",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 497,
+    "text": "テキスト弥垂",
+    "bytes": "\\xa5\\xc6\\xa5\\xad\\xa5\\xb9\\xa5\\xc8\\xc3\\xd6\\xb4\\xb9",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 498,
+    "text": "血府逐瘀胶囊",
+    "bytes": "\\xd1\\xaa\\xb8\\xae\\xd6\\xf0\\xf0\\xf6\\xbd\\xba\\xc4\\xd2",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 499,
+    "text": "何葛傈力林狼",
+    "bytes": "\\xba\\xce\\xb8\\xf0\\xc0\\xfc\\xc1\\xa6\\xc1\\xd6\\xc0\\xc7",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 500,
+    "text": "隐式类型转换",
+    "bytes": "\\xd2\\xfe\\xca\\xbd\\xc0\\xe0\\xd0\\xcd\\xd7\\xaa\\xbb\\xbb",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 501,
+    "text": "偦傟埲壓偺傕偺",
+    "bytes": "\\x82\\xbb\\x82\\xea\\x88\\xc8\\x89\\xba\\x82\\xcc\\x82\\xe0\\x82\\xcc",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 502,
+    "text": "橇肺弊伐农贰矫",
+    "bytes": "\\xc7\\xc1\\xb7\\xce\\xb1\\xd7\\xb7\\xa5\\xc5\\xa9\\xb7\\xa1\\xbd\\xc3",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 503,
+    "text": "僞僀幃僇儗乕奍",
+    "bytes": "\\x83\\x5e\\x83\\x43\\x8e\\xae\\x83\\x4a\\x83\\x8c\\x81\\x5b\\x8a\\x49",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 504,
+    "text": "忠言逆耳利于行",
+    "bytes": "\\xd6\\xd2\\xd1\\xd4\\xc4\\xe6\\xb6\\xfa\\xc0\\xfb\\xd3\\xda\\xd0\\xd0",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 505,
+    "text": "矫流诀背腊季磐",
+    "bytes": "\\xbd\\xc3\\xc1\\xf7\\xbe\\xf7\\xb1\\xb3\\xc0\\xb0\\xbc\\xbe\\xc5\\xcd",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 506,
+    "text": "棳峴惈擼悜枌墛",
+    "bytes": "\\x97\\xac\\x8d\\x73\\x90\\xab\\x94\\x5d\\x90\\x91\\x96\\x8c\\x89\\x8a",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 507,
+    "text": "绊拳龙炮饭厚傈",
+    "bytes": "\\xb0\\xed\\xc8\\xad\\xc1\\xfa\\xc5\\xda\\xb7\\xb9\\xba\\xf1\\xc0\\xfc",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 508,
+    "text": "脚祈惫力版力过",
+    "bytes": "\\xbd\\xc5\\xc6\\xed\\xb1\\xb9\\xc1\\xa6\\xb0\\xe6\\xc1\\xa6\\xb9\\xfd",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 509,
+    "text": "七味糖脉舒胶囊",
+    "bytes": "\\xc6\\xdf\\xce\\xb6\\xcc\\xc7\\xc2\\xf6\\xca\\xe6\\xbd\\xba\\xc4\\xd2",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 510,
+    "text": "肥厚性幽门狭窄",
+    "bytes": "\\xb7\\xca\\xba\\xf1\\xd0\\xd4\\xd3\\xc4\\xc3\\xc5\\xcf\\xc1\\xd5\\xad",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 511,
+    "text": "为之符玺以信之",
+    "bytes": "\\xce\\xaa\\xd6\\xae\\xb7\\xfb\\xe7\\xf4\\xd2\\xd4\\xd0\\xc5\\xd6\\xae",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 512,
+    "text": "千树万树梨花开",
+    "bytes": "\\xc7\\xa7\\xca\\xf7\\xcd\\xf2\\xca\\xf7\\xc0\\xe6\\xbb\\xa8\\xbf\\xaa",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 513,
+    "text": "彑晧傪晅偗側偄",
+    "bytes": "\\x8f\\x9f\\x95\\x89\\x82\\xf0\\x95\\x74\\x82\\xaf\\x82\\xc8\\x82\\xa2",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 514,
+    "text": "グロ〖バル衡沸",
+    "bytes": "\\xa5\\xb0\\xa5\\xed\\xa1\\xbc\\xa5\\xd0\\xa5\\xeb\\xba\\xe2\\xb7\\xd0",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 515,
+    "text": "媡揮幨僂僀儖僗",
+    "bytes": "\\x8b\\x74\\x93\\x5d\\x8e\\xca\\x83\\x45\\x83\\x43\\x83\\x8b\\x83\\x58",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 516,
+    "text": "为谁憔悴损芳姿",
+    "bytes": "\\xce\\xaa\\xcb\\xad\\xe3\\xbe\\xe3\\xb2\\xcb\\xf0\\xb7\\xbc\\xd7\\xcb",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 517,
+    "text": "死节从来岂顾勋",
+    "bytes": "\\xcb\\xc0\\xbd\\xda\\xb4\\xd3\\xc0\\xb4\\xc6\\xf1\\xb9\\xcb\\xd1\\xab",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 518,
+    "text": "歌蹋柳枝春暗来",
+    "bytes": "\\xb8\\xe8\\xcc\\xa3\\xc1\\xf8\\xd6\\xa6\\xb4\\xba\\xb0\\xb5\\xc0\\xb4",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 519,
+    "text": "不具有法律效力",
+    "bytes": "\\xb2\\xbb\\xbe\\xdf\\xd3\\xd0\\xb7\\xa8\\xc2\\xc9\\xd0\\xa7\\xc1\\xa6",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 520,
+    "text": "儕僉儞僉奀慛忀",
+    "bytes": "\\x83\\x8a\\x83\\x4c\\x83\\x93\\x83\\x4c\\x8a\\x43\\x91\\x4e\\x8f\\xdd",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 521,
+    "text": "臂磊付促葛滴乔",
+    "bytes": "\\xb1\\xdb\\xc0\\xda\\xb8\\xb6\\xb4\\xd9\\xb8\\xf0\\xb5\\xce\\xc7\\xc7",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 522,
+    "text": "树欲静而风不止",
+    "bytes": "\\xca\\xf7\\xd3\\xfb\\xbe\\xb2\\xb6\\xf8\\xb7\\xe7\\xb2\\xbb\\xd6\\xb9",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 523,
+    "text": "一场寂寞凭谁诉",
+    "bytes": "\\xd2\\xbb\\xb3\\xa1\\xbc\\xc5\\xc4\\xaf\\xc6\\xbe\\xcb\\xad\\xcb\\xdf",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 524,
+    "text": "敲风荤捞配脚沥",
+    "bytes": "\\xc7\\xc3\\xb7\\xe7\\xbb\\xe7\\xc0\\xcc\\xc5\\xe4\\xbd\\xc5\\xc1\\xa4",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 525,
+    "text": "明朝有意抱琴来",
+    "bytes": "\\xc3\\xf7\\xb3\\xaf\\xd3\\xd0\\xd2\\xe2\\xb1\\xa7\\xc7\\xd9\\xc0\\xb4",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 526,
+    "text": "倡券茨董の菇蜜",
+    "bytes": "\\xb3\\xab\\xc8\\xaf\\xb4\\xc4\\xb6\\xad\\xa4\\xce\\xb9\\xbd\\xc3\\xdb",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 527,
+    "text": "屆偄忬懺偵栠傞",
+    "bytes": "\\x8c\\xc3\\x82\\xa2\\x8f\\xf3\\x91\\xd4\\x82\\xc9\\x96\\xdf\\x82\\xe9",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 528,
+    "text": "合盔肺措敌合开",
+    "bytes": "\\xba\\xcf\\xbf\\xf8\\xb7\\xce\\xb4\\xeb\\xb5\\xd0\\xba\\xcf\\xbf\\xaa",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 529,
+    "text": "暘巕嵶朎堚揱妛",
+    "bytes": "\\x95\\xaa\\x8e\\x71\\x8d\\xd7\\x96\\x45\\x88\\xe2\\x93\\x60\\x8a\\x77",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 530,
+    "text": "奇鸥匆版乔菩摹",
+    "bytes": "\\xc6\\xe6\\xc5\\xb8\\xb4\\xd2\\xb0\\xe6\\xc7\\xc7\\xc6\\xd0\\xc4\\xa1",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 531,
+    "text": "北土城西路东口",
+    "bytes": "\\xb1\\xb1\\xcd\\xc1\\xb3\\xc7\\xce\\xf7\\xc2\\xb7\\xb6\\xab\\xbf\\xda",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 532,
+    "text": "实用国际贸易法",
+    "bytes": "\\xca\\xb5\\xd3\\xc3\\xb9\\xfa\\xbc\\xca\\xc3\\xb3\\xd2\\xd7\\xb7\\xa8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 533,
+    "text": "黄陂区公安分局",
+    "bytes": "\\xbb\\xc6\\xda\\xe9\\xc7\\xf8\\xb9\\xab\\xb0\\xb2\\xb7\\xd6\\xbe\\xd6",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 534,
+    "text": "僪儞儁儕僪儞忶",
+    "bytes": "\\x83\\x68\\x83\\x93\\x83\\x79\\x83\\x8a\\x83\\x68\\x83\\x93\\x8f\\xf9",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 535,
+    "text": "市场主体规制法",
+    "bytes": "\\xca\\xd0\\xb3\\xa1\\xd6\\xf7\\xcc\\xe5\\xb9\\xe6\\xd6\\xc6\\xb7\\xa8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 536,
+    "text": "エンドユ〖ザ〖",
+    "bytes": "\\xa5\\xa8\\xa5\\xf3\\xa5\\xc9\\xa5\\xe6\\xa1\\xbc\\xa5\\xb6\\xa1\\xbc",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 537,
+    "text": "帊偼変偑壠偺帠",
+    "bytes": "\\x8e\\x8d\\x82\\xcd\\x89\\xe4\\x82\\xaa\\x89\\xc6\\x82\\xcc\\x8e\\x96",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 538,
+    "text": "北京青龙湖公园",
+    "bytes": "\\xb1\\xb1\\xbe\\xa9\\xc7\\xe0\\xc1\\xfa\\xba\\xfe\\xb9\\xab\\xd4\\xb0",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 539,
+    "text": "透壁性心肌梗死",
+    "bytes": "\\xcd\\xb8\\xb1\\xda\\xd0\\xd4\\xd0\\xc4\\xbc\\xa1\\xb9\\xa3\\xcb\\xc0",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 540,
+    "text": "斗酒十千恣欢谑",
+    "bytes": "\\xb6\\xb7\\xbe\\xc6\\xca\\xae\\xc7\\xa7\\xed\\xa7\\xbb\\xb6\\xda\\xca",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 541,
+    "text": "养父母子女关系",
+    "bytes": "\\xd1\\xf8\\xb8\\xb8\\xc4\\xb8\\xd7\\xd3\\xc5\\xae\\xb9\\xd8\\xcf\\xb5",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 542,
+    "text": "僗僩儗乕僕揮憲",
+    "bytes": "\\x83\\x58\\x83\\x67\\x83\\x8c\\x81\\x5b\\x83\\x57\\x93\\x5d\\x91\\x97",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 543,
+    "text": "梦尽青灯展转中",
+    "bytes": "\\xc3\\xce\\xbe\\xa1\\xc7\\xe0\\xb5\\xc6\\xd5\\xb9\\xd7\\xaa\\xd6\\xd0",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 544,
+    "text": "偦偺杮尮傪扵傞",
+    "bytes": "\\x82\\xbb\\x82\\xcc\\x96\\x7b\\x8c\\xb9\\x82\\xf0\\x92\\x54\\x82\\xe9",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 545,
+    "text": "杸嶤偵傛傞悈醰",
+    "bytes": "\\x96\\x80\\x8e\\x43\\x82\\xc9\\x82\\xe6\\x82\\xe9\\x90\\x85\\xe1\\x76",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 546,
+    "text": "杅堈懱惂偺惍旛",
+    "bytes": "\\x96\\x66\\x88\\xd5\\x91\\xcc\\x90\\xa7\\x82\\xcc\\x90\\xae\\x94\\xf5",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 547,
+    "text": "内外资税率统一",
+    "bytes": "\\xc4\\xda\\xcd\\xe2\\xd7\\xca\\xcb\\xb0\\xc2\\xca\\xcd\\xb3\\xd2\\xbb",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 548,
+    "text": "抗血友病球蛋白",
+    "bytes": "\\xbf\\xb9\\xd1\\xaa\\xd3\\xd1\\xb2\\xa1\\xc7\\xf2\\xb5\\xb0\\xb0\\xd7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 549,
+    "text": "法律和市场经济",
+    "bytes": "\\xb7\\xa8\\xc2\\xc9\\xba\\xcd\\xca\\xd0\\xb3\\xa1\\xbe\\xad\\xbc\\xc3",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 550,
+    "text": "小荷才露尖尖角",
+    "bytes": "\\xd0\\xa1\\xba\\xc9\\xb2\\xc5\\xc2\\xb6\\xbc\\xe2\\xbc\\xe2\\xbd\\xc7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 551,
+    "text": "青岛大学医学院",
+    "bytes": "\\xc7\\xe0\\xb5\\xba\\xb4\\xf3\\xd1\\xa7\\xd2\\xbd\\xd1\\xa7\\xd4\\xba",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 552,
+    "text": "磊悼瞒档厘傍过",
+    "bytes": "\\xc0\\xda\\xb5\\xbf\\xc2\\xf7\\xb5\\xb5\\xc0\\xe5\\xb0\\xf8\\xb9\\xfd",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 553,
+    "text": "啦らせない淹横",
+    "bytes": "\\xc0\\xb2\\xa4\\xe9\\xa4\\xbb\\xa4\\xca\\xa4\\xa4\\xd1\\xcd\\xba\\xe1",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 554,
+    "text": "菠菜金钩豆腐汤",
+    "bytes": "\\xb2\\xa4\\xb2\\xcb\\xbd\\xf0\\xb9\\xb3\\xb6\\xb9\\xb8\\xaf\\xcc\\xc0",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 555,
+    "text": "阿托伐他汀钙片",
+    "bytes": "\\xb0\\xa2\\xcd\\xd0\\xb7\\xa5\\xcb\\xfb\\xcd\\xa1\\xb8\\xc6\\xc6\\xac",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 556,
+    "text": "敲风内唱凉母蕉",
+    "bytes": "\\xc7\\xc3\\xb7\\xe7\\xc4\\xda\\xb3\\xaa\\xc1\\xb9\\xc4\\xb8\\xbd\\xb6",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 557,
+    "text": "以五十步笑百步",
+    "bytes": "\\xd2\\xd4\\xce\\xe5\\xca\\xae\\xb2\\xbd\\xd0\\xa6\\xb0\\xd9\\xb2\\xbd",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 558,
+    "text": "透明质酸钠凝胶",
+    "bytes": "\\xcd\\xb8\\xc3\\xf7\\xd6\\xca\\xcb\\xe1\\xc4\\xc6\\xc4\\xfd\\xbd\\xba",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 559,
+    "text": "婉妨カワクラゲ",
+    "bytes": "\\xcd\\xf1\\xb7\\xc1\\xa5\\xab\\xa5\\xef\\xa5\\xaf\\xa5\\xe9\\xa5\\xb2",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 560,
+    "text": "拞堛妛梊杊堛妛",
+    "bytes": "\\x92\\x86\\x88\\xe3\\x8a\\x77\\x97\\x5c\\x96\\x68\\x88\\xe3\\x8a\\x77",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 561,
+    "text": "タンパク剂圭喇",
+    "bytes": "\\xa5\\xbf\\xa5\\xf3\\xa5\\xd1\\xa5\\xaf\\xbc\\xc1\\xb9\\xe7\\xc0\\xae",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 562,
+    "text": "昽媞偑偄偭傁偄",
+    "bytes": "\\x95\\x6f\\x8b\\x71\\x82\\xaa\\x82\\xa2\\x82\\xc1\\x82\\xcf\\x82\\xa2",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 563,
+    "text": "傾儞僼僃僞儈儞",
+    "bytes": "\\x83\\x41\\x83\\x93\\x83\\x74\\x83\\x46\\x83\\x5e\\x83\\x7e\\x83\\x93",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 564,
+    "text": "市行政服务中心",
+    "bytes": "\\xca\\xd0\\xd0\\xd0\\xd5\\xfe\\xb7\\xfe\\xce\\xf1\\xd6\\xd0\\xd0\\xc4",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 565,
+    "text": "奝巭傔僔儘僢僾",
+    "bytes": "\\x8a\\x50\\x8e\\x7e\\x82\\xdf\\x83\\x56\\x83\\x8d\\x83\\x62\\x83\\x76",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 566,
+    "text": "奺帺岲偒彑庤偵",
+    "bytes": "\\x8a\\x65\\x8e\\xa9\\x8d\\x44\\x82\\xab\\x8f\\x9f\\x8e\\xe8\\x82\\xc9",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 567,
+    "text": "春心莫共花争发",
+    "bytes": "\\xb4\\xba\\xd0\\xc4\\xc4\\xaa\\xb9\\xb2\\xbb\\xa8\\xd5\\xf9\\xb7\\xa2",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 568,
+    "text": "ㄟ诌睪紽痜痜瑀",
+    "bytes": "\\xa8\\xdf\\xd6\\xdf\\xb2\\x47\\xbd\\x46\\xaf\\x66\\xaf\\x66\\xac\\x72",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 569,
+    "text": "充血性心力衰竭",
+    "bytes": "\\xb3\\xe4\\xd1\\xaa\\xd0\\xd4\\xd0\\xc4\\xc1\\xa6\\xcb\\xa5\\xbd\\xdf",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 570,
+    "text": "僎乕儉奐敪嫵嵽",
+    "bytes": "\\x83\\x51\\x81\\x5b\\x83\\x80\\x8a\\x4a\\x94\\xad\\x8b\\xb3\\x8d\\xde",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 571,
+    "text": "僆僼儘乕僪僶僗",
+    "bytes": "\\x83\\x49\\x83\\x74\\x83\\x8d\\x81\\x5b\\x83\\x68\\x83\\x6f\\x83\\x58",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 572,
+    "text": "中国外贸依存度",
+    "bytes": "\\xd6\\xd0\\xb9\\xfa\\xcd\\xe2\\xc3\\xb3\\xd2\\xc0\\xb4\\xe6\\xb6\\xc8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 573,
+    "text": "胶体果胶铋胶囊",
+    "bytes": "\\xbd\\xba\\xcc\\xe5\\xb9\\xfb\\xbd\\xba\\xee\\xe9\\xbd\\xba\\xc4\\xd2",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 574,
+    "text": "房地产开发公司",
+    "bytes": "\\xb7\\xbf\\xb5\\xd8\\xb2\\xfa\\xbf\\xaa\\xb7\\xa2\\xb9\\xab\\xcb\\xbe",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 575,
+    "text": "东坡何事不违时",
+    "bytes": "\\xb6\\xab\\xc6\\xc2\\xba\\xce\\xca\\xc2\\xb2\\xbb\\xce\\xa5\\xca\\xb1",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 576,
+    "text": "历傈仿喉风捧胶",
+    "bytes": "\\xc0\\xfa\\xc0\\xfc\\xb7\\xc2\\xba\\xed\\xb7\\xe7\\xc5\\xf5\\xbd\\xba",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 577,
+    "text": "石狮市边防大队",
+    "bytes": "\\xca\\xaf\\xca\\xa8\\xca\\xd0\\xb1\\xdf\\xb7\\xc0\\xb4\\xf3\\xb6\\xd3",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 578,
+    "text": "乞搁颇老矫胶袍",
+    "bytes": "\\xc6\\xf2\\xb8\\xe9\\xc6\\xc4\\xc0\\xcf\\xbd\\xc3\\xbd\\xba\\xc5\\xdb",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 579,
+    "text": "内内秤剐农仟爹",
+    "bytes": "\\xc4\\xda\\xc4\\xda\\xb3\\xd3\\xb9\\xd0\\xc5\\xa9\\xc7\\xaa\\xb5\\xf9",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 580,
+    "text": "概款催绊扁汉澜",
+    "bytes": "\\xb8\\xc5\\xbf\\xee\\xb4\\xdf\\xb0\\xed\\xb1\\xe2\\xba\\xba\\xc0\\xbd",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 581,
+    "text": "平民百姓讨公道",
+    "bytes": "\\xc6\\xbd\\xc3\\xf1\\xb0\\xd9\\xd0\\xd5\\xcc\\xd6\\xb9\\xab\\xb5\\xc0",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 582,
+    "text": "战时刑事特别法",
+    "bytes": "\\xd5\\xbd\\xca\\xb1\\xd0\\xcc\\xca\\xc2\\xcc\\xd8\\xb1\\xf0\\xb7\\xa8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 583,
+    "text": "徣悈塲僙儞僞乕",
+    "bytes": "\\x8f\\xc8\\x90\\x85\\x89\\x6a\\x83\\x5a\\x83\\x93\\x83\\x5e\\x81\\x5b",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 584,
+    "text": "组织健康报告法",
+    "bytes": "\\xd7\\xe9\\xd6\\xaf\\xbd\\xa1\\xbf\\xb5\\xb1\\xa8\\xb8\\xe6\\xb7\\xa8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 585,
+    "text": "单核细胞白血病",
+    "bytes": "\\xb5\\xa5\\xba\\xcb\\xcf\\xb8\\xb0\\xfb\\xb0\\xd7\\xd1\\xaa\\xb2\\xa1",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 586,
+    "text": "中国古代契约法",
+    "bytes": "\\xd6\\xd0\\xb9\\xfa\\xb9\\xc5\\xb4\\xfa\\xc6\\xf5\\xd4\\xbc\\xb7\\xa8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 587,
+    "text": "乙型病毒性肝炎",
+    "bytes": "\\xd2\\xd2\\xd0\\xcd\\xb2\\xa1\\xb6\\xbe\\xd0\\xd4\\xb8\\xce\\xd1\\xd7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 588,
+    "text": "动脉瘤性骨囊肿",
+    "bytes": "\\xb6\\xaf\\xc2\\xf6\\xc1\\xf6\\xd0\\xd4\\xb9\\xc7\\xc4\\xd2\\xd6\\xd7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 589,
+    "text": "盐酸四环素胶囊",
+    "bytes": "\\xd1\\xce\\xcb\\xe1\\xcb\\xc4\\xbb\\xb7\\xcb\\xd8\\xbd\\xba\\xc4\\xd2",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 590,
+    "text": "名车背后的故事",
+    "bytes": "\\xc3\\xfb\\xb3\\xb5\\xb1\\xb3\\xba\\xf3\\xb5\\xc4\\xb9\\xca\\xca\\xc2",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 591,
+    "text": "对氨基水杨酸钠",
+    "bytes": "\\xb6\\xd4\\xb0\\xb1\\xbb\\xf9\\xcb\\xae\\xd1\\xee\\xcb\\xe1\\xc4\\xc6",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 592,
+    "text": "颁缓陵鲁恕围奶",
+    "bytes": "\\xb0\\xe4\\xbb\\xba\\xc1\\xea\\xc2\\xb3\\xcb\\xa1\\xce\\xa7\\xc4\\xcc",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 593,
+    "text": "洛阳地脉花最宜",
+    "bytes": "\\xc2\\xe5\\xd1\\xf4\\xb5\\xd8\\xc2\\xf6\\xbb\\xa8\\xd7\\xee\\xd2\\xcb",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 594,
+    "text": "胜垮诉に手らず",
+    "bytes": "\\xca\\xa4\\xbf\\xe5\\xcb\\xdf\\xa4\\xcb\\xca\\xd6\\xa4\\xe9\\xa4\\xba",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 595,
+    "text": "硅旷窍哥付吝窃",
+    "bytes": "\\xb9\\xe8\\xbf\\xf5\\xc7\\xcf\\xb8\\xe7\\xb8\\xb6\\xc1\\xdf\\xc7\\xd4",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 596,
+    "text": "峔憿僞儞僷僋幙",
+    "bytes": "\\x8d\\x5c\\x91\\xa2\\x83\\x5e\\x83\\x93\\x83\\x70\\x83\\x4e\\x8e\\xbf",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 597,
+    "text": "腮瓢だにしない",
+    "bytes": "\\xc8\\xf9\\xc6\\xb0\\xa4\\xc0\\xa4\\xcb\\xa4\\xb7\\xa4\\xca\\xa4\\xa4",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 598,
+    "text": "老规利拌距辆丰",
+    "bytes": "\\xc0\\xcf\\xb9\\xe6\\xc0\\xfb\\xb0\\xe8\\xbe\\xe0\\xc1\\xbe\\xb7\\xe1",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 599,
+    "text": "忙趁东风放纸鸢",
+    "bytes": "\\xc3\\xa6\\xb3\\xc3\\xb6\\xab\\xb7\\xe7\\xb7\\xc5\\xd6\\xbd\\xf0\\xb0",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 600,
+    "text": "柜狠毁失い缄檬",
+    "bytes": "\\xb9\\xf1\\xba\\xdd\\xbb\\xd9\\xca\\xa7\\xa4\\xa4\\xbc\\xea\\xc3\\xca",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 601,
+    "text": "芭く炊じる长慎刨",
+    "bytes": "\\xb0\\xc5\\xa4\\xaf\\xb4\\xb6\\xa4\\xb8\\xa4\\xeb\\xb3\\xa4\\xc9\\xf7\\xc5\\xd9",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 602,
+    "text": "盐酸米诺环素胶囊",
+    "bytes": "\\xd1\\xce\\xcb\\xe1\\xc3\\xd7\\xc5\\xb5\\xbb\\xb7\\xcb\\xd8\\xbd\\xba\\xc4\\xd2",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 603,
+    "text": "民营企业经营环境",
+    "bytes": "\\xc3\\xf1\\xd3\\xaa\\xc6\\xf3\\xd2\\xb5\\xbe\\xad\\xd3\\xaa\\xbb\\xb7\\xbe\\xb3",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 604,
+    "text": "重型汽车联营公司",
+    "bytes": "\\xd6\\xd8\\xd0\\xcd\\xc6\\xfb\\xb3\\xb5\\xc1\\xaa\\xd3\\xaa\\xb9\\xab\\xcb\\xbe",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 605,
+    "text": "法规规章备案规定",
+    "bytes": "\\xb7\\xa8\\xb9\\xe6\\xb9\\xe6\\xd5\\xc2\\xb1\\xb8\\xb0\\xb8\\xb9\\xe6\\xb6\\xa8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 606,
+    "text": "专有技术许可合同",
+    "bytes": "\\xd7\\xa8\\xd3\\xd0\\xbc\\xbc\\xca\\xf5\\xd0\\xed\\xbf\\xc9\\xba\\xcf\\xcd\\xac",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 607,
+    "text": "荐魂拳舅风固唇爸",
+    "bytes": "\\xbc\\xf6\\xbb\\xea\\xc8\\xad\\xbe\\xcb\\xb7\\xe7\\xb9\\xcc\\xb4\\xbd\\xb0\\xd6",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 608,
+    "text": "宾焕アマンタジン",
+    "bytes": "\\xb1\\xf6\\xbb\\xc0\\xa5\\xa2\\xa5\\xde\\xa5\\xf3\\xa5\\xbf\\xa5\\xb8\\xa5\\xf3",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 609,
+    "text": "僐僐僫僢僣儈儖僋",
+    "bytes": "\\x83\\x52\\x83\\x52\\x83\\x69\\x83\\x62\\x83\\x63\\x83\\x7e\\x83\\x8b\\x83\\x4e",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 610,
+    "text": "延长工作时间制度",
+    "bytes": "\\xd1\\xd3\\xb3\\xa4\\xb9\\xa4\\xd7\\xf7\\xca\\xb1\\xbc\\xe4\\xd6\\xc6\\xb6\\xc8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 611,
+    "text": "ウイルス拉蚌片标",
+    "bytes": "\\xa5\\xa6\\xa5\\xa4\\xa5\\xeb\\xa5\\xb9\\xc0\\xad\\xb0\\xf6\\xc6\\xac\\xb1\\xea",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 612,
+    "text": "忘回痉默ヤドカリ",
+    "bytes": "\\xcd\\xfc\\xbb\\xd8\\xbe\\xb7\\xc4\\xac\\xa5\\xe4\\xa5\\xc9\\xa5\\xab\\xa5\\xea",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 613,
+    "text": "版樊局敲府纳捞记",
+    "bytes": "\\xb0\\xe6\\xb7\\xae\\xbe\\xd6\\xc7\\xc3\\xb8\\xae\\xc4\\xc9\\xc0\\xcc\\xbc\\xc7",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 614,
+    "text": "中国政法大学昌平",
+    "bytes": "\\xd6\\xd0\\xb9\\xfa\\xd5\\xfe\\xb7\\xa8\\xb4\\xf3\\xd1\\xa7\\xb2\\xfd\\xc6\\xbd",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 615,
+    "text": "付券拉娄瑚古步旧",
+    "bytes": "\\xb8\\xb6\\xc8\\xaf\\xc0\\xad\\xc2\\xa6\\xba\\xf7\\xb9\\xc5\\xb2\\xbd\\xbe\\xc9",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 616,
+    "text": "概快犁固乐绰拳力",
+    "bytes": "\\xb8\\xc5\\xbf\\xec\\xc0\\xe7\\xb9\\xcc\\xc0\\xd6\\xb4\\xc2\\xc8\\xad\\xc1\\xa6",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 617,
+    "text": "帇妎傾儖僑儕僘儉",
+    "bytes": "\\x8e\\x8b\\x8a\\x6f\\x83\\x41\\x83\\x8b\\x83\\x53\\x83\\x8a\\x83\\x59\\x83\\x80",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 618,
+    "text": "安知我不知鱼之乐",
+    "bytes": "\\xb0\\xb2\\xd6\\xaa\\xce\\xd2\\xb2\\xbb\\xd6\\xaa\\xd3\\xe3\\xd6\\xae\\xc0\\xd6",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 619,
+    "text": "矫陛摹陛备滴何帕",
+    "bytes": "\\xbd\\xc3\\xb1\\xdd\\xc4\\xa1\\xb1\\xdd\\xb1\\xb8\\xb5\\xce\\xba\\xce\\xc5\\xc1",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 620,
+    "text": "民事诉讼基本结构",
+    "bytes": "\\xc3\\xf1\\xca\\xc2\\xcb\\xdf\\xcb\\xcf\\xbb\\xf9\\xb1\\xbe\\xbd\\xe1\\xb9\\xb9",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 621,
+    "text": "吝惫绊措青沥涝过",
+    "bytes": "\\xc1\\xdf\\xb1\\xb9\\xb0\\xed\\xb4\\xeb\\xc7\\xe0\\xc1\\xa4\\xc0\\xd4\\xb9\\xfd",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 622,
+    "text": "润撅に腮嘿である",
+    "bytes": "\\xc8\\xf3\\xbe\\xef\\xa4\\xcb\\xc8\\xf9\\xba\\xd9\\xa4\\xc7\\xa4\\xa2\\xa4\\xeb",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 623,
+    "text": "望估禽の恕池矢礁",
+    "bytes": "\\xcd\\xfb\\xb9\\xc0\\xc7\\xdd\\xa4\\xce\\xcb\\xa1\\xb3\\xd8\\xca\\xb8\\xbd\\xb8",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 624,
+    "text": "长撵の奉をすくう",
+    "bytes": "\\xb3\\xa4\\xc4\\xec\\xa4\\xce\\xb7\\xee\\xa4\\xf2\\xa4\\xb9\\xa4\\xaf\\xa4\\xa6",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 625,
+    "text": "泛恕の糠しい豺坚",
+    "bytes": "\\xb7\\xba\\xcb\\xa1\\xa4\\xce\\xbf\\xb7\\xa4\\xb7\\xa4\\xa4\\xb2\\xf2\\xbc\\xe1",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 626,
+    "text": "盛名之下其实难副",
+    "bytes": "\\xca\\xa2\\xc3\\xfb\\xd6\\xae\\xcf\\xc2\\xc6\\xe4\\xca\\xb5\\xc4\\xd1\\xb8\\xb1",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 627,
+    "text": "国土资源听证规定",
+    "bytes": "\\xb9\\xfa\\xcd\\xc1\\xd7\\xca\\xd4\\xb4\\xcc\\xfd\\xd6\\xa4\\xb9\\xe6\\xb6\\xa8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 628,
+    "text": "アミノ焕洛颊佰撅",
+    "bytes": "\\xa5\\xa2\\xa5\\xdf\\xa5\\xce\\xbb\\xc0\\xc2\\xe5\\xbc\\xd5\\xb0\\xdb\\xbe\\xef",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 629,
+    "text": "黄州新建小竹楼记",
+    "bytes": "\\xbb\\xc6\\xd6\\xdd\\xd0\\xc2\\xbd\\xa8\\xd0\\xa1\\xd6\\xf1\\xc2\\xa5\\xbc\\xc7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 630,
+    "text": "链てのアカウント",
+    "bytes": "\\xc1\\xb4\\xa4\\xc6\\xa4\\xce\\xa5\\xa2\\xa5\\xab\\xa5\\xa6\\xa5\\xf3\\xa5\\xc8",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 631,
+    "text": "柜狠绅达艰苞惮搂",
+    "bytes": "\\xb9\\xf1\\xba\\xdd\\xc9\\xf0\\xb4\\xef\\xbc\\xe8\\xb0\\xfa\\xb5\\xac\\xc2\\xa7",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 632,
+    "text": "何牢苞玫陛技沥咀",
+    "bytes": "\\xba\\xce\\xc0\\xce\\xb0\\xfa\\xc3\\xb5\\xb1\\xdd\\xbc\\xbc\\xc1\\xa4\\xbe\\xd7",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 633,
+    "text": "土地有偿使用合同",
+    "bytes": "\\xcd\\xc1\\xb5\\xd8\\xd3\\xd0\\xb3\\xa5\\xca\\xb9\\xd3\\xc3\\xba\\xcf\\xcd\\xac",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 634,
+    "text": "北京法院指导案例",
+    "bytes": "\\xb1\\xb1\\xbe\\xa9\\xb7\\xa8\\xd4\\xba\\xd6\\xb8\\xb5\\xbc\\xb0\\xb8\\xc0\\xfd",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 635,
+    "text": "扁魔龋软扁软涝力",
+    "bytes": "\\xb1\\xe2\\xc4\\xa7\\xc8\\xa3\\xc8\\xed\\xb1\\xe2\\xc8\\xed\\xc0\\xd4\\xc1\\xa6",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 636,
+    "text": "过痹痹沥厚救炼肥",
+    "bytes": "\\xb9\\xfd\\xb1\\xd4\\xb1\\xd4\\xc1\\xa4\\xba\\xf1\\xbe\\xc8\\xc1\\xb6\\xb7\\xca",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 637,
+    "text": "塼懱壔妛昳桝憲慏",
+    "bytes": "\\x89\\x74\\x91\\xcc\\x89\\xbb\\x8a\\x77\\x95\\x69\\x97\\x41\\x91\\x97\\x91\\x44",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 638,
+    "text": "掅傾儖僽儈儞寣徢",
+    "bytes": "\\x92\\xe1\\x83\\x41\\x83\\x8b\\x83\\x75\\x83\\x7e\\x83\\x93\\x8c\\x8c\\x8f\\xc7",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 639,
+    "text": "氨酚烷胺那敏胶囊",
+    "bytes": "\\xb0\\xb1\\xb7\\xd3\\xcd\\xe9\\xb0\\xb7\\xc4\\xc7\\xc3\\xf4\\xbd\\xba\\xc4\\xd2",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 640,
+    "text": "过阑舅绊过阑绢辫",
+    "bytes": "\\xb9\\xfd\\xc0\\xbb\\xbe\\xcb\\xb0\\xed\\xb9\\xfd\\xc0\\xbb\\xbe\\xee\\xb1\\xe8",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 641,
+    "text": "学至乎没而后止也",
+    "bytes": "\\xd1\\xa7\\xd6\\xc1\\xba\\xf5\\xc3\\xbb\\xb6\\xf8\\xba\\xf3\\xd6\\xb9\\xd2\\xb2",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 642,
+    "text": "国家统一司法考试",
+    "bytes": "\\xb9\\xfa\\xbc\\xd2\\xcd\\xb3\\xd2\\xbb\\xcb\\xbe\\xb7\\xa8\\xbf\\xbc\\xca\\xd4",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 643,
+    "text": "廉洁从政行为规范",
+    "bytes": "\\xc1\\xae\\xbd\\xe0\\xb4\\xd3\\xd5\\xfe\\xd0\\xd0\\xce\\xaa\\xb9\\xe6\\xb7\\xb6",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 644,
+    "text": "黑龙江省佳木斯市",
+    "bytes": "\\xba\\xda\\xc1\\xfa\\xbd\\xad\\xca\\xa1\\xbc\\xd1\\xc4\\xbe\\xcb\\xb9\\xca\\xd0",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 645,
+    "text": "苯磺酸氨氯地平片",
+    "bytes": "\\xb1\\xbd\\xbb\\xc7\\xcb\\xe1\\xb0\\xb1\\xc2\\xc8\\xb5\\xd8\\xc6\\xbd\\xc6\\xac",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 646,
+    "text": "莫拳措切背楷备盔",
+    "bytes": "\\xc4\\xaa\\xc8\\xad\\xb4\\xeb\\xc7\\xd0\\xb1\\xb3\\xbf\\xac\\xb1\\xb8\\xbf\\xf8",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 647,
+    "text": "违反财经纪律行为",
+    "bytes": "\\xce\\xa5\\xb7\\xb4\\xb2\\xc6\\xbe\\xad\\xbc\\xcd\\xc2\\xc9\\xd0\\xd0\\xce\\xaa",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 648,
+    "text": "德国古典哲理法学",
+    "bytes": "\\xb5\\xc2\\xb9\\xfa\\xb9\\xc5\\xb5\\xe4\\xd5\\xdc\\xc0\\xed\\xb7\\xa8\\xd1\\xa7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 649,
+    "text": "急性出血性结膜炎",
+    "bytes": "\\xbc\\xb1\\xd0\\xd4\\xb3\\xf6\\xd1\\xaa\\xd0\\xd4\\xbd\\xe1\\xc4\\xa4\\xd1\\xd7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 650,
+    "text": "工资支付暂行规定",
+    "bytes": "\\xb9\\xa4\\xd7\\xca\\xd6\\xa7\\xb8\\xb6\\xd4\\xdd\\xd0\\xd0\\xb9\\xe6\\xb6\\xa8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 651,
+    "text": "流行性脑脊髓膜炎",
+    "bytes": "\\xc1\\xf7\\xd0\\xd0\\xd0\\xd4\\xc4\\xd4\\xbc\\xb9\\xcb\\xe8\\xc4\\xa4\\xd1\\xd7",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 652,
+    "text": "枬惈扨弮惈椢撪忈",
+    "bytes": "\\x96\\x9d\\x90\\xab\\x92\\x50\\x8f\\x83\\x90\\xab\\x97\\xce\\x93\\xe0\\x8f\\xe1",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 653,
+    "text": "奥但络池恕池删侠",
+    "bytes": "\\xb0\\xc2\\xb5\\xab\\xc2\\xe7\\xb3\\xd8\\xcb\\xa1\\xb3\\xd8\\xc9\\xbe\\xcf\\xc0",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 654,
+    "text": "壚愡惔柧搷棝偺徫",
+    "bytes": "\\x89\\xc0\\x90\\xdf\\x90\\xb4\\x96\\xbe\\x93\\x8d\\x97\\x9b\\x82\\xcc\\x8f\\xce",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 655,
+    "text": "葡萄糖酸锌口服液",
+    "bytes": "\\xc6\\xcf\\xcc\\xd1\\xcc\\xc7\\xcb\\xe1\\xd0\\xbf\\xbf\\xda\\xb7\\xfe\\xd2\\xba",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 656,
+    "text": "有偿民事法律行为",
+    "bytes": "\\xd3\\xd0\\xb3\\xa5\\xc3\\xf1\\xca\\xc2\\xb7\\xa8\\xc2\\xc9\\xd0\\xd0\\xce\\xaa",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 657,
+    "text": "面柜概洛乖蜡惟恕",
+    "bytes": "\\xc3\\xe6\\xb9\\xf1\\xb8\\xc5\\xc2\\xe5\\xb9\\xd4\\xc0\\xaf\\xce\\xa9\\xcb\\xa1",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 658,
+    "text": "一汽华利幸福使者",
+    "bytes": "\\xd2\\xbb\\xc6\\xfb\\xbb\\xaa\\xc0\\xfb\\xd0\\xd2\\xb8\\xa3\\xca\\xb9\\xd5\\xdf",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 659,
+    "text": "荤捞飘备绵矫胶袍",
+    "bytes": "\\xbb\\xe7\\xc0\\xcc\\xc6\\xae\\xb1\\xb8\\xc3\\xe0\\xbd\\xc3\\xbd\\xba\\xc5\\xdb",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 660,
+    "text": "当代主要法律体系",
+    "bytes": "\\xb5\\xb1\\xb4\\xfa\\xd6\\xf7\\xd2\\xaa\\xb7\\xa8\\xc2\\xc9\\xcc\\xe5\\xcf\\xb5",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 661,
+    "text": "辆巢魂狼儡汲官恩",
+    "bytes": "\\xc1\\xbe\\xb3\\xb2\\xbb\\xea\\xc0\\xc7\\xc0\\xdc\\xbc\\xb3\\xb9\\xd9\\xb6\\xf7",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 662,
+    "text": "塣梡曐庣偺帺摦壔",
+    "bytes": "\\x89\\x5e\\x97\\x70\\x95\\xdb\\x8e\\xe7\\x82\\xcc\\x8e\\xa9\\x93\\xae\\x89\\xbb",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 663,
+    "text": "颈内动脉海绵窦瘘",
+    "bytes": "\\xbe\\xb1\\xc4\\xda\\xb6\\xaf\\xc2\\xf6\\xba\\xa3\\xc3\\xe0\\xf1\\xbc\\xf0\\xfc",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 664,
+    "text": "牟陕拉昏眉乳涉标",
+    "bytes": "\\xc4\\xb2\\xc9\\xc2\\xc0\\xad\\xbb\\xe8\\xc3\\xbc\\xc8\\xe9\\xc9\\xe6\\xb1\\xea",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 665,
+    "text": "郯城恐龙足印化石",
+    "bytes": "\\xdb\\xb0\\xb3\\xc7\\xbf\\xd6\\xc1\\xfa\\xd7\\xe3\\xd3\\xa1\\xbb\\xaf\\xca\\xaf",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 666,
+    "text": "塃屻幵僪傾僈儔僗",
+    "bytes": "\\x89\\x45\\x8c\\xe3\\x8e\\xd4\\x83\\x68\\x83\\x41\\x83\\x4b\\x83\\x89\\x83\\x58",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 667,
+    "text": "临大节而不可夺也",
+    "bytes": "\\xc1\\xd9\\xb4\\xf3\\xbd\\xda\\xb6\\xf8\\xb2\\xbb\\xbf\\xc9\\xb6\\xe1\\xd2\\xb2",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 668,
+    "text": "瘦沮措度柴纷扩刨",
+    "bytes": "\\xca\\xdd\\xbe\\xda\\xb4\\xeb\\xb6\\xc8\\xb2\\xf1\\xb7\\xd7\\xc0\\xa9\\xc5\\xd9",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 669,
+    "text": "师道之不传也久矣",
+    "bytes": "\\xca\\xa6\\xb5\\xc0\\xd6\\xae\\xb2\\xbb\\xb4\\xab\\xd2\\xb2\\xbe\\xc3\\xd2\\xd3",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 670,
+    "text": "快阿喉废傈档瞒窜",
+    "bytes": "\\xbf\\xec\\xb0\\xa2\\xba\\xed\\xb7\\xcf\\xc0\\xfc\\xb5\\xb5\\xc2\\xf7\\xb4\\xdc",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 671,
+    "text": "高等职业技术学院",
+    "bytes": "\\xb8\\xdf\\xb5\\xc8\\xd6\\xb0\\xd2\\xb5\\xbc\\xbc\\xca\\xf5\\xd1\\xa7\\xd4\\xba",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 672,
+    "text": "疾病预防控制中心",
+    "bytes": "\\xbc\\xb2\\xb2\\xa1\\xd4\\xa4\\xb7\\xc0\\xbf\\xd8\\xd6\\xc6\\xd6\\xd0\\xd0\\xc4",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 673,
+    "text": "婥偵偟側偔偰傛偄",
+    "bytes": "\\x8b\\x43\\x82\\xc9\\x82\\xb5\\x82\\xc8\\x82\\xad\\x82\\xc4\\x82\\xe6\\x82\\xa2",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 674,
+    "text": "烼乆偨傞娎掙偺徏",
+    "bytes": "\\x9f\\x54\\x81\\x58\\x82\\xbd\\x82\\xe9\\x8a\\xc0\\x92\\xea\\x82\\xcc\\x8f\\xbc",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 675,
+    "text": "儃僩儖僱僢僋惂栺",
+    "bytes": "\\x83\\x7b\\x83\\x67\\x83\\x8b\\x83\\x6c\\x83\\x62\\x83\\x4e\\x90\\xa7\\x96\\xf1",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 676,
+    "text": "佬烩辉跪听瓷妄借",
+    "bytes": "\\xc0\\xd0\\xbb\\xe2\\xbb\\xd4\\xb9\\xf2\\xcc\\xfd\\xb4\\xc9\\xcd\\xfd\\xbd\\xe8",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 677,
+    "text": "愴偄偱愴偄傪梴偆",
+    "bytes": "\\x90\\xed\\x82\\xa2\\x82\\xc5\\x90\\xed\\x82\\xa2\\x82\\xf0\\x97\\x7b\\x82\\xa4",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 678,
+    "text": "彝族法律文化研究",
+    "bytes": "\\xd2\\xcd\\xd7\\xe5\\xb7\\xa8\\xc2\\xc9\\xce\\xc4\\xbb\\xaf\\xd1\\xd0\\xbe\\xbf",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 679,
+    "text": "国际经济法习题集",
+    "bytes": "\\xb9\\xfa\\xbc\\xca\\xbe\\xad\\xbc\\xc3\\xb7\\xa8\\xcf\\xb0\\xcc\\xe2\\xbc\\xaf",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 680,
+    "text": "律师执业行为规范",
+    "bytes": "\\xc2\\xc9\\xca\\xa6\\xd6\\xb4\\xd2\\xb5\\xd0\\xd0\\xce\\xaa\\xb9\\xe6\\xb7\\xb6",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 681,
+    "text": "摴楬傪暯傜偵偡傞",
+    "bytes": "\\x93\\xb9\\x98\\x48\\x82\\xf0\\x95\\xbd\\x82\\xe7\\x82\\xc9\\x82\\xb7\\x82\\xe9",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 682,
+    "text": "中间轴常啮合齿轮",
+    "bytes": "\\xd6\\xd0\\xbc\\xe4\\xd6\\xe1\\xb3\\xa3\\xc4\\xf6\\xba\\xcf\\xb3\\xdd\\xc2\\xd6",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 683,
+    "text": "民用航空管理制度",
+    "bytes": "\\xc3\\xf1\\xd3\\xc3\\xba\\xbd\\xbf\\xd5\\xb9\\xdc\\xc0\\xed\\xd6\\xc6\\xb6\\xc8",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 684,
+    "text": "巜摫偑忋庤偱偁傞",
+    "bytes": "\\x8e\\x77\\x93\\xb1\\x82\\xaa\\x8f\\xe3\\x8e\\xe8\\x82\\xc5\\x82\\xa0\\x82\\xe9",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 685,
+    "text": "崅怴戞堦拞崅摍晹",
+    "bytes": "\\x8d\\x82\\x90\\x56\\x91\\xe6\\x88\\xea\\x92\\x86\\x8d\\x82\\x93\\x99\\x95\\x94",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 686,
+    "text": "血液制品管理条例",
+    "bytes": "\\xd1\\xaa\\xd2\\xba\\xd6\\xc6\\xc6\\xb7\\xb9\\xdc\\xc0\\xed\\xcc\\xf5\\xc0\\xfd",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 687,
+    "text": "多路传输控制单元",
+    "bytes": "\\xb6\\xe0\\xc2\\xb7\\xb4\\xab\\xca\\xe4\\xbf\\xd8\\xd6\\xc6\\xb5\\xa5\\xd4\\xaa",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 688,
+    "text": "判例解读中韩法律",
+    "bytes": "\\xc5\\xd0\\xc0\\xfd\\xbd\\xe2\\xb6\\xc1\\xd6\\xd0\\xba\\xab\\xb7\\xa8\\xc2\\xc9",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 689,
+    "text": "畴悼里狼吝犁矫瓤",
+    "bytes": "\\xb3\\xeb\\xb5\\xbf\\xc0\\xef\\xc0\\xc7\\xc1\\xdf\\xc0\\xe7\\xbd\\xc3\\xc8\\xbf",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 690,
+    "text": "嘲获朵乖瓷妄掘毋",
+    "bytes": "\\xb3\\xb0\\xbb\\xf1\\xb6\\xe4\\xb9\\xd4\\xb4\\xc9\\xcd\\xfd\\xbe\\xf2\\xce\\xe3",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 691,
+    "text": "城市道路管理条例",
+    "bytes": "\\xb3\\xc7\\xca\\xd0\\xb5\\xc0\\xc2\\xb7\\xb9\\xdc\\xc0\\xed\\xcc\\xf5\\xc0\\xfd",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 692,
+    "text": "澄唯アルゴリズム",
+    "bytes": "\\xb3\\xce\\xce\\xa8\\xa5\\xa2\\xa5\\xeb\\xa5\\xb4\\xa5\\xea\\xa5\\xba\\xa5\\xe0",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 693,
+    "text": "德国大众汽车集团",
+    "bytes": "\\xb5\\xc2\\xb9\\xfa\\xb4\\xf3\\xd6\\xda\\xc6\\xfb\\xb3\\xb5\\xbc\\xaf\\xcd\\xc5",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 694,
+    "text": "慢性闭角型青光眼",
+    "bytes": "\\xc2\\xfd\\xd0\\xd4\\xb1\\xd5\\xbd\\xc7\\xd0\\xcd\\xc7\\xe0\\xb9\\xe2\\xd1\\xdb",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 695,
+    "text": "民事诉讼法习题集",
+    "bytes": "\\xc3\\xf1\\xca\\xc2\\xcb\\xdf\\xcb\\xcf\\xb7\\xa8\\xcf\\xb0\\xcc\\xe2\\xbc\\xaf",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 696,
+    "text": "恏朏旲墛僇僾僙儖",
+    "bytes": "\\x90\\x68\\x96\\x46\\x95\\x40\\x89\\x8a\\x83\\x4a\\x83\\x76\\x83\\x5a\\x83\\x8b",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 697,
+    "text": "官捞矾胶己缴辟堪",
+    "bytes": "\\xb9\\xd9\\xc0\\xcc\\xb7\\xaf\\xbd\\xba\\xbc\\xba\\xbd\\xc9\\xb1\\xd9\\xbf\\xb0",
+    "enc": "gbk",
+    "label": false
+  },
+  {
+    "id": 698,
+    "text": "恶性萎缩性丘疹病",
+    "bytes": "\\xb6\\xf1\\xd0\\xd4\\xce\\xae\\xcb\\xf5\\xd0\\xd4\\xc7\\xf0\\xd5\\xee\\xb2\\xa1",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 699,
+    "text": "规章制定程序条例",
+    "bytes": "\\xb9\\xe6\\xd5\\xc2\\xd6\\xc6\\xb6\\xa8\\xb3\\xcc\\xd0\\xf2\\xcc\\xf5\\xc0\\xfd",
+    "enc": "gbk",
+    "label": true
+  },
+  {
+    "id": 700,
+    "text": "头孢氨苄缓释胶囊",
+    "bytes": "\\xcd\\xb7\\xe6\\xdf\\xb0\\xb1\\xdc\\xd0\\xbb\\xba\\xca\\xcd\\xbd\\xba\\xc4\\xd2",
+    "enc": "gbk",
+    "label": true
+  }
+]

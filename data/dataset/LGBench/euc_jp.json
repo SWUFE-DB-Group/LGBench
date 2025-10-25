@@ -1,0 +1,4902 @@
+[
+  {
+    "id": 1,
+    "text": "企幾",
+    "bytes": "\\xb4\\xeb\\xb4\\xf6",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 2,
+    "text": "夏将",
+    "bytes": "\\xb2\\xc6\\xbe\\xad",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 3,
+    "text": "鴇屬",
+    "bytes": "\\xc6\\xbe\\xd6\\xa4",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 4,
+    "text": "体毛",
+    "bytes": "\\xc2\\xce\\xcc\\xd3",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 5,
+    "text": "逢雌",
+    "bytes": "\\xb0\\xa9\\xbb\\xf3",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 6,
+    "text": "信号",
+    "bytes": "\\xbf\\xae\\xb9\\xe6",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 7,
+    "text": "蘭圃",
+    "bytes": "\\xcd\\xf6\\xca\\xe0",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 8,
+    "text": "碗瞭",
+    "bytes": "\\xcf\\xd2\\xce\\xc6",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 9,
+    "text": "硬化",
+    "bytes": "\\xb9\\xc5\\xb2\\xbd",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 10,
+    "text": "銭婆",
+    "bytes": "\\xc1\\xac\\xc7\\xcc",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 11,
+    "text": "卵黄",
+    "bytes": "\\xcd\\xf1\\xb2\\xab",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 12,
+    "text": "骨性",
+    "bytes": "\\xb9\\xfc\\xc0\\xad",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 13,
+    "text": "杭退",
+    "bytes": "\\xb9\\xba\\xc2\\xe0",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 14,
+    "text": "敗走",
+    "bytes": "\\xc7\\xd4\\xc1\\xf6",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 15,
+    "text": "壌ブ",
+    "bytes": "\\xbe\\xed\\xa5\\xd6",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 16,
+    "text": "差呪",
+    "bytes": "\\xba\\xb9\\xbc\\xf6",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 17,
+    "text": "因舌",
+    "bytes": "\\xb0\\xf8\\xc0\\xe5",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 18,
+    "text": "棺逢",
+    "bytes": "\\xb4\\xbd\\xb0\\xa9",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 19,
+    "text": "芥子",
+    "bytes": "\\xb3\\xa9\\xbb\\xd2",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 20,
+    "text": "呪妊",
+    "bytes": "\\xbc\\xf6\\xc7\\xa5",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 21,
+    "text": "体癬",
+    "bytes": "\\xc2\\xce\\xe1\\xfd",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 22,
+    "text": "帷痔",
+    "bytes": "\\xd6\\xe9\\xbc\\xa6",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 23,
+    "text": "蝕薩",
+    "bytes": "\\xbf\\xaa\\xbb\\xa7",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 24,
+    "text": "月経",
+    "bytes": "\\xb7\\xee\\xb7\\xd0",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 25,
+    "text": "絶美",
+    "bytes": "\\xc0\\xe4\\xc8\\xfe",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 26,
+    "text": "墳晒",
+    "bytes": "\\xca\\xaf\\xbb\\xaf",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 27,
+    "text": "窪イ",
+    "bytes": "\\xb7\\xa6\\xa5\\xa4",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 28,
+    "text": "延來",
+    "bytes": "\\xb1\\xe4\\xd0\\xd4",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 29,
+    "text": "栽紘",
+    "bytes": "\\xba\\xcf\\xb9\\xc9",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 30,
+    "text": "重託",
+    "bytes": "\\xbd\\xc5\\xc2\\xf7",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 31,
+    "text": "発行",
+    "bytes": "\\xc8\\xaf\\xb9\\xd4",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 32,
+    "text": "偏盲",
+    "bytes": "\\xca\\xd0\\xcc\\xd5",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 33,
+    "text": "雨煽",
+    "bytes": "\\xb1\\xab\\xc0\\xfa",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 34,
+    "text": "穂芥",
+    "bytes": "\\xca\\xe6\\xb3\\xa9",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 35,
+    "text": "短い",
+    "bytes": "\\xc3\\xbb\\xa4\\xa4",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 36,
+    "text": "加温",
+    "bytes": "\\xb2\\xc3\\xb2\\xb9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 37,
+    "text": "採曽",
+    "bytes": "\\xba\\xce\\xc1\\xbe",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 38,
+    "text": "厩重",
+    "bytes": "\\xb1\\xb9\\xbd\\xc5",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 39,
+    "text": "中迫",
+    "bytes": "\\xc3\\xe6\\xc7\\xf7",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 40,
+    "text": "中化",
+    "bytes": "\\xc3\\xe6\\xb2\\xbd",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 41,
+    "text": "喘息",
+    "bytes": "\\xd3\\xc3\\xc2\\xa9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 42,
+    "text": "姶佐",
+    "bytes": "\\xb0\\xa8\\xba\\xb4",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 43,
+    "text": "豆汁",
+    "bytes": "\\xc6\\xa6\\xbd\\xc1",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 44,
+    "text": "嘘次",
+    "bytes": "\\xb1\\xb3\\xbc\\xa1",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 45,
+    "text": "前場",
+    "bytes": "\\xc1\\xb0\\xbe\\xec",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 46,
+    "text": "裂隙",
+    "bytes": "\\xce\\xf6\\xb7\\xe4",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 47,
+    "text": "雪盲",
+    "bytes": "\\xc0\\xe3\\xcc\\xd5",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 48,
+    "text": "巨臣",
+    "bytes": "\\xb5\\xf0\\xbf\\xc3",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 49,
+    "text": "耳輪",
+    "bytes": "\\xbc\\xaa\\xce\\xd8",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 50,
+    "text": "坂道",
+    "bytes": "\\xba\\xe4\\xc6\\xbb",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 51,
+    "text": "戚端",
+    "bytes": "\\xc0\\xcc\\xc3\\xbc",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 52,
+    "text": "侶混",
+    "bytes": "\\xce\\xb7\\xba\\xae",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 53,
+    "text": "糞石",
+    "bytes": "\\xca\\xb5\\xc0\\xd0",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 54,
+    "text": "祉巾",
+    "bytes": "\\xbb\\xe3\\xb6\\xd2",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 55,
+    "text": "頬部",
+    "bytes": "\\xcb\\xcb\\xc9\\xf4",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 56,
+    "text": "芦魅",
+    "bytes": "\\xb0\\xb2\\xcc\\xa5",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 57,
+    "text": "知恵",
+    "bytes": "\\xc3\\xce\\xb7\\xc3",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 58,
+    "text": "壊疽",
+    "bytes": "\\xb2\\xf5\\xe1\\xd4",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 59,
+    "text": "陥降",
+    "bytes": "\\xb4\\xd9\\xb9\\xdf",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 60,
+    "text": "鹸篇",
+    "bytes": "\\xb8\\xb4\\xca\\xd3",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 61,
+    "text": "牛骨",
+    "bytes": "\\xb5\\xed\\xb9\\xfc",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 62,
+    "text": "識亀",
+    "bytes": "\\xbc\\xb1\\xb5\\xb5",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 63,
+    "text": "鱒債",
+    "bytes": "\\xcb\\xf0\\xba\\xc4",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 64,
+    "text": "掻税",
+    "bytes": "\\xc1\\xdf\\xc0\\xc7",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 65,
+    "text": "意外",
+    "bytes": "\\xb0\\xd5\\xb3\\xb0",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 66,
+    "text": "牢匣",
+    "bytes": "\\xcf\\xb4\\xd2\\xba",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 67,
+    "text": "垪海",
+    "bytes": "\\xd4\\xba\\xb3\\xa4",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 68,
+    "text": "糖蜜",
+    "bytes": "\\xc5\\xfc\\xcc\\xaa",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 69,
+    "text": "暴勅",
+    "bytes": "\\xcb\\xbd\\xc4\\xbc",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 70,
+    "text": "撰芝",
+    "bytes": "\\xc0\\xf1\\xbc\\xc7",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 71,
+    "text": "原核",
+    "bytes": "\\xb8\\xb6\\xb3\\xcb",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 72,
+    "text": "気腫",
+    "bytes": "\\xb5\\xa4\\xbc\\xf0",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 73,
+    "text": "拡張",
+    "bytes": "\\xb3\\xc8\\xc4\\xa5",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 74,
+    "text": "択圭",
+    "bytes": "\\xc2\\xf2\\xb7\\xbd",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 75,
+    "text": "船員",
+    "bytes": "\\xc1\\xa5\\xb0\\xf7",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 76,
+    "text": "滑石",
+    "bytes": "\\xb3\\xea\\xc0\\xd0",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 77,
+    "text": "本革",
+    "bytes": "\\xcb\\xdc\\xb3\\xd7",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 78,
+    "text": "瀧兄",
+    "bytes": "\\xc2\\xed\\xb7\\xbb",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 79,
+    "text": "頭皮",
+    "bytes": "\\xc6\\xac\\xc8\\xe9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 80,
+    "text": "海橘",
+    "bytes": "\\xb3\\xa4\\xb5\\xcc",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 81,
+    "text": "故宮",
+    "bytes": "\\xb8\\xce\\xb5\\xdc",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 82,
+    "text": "功舛",
+    "bytes": "\\xb8\\xf9\\xc1\\xa4",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 83,
+    "text": "金牛",
+    "bytes": "\\xb6\\xe2\\xb5\\xed",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 84,
+    "text": "大河",
+    "bytes": "\\xc2\\xe7\\xb2\\xcf",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 85,
+    "text": "麻黄",
+    "bytes": "\\xcb\\xe3\\xb2\\xab",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 86,
+    "text": "栽揖",
+    "bytes": "\\xba\\xcf\\xcd\\xac",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 87,
+    "text": "咽但",
+    "bytes": "\\xb0\\xf6\\xc3\\xa2",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 88,
+    "text": "波谷",
+    "bytes": "\\xc7\\xc8\\xc3\\xab",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 89,
+    "text": "拍動",
+    "bytes": "\\xc7\\xef\\xc6\\xb0",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 90,
+    "text": "座薬",
+    "bytes": "\\xba\\xc2\\xcc\\xf4",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 91,
+    "text": "外宅",
+    "bytes": "\\xb3\\xb0\\xc2\\xf0",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 92,
+    "text": "遮糠",
+    "bytes": "\\xbc\\xd7\\xb9\\xc7",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 93,
+    "text": "医療",
+    "bytes": "\\xb0\\xe5\\xce\\xc5",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 94,
+    "text": "念曽",
+    "bytes": "\\xc7\\xb0\\xc1\\xbe",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 95,
+    "text": "芭蕉",
+    "bytes": "\\xc7\\xce\\xbe\\xd6",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 96,
+    "text": "耳介",
+    "bytes": "\\xbc\\xaa\\xb2\\xf0",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 97,
+    "text": "指南",
+    "bytes": "\\xbb\\xd8\\xc6\\xee",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 98,
+    "text": "芋誚",
+    "bytes": "\\xb0\\xf2\\xeb\\xd7",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 99,
+    "text": "臻棒",
+    "bytes": "\\xe7\\xcb\\xcb\\xc0",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 100,
+    "text": "油屋",
+    "bytes": "\\xcc\\xfd\\xb2\\xb0",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 101,
+    "text": "瑛窒迫",
+    "bytes": "\\xb1\\xcd\\xc3\\xe2\\xc7\\xf7",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 102,
+    "text": "脳科学",
+    "bytes": "\\xc7\\xbe\\xb2\\xca\\xb3\\xd8",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 103,
+    "text": "北石路",
+    "bytes": "\\xcb\\xcc\\xc0\\xd0\\xcf\\xa9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 104,
+    "text": "嶄弌侏",
+    "bytes": "\\xd6\\xd0\\xd0\\xa1\\xd0\\xcd",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 105,
+    "text": "王母宮",
+    "bytes": "\\xb2\\xa6\\xca\\xec\\xb5\\xdc",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 106,
+    "text": "曝寂才",
+    "bytes": "\\xc7\\xf8\\xbc\\xe4\\xba\\xcd",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 107,
+    "text": "眼呪迫",
+    "bytes": "\\xb4\\xe3\\xbc\\xf6\\xc7\\xf7",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 108,
+    "text": "丞楕庚",
+    "bytes": "\\xbe\\xe7\\xc2\\xca\\xb9\\xae",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 109,
+    "text": "高齢委",
+    "bytes": "\\xb9\\xe2\\xce\\xf0\\xb0\\xd1",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 110,
+    "text": "葛鉢伝",
+    "bytes": "\\xb3\\xeb\\xc8\\xad\\xc5\\xc1",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 111,
+    "text": "競争力",
+    "bytes": "\\xb6\\xa5\\xc1\\xe8\\xce\\xcf",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 112,
+    "text": "輯宰孟",
+    "bytes": "\\xbd\\xb4\\xba\\xcb\\xcc\\xd2",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 113,
+    "text": "エイズ",
+    "bytes": "\\xa5\\xa8\\xa5\\xa4\\xa5\\xba",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 114,
+    "text": "川木通",
+    "bytes": "\\xc0\\xee\\xcc\\xda\\xc4\\xcc",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 115,
+    "text": "映冓逢",
+    "bytes": "\\xb1\\xc7\\xd1\\xca\\xb0\\xa9",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 116,
+    "text": "來佩葎",
+    "bytes": "\\xd0\\xd4\\xd0\\xd0\\xce\\xaa",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 117,
+    "text": "胃壱失",
+    "bytes": "\\xb0\\xdf\\xb0\\xed\\xbc\\xba",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 118,
+    "text": "妊茨爽",
+    "bytes": "\\xc7\\xa5\\xb0\\xf1\\xc1\\xd6",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 119,
+    "text": "橈骨頭",
+    "bytes": "\\xdc\\xf6\\xb9\\xfc\\xc6\\xac",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 120,
+    "text": "筋痙攣",
+    "bytes": "\\xb6\\xda\\xe1\\xdb\\xda\\xbb",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 121,
+    "text": "峅瓜侏",
+    "bytes": "\\xd6\\xb2\\xb1\\xbb\\xd0\\xcd",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 122,
+    "text": "鞄穣厩",
+    "bytes": "\\xb3\\xf3\\xbe\\xf7\\xb1\\xb9",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 123,
+    "text": "栗の木",
+    "bytes": "\\xb7\\xaa\\xa4\\xce\\xcc\\xda",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 124,
+    "text": "李鎮源",
+    "bytes": "\\xcd\\xfb\\xc4\\xc3\\xb8\\xbb",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 125,
+    "text": "旺餓鹿",
+    "bytes": "\\xb2\\xa2\\xb2\\xee\\xbc\\xaf",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 126,
+    "text": "肺水腫",
+    "bytes": "\\xc7\\xd9\\xbf\\xe5\\xbc\\xf0",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 127,
+    "text": "氷片糖",
+    "bytes": "\\xc9\\xb9\\xca\\xd2\\xc5\\xfc",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 128,
+    "text": "桃源郷",
+    "bytes": "\\xc5\\xed\\xb8\\xbb\\xb6\\xbf",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 129,
+    "text": "擬砂嫋",
+    "bytes": "\\xb5\\xbc\\xba\\xbd\\xd5\\xbe",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 130,
+    "text": "減娥楕",
+    "bytes": "\\xb8\\xba\\xd5\\xae\\xc2\\xca",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 131,
+    "text": "雫政鉢",
+    "bytes": "\\xbc\\xb6\\xc0\\xaf\\xc8\\xad",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 132,
+    "text": "燃庚迫",
+    "bytes": "\\xc7\\xb3\\xb9\\xae\\xc7\\xf7",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 133,
+    "text": "膵臓癌",
+    "bytes": "\\xe7\\xb9\\xc2\\xa1\\xb4\\xe2",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 134,
+    "text": "八塊鶏",
+    "bytes": "\\xc8\\xac\\xb2\\xf4\\xb7\\xdc",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 135,
+    "text": "道惚閑",
+    "bytes": "\\xc6\\xbb\\xb9\\xfb\\xb4\\xd7",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 136,
+    "text": "署弊射",
+    "bytes": "\\xbd\\xf0\\xca\\xc0\\xbc\\xcd",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 137,
+    "text": "胃痙攣",
+    "bytes": "\\xb0\\xdf\\xe1\\xdb\\xda\\xbb",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 138,
+    "text": "忽榎晴",
+    "bytes": "\\xb9\\xfa\\xb1\\xdd\\xc0\\xb2",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 139,
+    "text": "脾破裂",
+    "bytes": "\\xe7\\xa3\\xc7\\xcb\\xce\\xf6",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 140,
+    "text": "玉ねぎ",
+    "bytes": "\\xb6\\xcc\\xa4\\xcd\\xa4\\xae",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 141,
+    "text": "遺伝性",
+    "bytes": "\\xb0\\xe4\\xc5\\xc1\\xc0\\xad",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 142,
+    "text": "平面性",
+    "bytes": "\\xca\\xbf\\xcc\\xcc\\xc0\\xad",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 143,
+    "text": "同華路",
+    "bytes": "\\xc6\\xb1\\xb2\\xda\\xcf\\xa9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 144,
+    "text": "仟強蓑",
+    "bytes": "\\xd0\\xc2\\xb6\\xaf\\xcc\\xac",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 145,
+    "text": "紗賑嫋",
+    "bytes": "\\xbc\\xd3\\xc6\\xf8\\xd5\\xbe",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 146,
+    "text": "魯悼公",
+    "bytes": "\\xcf\\xa5\\xc5\\xe9\\xb8\\xf8",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 147,
+    "text": "舘宿号",
+    "bytes": "\\xb4\\xdc\\xbd\\xc9\\xb9\\xe6",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 148,
+    "text": "棲跳押",
+    "bytes": "\\xc0\\xb3\\xc4\\xb7\\xb2\\xa1",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 149,
+    "text": "微孔膜",
+    "bytes": "\\xc8\\xf9\\xb9\\xa6\\xcb\\xec",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 150,
+    "text": "扮寂頭",
+    "bytes": "\\xca\\xb1\\xbc\\xe4\\xc6\\xac",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 151,
+    "text": "叫埓紡",
+    "bytes": "\\xb6\\xab\\xd4\\xc0\\xcb\\xc2",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 152,
+    "text": "嶋尚坩",
+    "bytes": "\\xc5\\xe8\\xbe\\xb0\\xd4\\xb0",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 153,
+    "text": "酔排骨",
+    "bytes": "\\xbf\\xec\\xc7\\xd3\\xb9\\xfc",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 154,
+    "text": "笹魚勃",
+    "bytes": "\\xba\\xfb\\xb5\\xfb\\xcb\\xd6",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 155,
+    "text": "辻邦嶐",
+    "bytes": "\\xc4\\xd4\\xcb\\xae\\xd6\\xd7",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 156,
+    "text": "孀巣熱",
+    "bytes": "\\xd5\\xd2\\xc1\\xe3\\xc7\\xae",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 157,
+    "text": "廖承志",
+    "bytes": "\\xd7\\xa1\\xbe\\xb5\\xbb\\xd6",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 158,
+    "text": "金融屋",
+    "bytes": "\\xb6\\xe2\\xcd\\xbb\\xb2\\xb0",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 159,
+    "text": "麦粒腫",
+    "bytes": "\\xc7\\xfe\\xce\\xb3\\xbc\\xf0",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 160,
+    "text": "四方碑",
+    "bytes": "\\xbb\\xcd\\xca\\xfd\\xc8\\xea",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 161,
+    "text": "呉中路",
+    "bytes": "\\xb8\\xe2\\xc3\\xe6\\xcf\\xa9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 162,
+    "text": "緩衝液",
+    "bytes": "\\xb4\\xcb\\xbe\\xd7\\xb1\\xd5",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 163,
+    "text": "接合部",
+    "bytes": "\\xc0\\xdc\\xb9\\xe7\\xc9\\xf4",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 164,
+    "text": "十字路",
+    "bytes": "\\xbd\\xbd\\xbb\\xfa\\xcf\\xa9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 165,
+    "text": "暇汽生",
+    "bytes": "\\xb2\\xcb\\xb5\\xa5\\xc0\\xb8",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 166,
+    "text": "念弌菊",
+    "bytes": "\\xc7\\xb0\\xd0\\xa1\\xb5\\xc6",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 167,
+    "text": "狂牛病",
+    "bytes": "\\xb6\\xb8\\xb5\\xed\\xc9\\xc2",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 168,
+    "text": "悦雫政",
+    "bytes": "\\xb1\\xd9\\xbc\\xb6\\xc0\\xaf",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 169,
+    "text": "髄膜炎",
+    "bytes": "\\xbf\\xf1\\xcb\\xec\\xb1\\xea",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 170,
+    "text": "ぺゑТ",
+    "bytes": "\\xa4\\xda\\xa4\\xf1\\xa7\\xb4",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 171,
+    "text": "頃寡据",
+    "bytes": "\\xba\\xa2\\xb2\\xc9\\xbf\\xf8",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 172,
+    "text": "采臼福",
+    "bytes": "\\xba\\xd3\\xb1\\xb1\\xca\\xa1",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 173,
+    "text": "通化市",
+    "bytes": "\\xc4\\xcc\\xb2\\xbd\\xbb\\xd4",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 174,
+    "text": "偽造品",
+    "bytes": "\\xb5\\xb6\\xc2\\xa4\\xc9\\xca",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 175,
+    "text": "会計法",
+    "bytes": "\\xb2\\xf1\\xb7\\xd7\\xcb\\xa1",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 176,
+    "text": "褐唖畷",
+    "bytes": "\\xb3\\xec\\xb0\\xa2\\xc6\\xed",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 177,
+    "text": "狭帯域",
+    "bytes": "\\xb6\\xb9\\xc2\\xd3\\xb0\\xe8",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 178,
+    "text": "御花園",
+    "bytes": "\\xb8\\xe6\\xb2\\xd6\\xb1\\xe0",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 179,
+    "text": "固定幅",
+    "bytes": "\\xb8\\xc7\\xc4\\xea\\xc9\\xfd",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 180,
+    "text": "馴染み",
+    "bytes": "\\xc6\\xeb\\xc0\\xf7\\xa4\\xdf",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 181,
+    "text": "直声紡",
+    "bytes": "\\xc4\\xbe\\xc0\\xbc\\xcb\\xc2",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 182,
+    "text": "亀稽厩",
+    "bytes": "\\xb5\\xb5\\xb7\\xce\\xb1\\xb9",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 183,
+    "text": "嫖弊峠",
+    "bytes": "\\xd5\\xc5\\xca\\xc0\\xc6\\xbd",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 184,
+    "text": "堪佩晒",
+    "bytes": "\\xb4\\xae\\xd0\\xd0\\xbb\\xaf",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 185,
+    "text": "滴僥垪",
+    "bytes": "\\xc5\\xa9\\xd1\\xa7\\xd4\\xba",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 186,
+    "text": "建糠屏",
+    "bytes": "\\xb7\\xfa\\xb9\\xc7\\xd6\\xa2",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 187,
+    "text": "佐据俳",
+    "bytes": "\\xba\\xb4\\xbf\\xf8\\xc7\\xd0",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 188,
+    "text": "再発率",
+    "bytes": "\\xba\\xc6\\xc8\\xaf\\xce\\xa8",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 189,
+    "text": "北較場",
+    "bytes": "\\xcb\\xcc\\xb3\\xd3\\xbe\\xec",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 190,
+    "text": "吊橋路",
+    "bytes": "\\xc4\\xdf\\xb6\\xb6\\xcf\\xa9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 191,
+    "text": "啣絞嬾",
+    "bytes": "\\xd3\\xb2\\xb9\\xca\\xd5\\xcf",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 192,
+    "text": "花園路",
+    "bytes": "\\xb2\\xd6\\xb1\\xe0\\xcf\\xa9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 193,
+    "text": "伊事但",
+    "bytes": "\\xb0\\xcb\\xbb\\xf6\\xc3\\xa2",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 194,
+    "text": "蝉徨邦",
+    "bytes": "\\xc0\\xe6\\xd7\\xd3\\xcb\\xae",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 195,
+    "text": "謹斤匯",
+    "bytes": "\\xb6\\xe0\\xb6\\xd4\\xd2\\xbb",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 196,
+    "text": "号袈來",
+    "bytes": "\\xb9\\xe6\\xb7\\xb6\\xd0\\xd4",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 197,
+    "text": "取引所",
+    "bytes": "\\xbc\\xe8\\xb0\\xfa\\xbd\\xea",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 198,
+    "text": "副胎盤",
+    "bytes": "\\xc9\\xfb\\xc2\\xdb\\xc8\\xd7",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 199,
+    "text": "被膜剤",
+    "bytes": "\\xc8\\xef\\xcb\\xec\\xba\\xde",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 200,
+    "text": "頭蓋骨",
+    "bytes": "\\xc6\\xac\\xb3\\xb8\\xb9\\xfc",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 201,
+    "text": "産婦人科",
+    "bytes": "\\xbb\\xba\\xc9\\xd8\\xbf\\xcd\\xb2\\xca",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 202,
+    "text": "倉庫契約",
+    "bytes": "\\xc1\\xd2\\xb8\\xcb\\xb7\\xc0\\xcc\\xf3",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 203,
+    "text": "厭呪柵漁",
+    "bytes": "\\xb1\\xde\\xbc\\xf6\\xba\\xf4\\xb5\\xf9",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 204,
+    "text": "狂涜産週",
+    "bytes": "\\xb6\\xb8\\xc6\\xc2\\xbb\\xba\\xbd\\xb5",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 205,
+    "text": "胃腸減圧",
+    "bytes": "\\xb0\\xdf\\xc4\\xb2\\xb8\\xba\\xb0\\xb5",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 206,
+    "text": "至唇奄亀",
+    "bytes": "\\xbb\\xea\\xbf\\xb0\\xb1\\xe2\\xb5\\xb5",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 207,
+    "text": "苧岑絞係",
+    "bytes": "\\xc3\\xf7\\xd6\\xaa\\xb9\\xca\\xb7\\xb8",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 208,
+    "text": "徭撹匯社",
+    "bytes": "\\xd7\\xd4\\xb3\\xc9\\xd2\\xbb\\xbc\\xd2",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 209,
+    "text": "有名銀行",
+    "bytes": "\\xcd\\xad\\xcc\\xbe\\xb6\\xe4\\xb9\\xd4",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 210,
+    "text": "透視投影",
+    "bytes": "\\xc6\\xa9\\xbb\\xeb\\xc5\\xea\\xb1\\xc6",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 211,
+    "text": "油爆エビ",
+    "bytes": "\\xcc\\xfd\\xc7\\xfa\\xa5\\xa8\\xa5\\xd3",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 212,
+    "text": "振動効果",
+    "bytes": "\\xbf\\xb6\\xc6\\xb0\\xb8\\xfa\\xb2\\xcc",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 213,
+    "text": "角膜浮腫",
+    "bytes": "\\xb3\\xd1\\xcb\\xec\\xc9\\xe2\\xbc\\xf0",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 214,
+    "text": "識弘室榎",
+    "bytes": "\\xbc\\xb1\\xb9\\xb0\\xbc\\xbc\\xb1\\xdd",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 215,
+    "text": "佃參二式",
+    "bytes": "\\xc4\\xd1\\xd2\\xd4\\xc6\\xf3\\xbc\\xb0",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 216,
+    "text": "腫瘍病院",
+    "bytes": "\\xbc\\xf0\\xe1\\xe7\\xc9\\xc2\\xb1\\xa1",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 217,
+    "text": "執行費用",
+    "bytes": "\\xbc\\xb9\\xb9\\xd4\\xc8\\xf1\\xcd\\xd1",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 218,
+    "text": "心房粗動",
+    "bytes": "\\xbf\\xb4\\xcb\\xbc\\xc1\\xc6\\xc6\\xb0",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 219,
+    "text": "シロップ",
+    "bytes": "\\xa5\\xb7\\xa5\\xed\\xa5\\xc3\\xa5\\xd7",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 220,
+    "text": "厰扱獨爐",
+    "bytes": "\\xd2\\xd2\\xb0\\xb7\\xe0\\xd7\\xe0\\xa4",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 221,
+    "text": "隔哢隠密",
+    "bytes": "\\xb3\\xd6\\xd3\\xaf\\xb1\\xa3\\xcc\\xa9",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 222,
+    "text": "寇帷狭遣",
+    "bytes": "\\xd5\\xe4\\xd6\\xe9\\xb6\\xb9\\xb8\\xaf",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 223,
+    "text": "利嫋朔岬",
+    "bytes": "\\xcd\\xf8\\xd5\\xbe\\xba\\xf3\\xcc\\xa8",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 224,
+    "text": "嶄猟屶隔",
+    "bytes": "\\xd6\\xd0\\xce\\xc4\\xd6\\xa7\\xb3\\xd6",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 225,
+    "text": "崖押カ兜",
+    "bytes": "\\xb3\\xb3\\xb2\\xa1\\xa5\\xab\\xb3\\xf5",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 226,
+    "text": "温故知新",
+    "bytes": "\\xb2\\xb9\\xb8\\xce\\xc3\\xce\\xbf\\xb7",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 227,
+    "text": "トマト卵",
+    "bytes": "\\xa5\\xc8\\xa5\\xde\\xa5\\xc8\\xcd\\xf1",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 228,
+    "text": "徭垈凪傍",
+    "bytes": "\\xd7\\xd4\\xd4\\xb2\\xc6\\xe4\\xcb\\xb5",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 229,
+    "text": "契裏凝愁",
+    "bytes": "\\xb7\\xc0\\xce\\xa2\\xb6\\xc5\\xbd\\xa5",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 230,
+    "text": "源恋粛銚",
+    "bytes": "\\xb8\\xbb\\xce\\xf8\\xbd\\xcd\\xc4\\xb8",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 231,
+    "text": "剪断変換",
+    "bytes": "\\xd1\\xf2\\xc3\\xc7\\xca\\xd1\\xb4\\xb9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 232,
+    "text": "戟徊澗埃",
+    "bytes": "\\xb7\\xe1\\xd7\\xcb\\xb4\\xc2\\xd4\\xbc",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 233,
+    "text": "失莫須引",
+    "bytes": "\\xbc\\xba\\xc7\\xfc\\xbf\\xdc\\xb0\\xfa",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 234,
+    "text": "陥辰稽錘",
+    "bytes": "\\xb4\\xd9\\xc3\\xa4\\xb7\\xce\\xbf\\xee",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 235,
+    "text": "刺蓋魚科",
+    "bytes": "\\xbb\\xc9\\xb3\\xb8\\xb5\\xfb\\xb2\\xca",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 236,
+    "text": "育來凖勧",
+    "bytes": "\\xb0\\xe9\\xd0\\xd4\\xd2\\xc5\\xb4\\xab",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 237,
+    "text": "性別決定",
+    "bytes": "\\xc0\\xad\\xca\\xcc\\xb7\\xe8\\xc4\\xea",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 238,
+    "text": "火藻膿業",
+    "bytes": "\\xb2\\xd0\\xc1\\xf4\\xc7\\xbf\\xb6\\xc8",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 239,
+    "text": "クリーム",
+    "bytes": "\\xa5\\xaf\\xa5\\xea\\xa1\\xbc\\xa5\\xe0",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 240,
+    "text": "十室九空",
+    "bytes": "\\xbd\\xbd\\xbc\\xbc\\xb6\\xe5\\xb6\\xf5",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 241,
+    "text": "滅閑電糠",
+    "bytes": "\\xcc\\xc7\\xb4\\xd7\\xc5\\xc5\\xb9\\xc7",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 242,
+    "text": "咽スワブ",
+    "bytes": "\\xb0\\xf6\\xa5\\xb9\\xa5\\xef\\xa5\\xd6",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 243,
+    "text": "絢憩究恰",
+    "bytes": "\\xb0\\xbc\\xb7\\xc6\\xb5\\xe6\\xb3\\xe6",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 244,
+    "text": "もち米鶏",
+    "bytes": "\\xa4\\xe2\\xa4\\xc1\\xca\\xc6\\xb7\\xdc",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 245,
+    "text": "柳竃儉桟",
+    "bytes": "\\xcc\\xf8\\xb3\\xf6\\xd1\\xad\\xbb\\xb7",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 246,
+    "text": "穿鉢推榎",
+    "bytes": "\\xc0\\xfc\\xc8\\xad\\xbf\\xe4\\xb1\\xdd",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 247,
+    "text": "偕珍巷望",
+    "bytes": "\\xd0\\xf3\\xc4\\xc1\\xb9\\xab\\xcb\\xbe",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 248,
+    "text": "建工技校",
+    "bytes": "\\xb7\\xfa\\xb9\\xa9\\xb5\\xbb\\xb9\\xbb",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 249,
+    "text": "扮佩湖丹",
+    "bytes": "\\xca\\xb1\\xd0\\xd0\\xb8\\xd0\\xc3\\xb0",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 250,
+    "text": "膀胱憩室",
+    "bytes": "\\xe7\\xaf\\xe6\\xf9\\xb7\\xc6\\xbc\\xbc",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 251,
+    "text": "塰強狼由",
+    "bytes": "\\xd4\\xcb\\xb6\\xaf\\xcf\\xb5\\xcd\\xb3",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 252,
+    "text": "鮮ライチ",
+    "bytes": "\\xc1\\xaf\\xa5\\xe9\\xa5\\xa4\\xa5\\xc1",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 253,
+    "text": "墳政粗隈",
+    "bytes": "\\xca\\xaf\\xc0\\xaf\\xc1\\xc6\\xb7\\xa8",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 254,
+    "text": "配列測定",
+    "bytes": "\\xc7\\xdb\\xce\\xf3\\xc2\\xac\\xc4\\xea",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 255,
+    "text": "千難万難",
+    "bytes": "\\xc0\\xe9\\xc6\\xf1\\xcb\\xfc\\xc6\\xf1",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 256,
+    "text": "ゼロ頭金",
+    "bytes": "\\xa5\\xbc\\xa5\\xed\\xc6\\xac\\xb6\\xe2",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 257,
+    "text": "狼由扮嶝",
+    "bytes": "\\xcf\\xb5\\xcd\\xb3\\xca\\xb1\\xd6\\xd3",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 258,
+    "text": "膀胱洗浄",
+    "bytes": "\\xe7\\xaf\\xe6\\xf9\\xc0\\xf6\\xbe\\xf4",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 259,
+    "text": "蝕送慶鉢",
+    "bytes": "\\xbf\\xaa\\xc1\\xf7\\xb7\\xc4\\xc8\\xad",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 260,
+    "text": "有償占有",
+    "bytes": "\\xcd\\xad\\xbd\\xfe\\xc0\\xea\\xcd\\xad",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 261,
+    "text": "ニラの種",
+    "bytes": "\\xa5\\xcb\\xa5\\xe9\\xa4\\xce\\xbc\\xef",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 262,
+    "text": "軽諾寡信",
+    "bytes": "\\xb7\\xda\\xc2\\xfa\\xb2\\xc9\\xbf\\xae",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 263,
+    "text": "研修資料",
+    "bytes": "\\xb8\\xa6\\xbd\\xa4\\xbb\\xf1\\xce\\xc1",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 264,
+    "text": "英姿煥発",
+    "bytes": "\\xb1\\xd1\\xbb\\xd1\\xdf\\xe5\\xc8\\xaf",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 265,
+    "text": "峇匍鞠芝",
+    "bytes": "\\xd6\\xb4\\xd2\\xb5\\xb5\\xc7\\xbc\\xc7",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 266,
+    "text": "耐害鼎廬",
+    "bytes": "\\xc2\\xd1\\xb3\\xb2\\xc5\\xa4\\xd7\\xaa",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 267,
+    "text": "卆隈臥侃",
+    "bytes": "\\xd2\\xc0\\xb7\\xa8\\xb2\\xe9\\xb4\\xa6",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 268,
+    "text": "子癇前症",
+    "bytes": "\\xbb\\xd2\\xe1\\xf2\\xc1\\xb0\\xbe\\xc9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 269,
+    "text": "紫走原搾",
+    "bytes": "\\xbb\\xe7\\xc1\\xf6\\xb8\\xb6\\xba\\xf1",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 270,
+    "text": "城西大橋",
+    "bytes": "\\xbe\\xeb\\xc0\\xbe\\xc2\\xe7\\xb6\\xb6",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 271,
+    "text": "岼魁号皿",
+    "bytes": "\\xd6\\xb0\\xb3\\xa1\\xb9\\xe6\\xbb\\xae",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 272,
+    "text": "医療保障",
+    "bytes": "\\xb0\\xe5\\xce\\xc5\\xca\\xdd\\xbe\\xe3",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 273,
+    "text": "灯火輝煌",
+    "bytes": "\\xc5\\xf4\\xb2\\xd0\\xb5\\xb1\\xdf\\xea",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 274,
+    "text": "細胞移植",
+    "bytes": "\\xba\\xd9\\xcb\\xa6\\xb0\\xdc\\xbf\\xa2",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 275,
+    "text": "奄系節榎",
+    "bytes": "\\xb1\\xe2\\xb7\\xcf\\xc0\\xe1\\xb1\\xdd",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 276,
+    "text": "東泰通り",
+    "bytes": "\\xc5\\xec\\xc2\\xd9\\xc4\\xcc\\xa4\\xea",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 277,
+    "text": "小脳膿瘍",
+    "bytes": "\\xbe\\xae\\xc7\\xbe\\xc7\\xbf\\xe1\\xe7",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 278,
+    "text": "急性中毒",
+    "bytes": "\\xb5\\xde\\xc0\\xad\\xc3\\xe6\\xc6\\xc7",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 279,
+    "text": "流水行雲",
+    "bytes": "\\xce\\xae\\xbf\\xe5\\xb9\\xd4\\xb1\\xc0",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 280,
+    "text": "誌鉄舌蕉",
+    "bytes": "\\xbb\\xef\\xc5\\xb4\\xc0\\xe5\\xbe\\xd6",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 281,
+    "text": "結膜結石",
+    "bytes": "\\xb7\\xeb\\xcb\\xec\\xb7\\xeb\\xc0\\xd0",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 282,
+    "text": "薦紫因舌",
+    "bytes": "\\xc1\\xa6\\xbb\\xe7\\xb0\\xf8\\xc0\\xe5",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 283,
+    "text": "徨幸竃僮",
+    "bytes": "\\xd7\\xd3\\xb9\\xac\\xb3\\xf6\\xd1\\xaa",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 284,
+    "text": "投影変換",
+    "bytes": "\\xc5\\xea\\xb1\\xc6\\xca\\xd1\\xb4\\xb9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 285,
+    "text": "匣悶墳政",
+    "bytes": "\\xd2\\xba\\xcc\\xe5\\xca\\xaf\\xc0\\xaf",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 286,
+    "text": "企政亜是",
+    "bytes": "\\xb4\\xeb\\xc0\\xaf\\xb0\\xa1\\xc0\\xa7",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 287,
+    "text": "防音製品",
+    "bytes": "\\xcb\\xc9\\xb2\\xbb\\xc0\\xbd\\xc9\\xca",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 288,
+    "text": "払岼佩葎",
+    "bytes": "\\xca\\xa7\\xd6\\xb0\\xd0\\xd0\\xce\\xaa",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 289,
+    "text": "芋側て焦",
+    "bytes": "\\xb0\\xf2\\xc2\\xa6\\xa4\\xc6\\xbe\\xc7",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 290,
+    "text": "立体化学",
+    "bytes": "\\xce\\xa9\\xc2\\xce\\xb2\\xbd\\xb3\\xd8",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 291,
+    "text": "敢哲雑蝕",
+    "bytes": "\\xb4\\xba\\xc5\\xaf\\xbb\\xa8\\xbf\\xaa",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 292,
+    "text": "体虚感冒",
+    "bytes": "\\xc2\\xce\\xb5\\xf5\\xb4\\xb6\\xcb\\xc1",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 293,
+    "text": "ぃだ篠и",
+    "bytes": "\\xa4\\xa3\\xa4\\xc0\\xbc\\xc4\\xa7\\xda",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 294,
+    "text": "横詮磨淡",
+    "bytes": "\\xb2\\xa3\\xc1\\xa7\\xcb\\xe1\\xc3\\xb8",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 295,
+    "text": "廿概仂頭",
+    "bytes": "\\xc6\\xfb\\xb3\\xb5\\xd0\\xbe\\xc6\\xac",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 296,
+    "text": "ダ畝暁悉",
+    "bytes": "\\xa5\\xc0\\xc0\\xa6\\xb6\\xc7\\xbc\\xbd",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 297,
+    "text": "森湖薪腺",
+    "bytes": "\\xbf\\xb9\\xb8\\xd0\\xbf\\xc5\\xc1\\xa3",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 298,
+    "text": "明明白白",
+    "bytes": "\\xcc\\xc0\\xcc\\xc0\\xc7\\xf2\\xc7\\xf2",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 299,
+    "text": "涙道狭窄",
+    "bytes": "\\xce\\xde\\xc6\\xbb\\xb6\\xb9\\xba\\xf5",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 300,
+    "text": "代行執行",
+    "bytes": "\\xc2\\xe5\\xb9\\xd4\\xbc\\xb9\\xb9\\xd4",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 301,
+    "text": "中国語教材",
+    "bytes": "\\xc3\\xe6\\xb9\\xf1\\xb8\\xec\\xb6\\xb5\\xba\\xe0",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 302,
+    "text": "非営利組織",
+    "bytes": "\\xc8\\xf3\\xb1\\xc4\\xcd\\xf8\\xc1\\xc8\\xbf\\xa5",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 303,
+    "text": "徭窟來減娥",
+    "bytes": "\\xd7\\xd4\\xb7\\xa2\\xd0\\xd4\\xb8\\xba\\xd5\\xae",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 304,
+    "text": "闘掘波搭域",
+    "bytes": "\\xc6\\xae\\xb7\\xa1\\xc7\\xc8\\xc5\\xeb\\xb0\\xe8",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 305,
+    "text": "展戚嬢嘘端",
+    "bytes": "\\xc5\\xb8\\xc0\\xcc\\xbe\\xee\\xb1\\xb3\\xc3\\xbc",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 306,
+    "text": "聾飲侘蓑僥",
+    "bytes": "\\xcf\\xb8\\xb0\\xfb\\xd0\\xce\\xcc\\xac\\xd1\\xa7",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 307,
+    "text": "陥厩旋精楳",
+    "bytes": "\\xb4\\xd9\\xb1\\xb9\\xc0\\xfb\\xc0\\xba\\xc7\\xe0",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 308,
+    "text": "仟佛嘛隅坩",
+    "bytes": "\\xd0\\xc2\\xd0\\xc7\\xd3\\xd7\\xb6\\xf9\\xd4\\xb0",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 309,
+    "text": "辻慎密什漬",
+    "bytes": "\\xc4\\xd4\\xbf\\xb5\\xcc\\xa9\\xbd\\xba\\xc4\\xd2",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 310,
+    "text": "左硲失牌据",
+    "bytes": "\\xba\\xb8\\xc8\\xa3\\xbc\\xba\\xc7\\xd7\\xbf\\xf8",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 311,
+    "text": "透明スープ",
+    "bytes": "\\xc6\\xa9\\xcc\\xc0\\xa5\\xb9\\xa1\\xbc\\xa5\\xd7",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 312,
+    "text": "葛疑径獣舌",
+    "bytes": "\\xb3\\xeb\\xb5\\xbf\\xb7\\xc2\\xbd\\xc3\\xc0\\xe5",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 313,
+    "text": "軽量アプリ",
+    "bytes": "\\xb7\\xda\\xce\\xcc\\xa5\\xa2\\xa5\\xd7\\xa5\\xea",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 314,
+    "text": "力が出ない",
+    "bytes": "\\xce\\xcf\\xa4\\xac\\xbd\\xd0\\xa4\\xca\\xa4\\xa4",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 315,
+    "text": "ドアガラス",
+    "bytes": "\\xa5\\xc9\\xa5\\xa2\\xa5\\xac\\xa5\\xe9\\xa5\\xb9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 316,
+    "text": "図形を描く",
+    "bytes": "\\xbf\\xde\\xb7\\xc1\\xa4\\xf2\\xc9\\xc1\\xa4\\xaf",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 317,
+    "text": "馬蟹馬蟹梢",
+    "bytes": "\\xc7\\xcf\\xb3\\xaa\\xc7\\xcf\\xb3\\xaa\\xbe\\xbf",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 318,
+    "text": "蘇子降気湯",
+    "bytes": "\\xc1\\xc9\\xbb\\xd2\\xb9\\xdf\\xb5\\xa4\\xc5\\xf2",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 319,
+    "text": "製丞丞買装",
+    "bytes": "\\xc0\\xbd\\xbe\\xe7\\xbe\\xe7\\xc7\\xe3\\xc1\\xf5",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 320,
+    "text": "小角鍬形虫",
+    "bytes": "\\xbe\\xae\\xb3\\xd1\\xb7\\xad\\xb7\\xc1\\xc3\\xee",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 321,
+    "text": "酔板板耕去",
+    "bytes": "\\xbf\\xec\\xc8\\xc4\\xc8\\xc4\\xb9\\xcc\\xb5\\xee",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 322,
+    "text": "逐杯匂亀雁",
+    "bytes": "\\xc3\\xe0\\xc7\\xd5\\xc6\\xf7\\xb5\\xb5\\xb4\\xe7",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 323,
+    "text": "チリソース",
+    "bytes": "\\xa5\\xc1\\xa5\\xea\\xa5\\xbd\\xa1\\xbc\\xa5\\xb9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 324,
+    "text": "ヒョウ骨酒",
+    "bytes": "\\xa5\\xd2\\xa5\\xe7\\xa5\\xa6\\xb9\\xfc\\xbc\\xf2",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 325,
+    "text": "広告法制度",
+    "bytes": "\\xb9\\xad\\xb9\\xf0\\xcb\\xa1\\xc0\\xa9\\xc5\\xd9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 326,
+    "text": "下代繋薪腺",
+    "bytes": "\\xb2\\xbc\\xc2\\xe5\\xb7\\xd2\\xbf\\xc5\\xc1\\xa3",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 327,
+    "text": "理気舒心錠",
+    "bytes": "\\xcd\\xfd\\xb5\\xa4\\xd0\\xb0\\xbf\\xb4\\xbe\\xfb",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 328,
+    "text": "杷縮紫戚闘",
+    "bytes": "\\xc7\\xc7\\xbd\\xcc\\xbb\\xe7\\xc0\\xcc\\xc6\\xae",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 329,
+    "text": "疑旋噛穿亀",
+    "bytes": "\\xb5\\xbf\\xc0\\xfb\\xb3\\xfa\\xc0\\xfc\\xb5\\xb5",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 330,
+    "text": "清脳降圧片",
+    "bytes": "\\xc0\\xb6\\xc7\\xbe\\xb9\\xdf\\xb0\\xb5\\xca\\xd2",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 331,
+    "text": "ページ分割",
+    "bytes": "\\xa5\\xda\\xa1\\xbc\\xa5\\xb8\\xca\\xac\\xb3\\xe4",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 332,
+    "text": "厭失板砧唇",
+    "bytes": "\\xb1\\xde\\xbc\\xba\\xc8\\xc4\\xb5\\xce\\xbf\\xb0",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 333,
+    "text": "紫遭置旋鉢",
+    "bytes": "\\xbb\\xe7\\xc1\\xf8\\xc3\\xd6\\xc0\\xfb\\xc8\\xad",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 334,
+    "text": "円額尖指蟹",
+    "bytes": "\\xb1\\xdf\\xb3\\xdb\\xc0\\xed\\xbb\\xd8\\xb3\\xaa",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 335,
+    "text": "獣舌井薦狛",
+    "bytes": "\\xbd\\xc3\\xc0\\xe5\\xb0\\xe6\\xc1\\xa6\\xb9\\xfd",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 336,
+    "text": "左右板挟み",
+    "bytes": "\\xba\\xb8\\xb1\\xa6\\xc8\\xc4\\xb6\\xb4\\xa4\\xdf",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 337,
+    "text": "痔岫嗟狭遣",
+    "bytes": "\\xbc\\xa6\\xd6\\xad\\xd3\\xcd\\xb6\\xb9\\xb8\\xaf",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 338,
+    "text": "肇杯刊月走",
+    "bytes": "\\xc8\\xa5\\xc7\\xd5\\xb4\\xa9\\xb7\\xee\\xc1\\xf6",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 339,
+    "text": "ページ遷移",
+    "bytes": "\\xa5\\xda\\xa1\\xbc\\xa5\\xb8\\xc1\\xab\\xb0\\xdc",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 340,
+    "text": "揚げ玉ねぎ",
+    "bytes": "\\xcd\\xc8\\xa4\\xb2\\xb6\\xcc\\xa4\\xcd\\xa4\\xae",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 341,
+    "text": "舛穿笑穿据",
+    "bytes": "\\xc1\\xa4\\xc0\\xfc\\xbe\\xd0\\xc0\\xfc\\xbf\\xf8",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 342,
+    "text": "昔斗掛舛左",
+    "bytes": "\\xc0\\xce\\xc5\\xcd\\xb3\\xdd\\xc1\\xa4\\xba\\xb8",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 343,
+    "text": "独杉淑独繕",
+    "bytes": "\\xc6\\xc8\\xbf\\xf9\\xbd\\xca\\xc6\\xc8\\xc1\\xb6",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 344,
+    "text": "新疆製薬所",
+    "bytes": "\\xbf\\xb7\\xe1\\xc5\\xc0\\xbd\\xcc\\xf4\\xbd\\xea",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 345,
+    "text": "看護マナー",
+    "bytes": "\\xb4\\xc7\\xb8\\xee\\xa5\\xde\\xa5\\xca\\xa1\\xbc",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 346,
+    "text": "気分を養う",
+    "bytes": "\\xb5\\xa4\\xca\\xac\\xa4\\xf2\\xcd\\xdc\\xa4\\xa6",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 347,
+    "text": "緑林の英雄",
+    "bytes": "\\xce\\xd0\\xce\\xd3\\xa4\\xce\\xb1\\xd1\\xcd\\xba",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 348,
+    "text": "風流な才子",
+    "bytes": "\\xc9\\xf7\\xce\\xae\\xa4\\xca\\xba\\xcd\\xbb\\xd2",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 349,
+    "text": "漠穣巴熊廿",
+    "bytes": "\\xc7\\xf9\\xbe\\xf7\\xc7\\xc3\\xb7\\xa7\\xc6\\xfb",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 350,
+    "text": "新長征花苑",
+    "bytes": "\\xbf\\xb7\\xc4\\xb9\\xc0\\xac\\xb2\\xd6\\xb1\\xf1",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 351,
+    "text": "城隍廟通り",
+    "bytes": "\\xbe\\xeb\\xf0\\xa6\\xc9\\xc0\\xc4\\xcc\\xa4\\xea",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 352,
+    "text": "図形学基礎",
+    "bytes": "\\xbf\\xde\\xb7\\xc1\\xb3\\xd8\\xb4\\xf0\\xc1\\xc3",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 353,
+    "text": "戚奄走公敗",
+    "bytes": "\\xc0\\xcc\\xb1\\xe2\\xc1\\xf6\\xb8\\xf8\\xc7\\xd4",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 354,
+    "text": "唖望謄爽頭",
+    "bytes": "\\xb0\\xa2\\xcb\\xbe\\xc6\\xa5\\xc1\\xd6\\xc6\\xac",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 355,
+    "text": "遺伝薬理学",
+    "bytes": "\\xb0\\xe4\\xc5\\xc1\\xcc\\xf4\\xcd\\xfd\\xb3\\xd8",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 356,
+    "text": "顎顔面奇形",
+    "bytes": "\\xb3\\xdc\\xb4\\xe9\\xcc\\xcc\\xb4\\xf1\\xb7\\xc1",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 357,
+    "text": "拭巨斗紫遂",
+    "bytes": "\\xbf\\xa1\\xb5\\xf0\\xc5\\xcd\\xbb\\xe7\\xbf\\xeb",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 358,
+    "text": "観光法研究",
+    "bytes": "\\xb4\\xd1\\xb8\\xf7\\xcb\\xa1\\xb8\\xa6\\xb5\\xe6",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 359,
+    "text": "坤霜硝坪臣",
+    "bytes": "\\xba\\xa5\\xc1\\xfa\\xbe\\xcb\\xc4\\xda\\xbf\\xc3",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 360,
+    "text": "乾鍋茶樹茸",
+    "bytes": "\\xb4\\xa5\\xc6\\xe9\\xc3\\xe3\\xbc\\xf9\\xc2\\xfb",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 361,
+    "text": "真珠スープ",
+    "bytes": "\\xbf\\xbf\\xbc\\xee\\xa5\\xb9\\xa1\\xbc\\xa5\\xd7",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 362,
+    "text": "発達心理学",
+    "bytes": "\\xc8\\xaf\\xc3\\xa3\\xbf\\xb4\\xcd\\xfd\\xb3\\xd8",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 363,
+    "text": "切馬暗銚酋",
+    "bytes": "\\xc0\\xda\\xc7\\xcf\\xb0\\xc5\\xc4\\xb8\\xbd\\xb6",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 364,
+    "text": "丶問障音糊",
+    "bytes": "\\xd0\\xa6\\xcc\\xe4\\xbe\\xe3\\xb2\\xbb\\xb8\\xd2",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 365,
+    "text": "西街小学校",
+    "bytes": "\\xc0\\xbe\\xb3\\xb9\\xbe\\xae\\xb3\\xd8\\xb9\\xbb",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 366,
+    "text": "延々と続く",
+    "bytes": "\\xb1\\xe4\\xa1\\xb9\\xa4\\xc8\\xc2\\xb3\\xa4\\xaf",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 367,
+    "text": "永安台通り",
+    "bytes": "\\xb1\\xca\\xb0\\xc2\\xc2\\xe6\\xc4\\xcc\\xa4\\xea",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 368,
+    "text": "古古焼紫走",
+    "bytes": "\\xb8\\xc5\\xb8\\xc5\\xbe\\xc6\\xbb\\xe7\\xc1\\xf6",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 369,
+    "text": "獣什奴政走",
+    "bytes": "\\xbd\\xc3\\xbd\\xba\\xc5\\xdb\\xc0\\xaf\\xc1\\xf6",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 370,
+    "text": "市皮膚病院",
+    "bytes": "\\xbb\\xd4\\xc8\\xe9\\xc9\\xe6\\xc9\\xc2\\xb1\\xa1",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 371,
+    "text": "但諺帖幻秩",
+    "bytes": "\\xc3\\xa2\\xb8\\xc1\\xc4\\xa1\\xb8\\xb8\\xc3\\xe1",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 372,
+    "text": "巨覗砺軒焼",
+    "bytes": "\\xb5\\xf0\\xc7\\xc1\\xc5\\xd7\\xb8\\xae\\xbe\\xc6",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 373,
+    "text": "タイヤ工場",
+    "bytes": "\\xa5\\xbf\\xa5\\xa4\\xa5\\xe4\\xb9\\xa9\\xbe\\xec",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 374,
+    "text": "二榎紗獣舌",
+    "bytes": "\\xc6\\xf3\\xb1\\xdd\\xbc\\xd3\\xbd\\xc3\\xc0\\xe5",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 375,
+    "text": "動的脳波図",
+    "bytes": "\\xc6\\xb0\\xc5\\xaa\\xc7\\xbe\\xc7\\xc8\\xbf\\xde",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 376,
+    "text": "硬膜外血腫",
+    "bytes": "\\xb9\\xc5\\xcb\\xec\\xb3\\xb0\\xb7\\xec\\xbc\\xf0",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 377,
+    "text": "企疑呼逐肢",
+    "bytes": "\\xb4\\xeb\\xb5\\xbf\\xb8\\xc6\\xc3\\xe0\\xbb\\xe8",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 378,
+    "text": "返湊咐稽将",
+    "bytes": "\\xca\\xd6\\xcc\\xab\\xd2\\xf5\\xb7\\xce\\xbe\\xad",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 379,
+    "text": "間質性肺炎",
+    "bytes": "\\xb4\\xd6\\xbc\\xc1\\xc0\\xad\\xc7\\xd9\\xb1\\xea",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 380,
+    "text": "忽嗤紘受隔",
+    "bytes": "\\xb9\\xfa\\xd3\\xd0\\xb9\\xc9\\xbc\\xf5\\xb3\\xd6",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 381,
+    "text": "針剽穂牢匣",
+    "bytes": "\\xbf\\xcb\\xd1\\xf7\\xca\\xe6\\xcf\\xb4\\xd2\\xba",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 382,
+    "text": "清金降火湯",
+    "bytes": "\\xc0\\xb6\\xb6\\xe2\\xb9\\xdf\\xb2\\xd0\\xc5\\xf2",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 383,
+    "text": "独左短惟剛",
+    "bytes": "\\xc6\\xc8\\xba\\xb8\\xc3\\xbb\\xb0\\xd4\\xb9\\xe4",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 384,
+    "text": "覗稽室什娃",
+    "bytes": "\\xc7\\xc1\\xb7\\xce\\xbc\\xbc\\xbd\\xba\\xb0\\xa3",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 385,
+    "text": "廓溢酎麼崙",
+    "bytes": "\\xb3\\xc7\\xb0\\xee\\xc3\\xf1\\xd6\\xf7\\xd6\\xc6",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 386,
+    "text": "国家の干渉",
+    "bytes": "\\xb9\\xf1\\xb2\\xc8\\xa4\\xce\\xb4\\xb3\\xbe\\xc4",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 387,
+    "text": "知識モード",
+    "bytes": "\\xc3\\xce\\xbc\\xb1\\xa5\\xe2\\xa1\\xbc\\xa5\\xc9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 388,
+    "text": "己訂屮醍郎",
+    "bytes": "\\xb8\\xca\\xc4\\xfb\\xd6\\xa5\\xc2\\xe9\\xcf\\xba",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 389,
+    "text": "雪泥の鴻爪",
+    "bytes": "\\xc0\\xe3\\xc5\\xa5\\xa4\\xce\\xb9\\xe3\\xc4\\xde",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 390,
+    "text": "最小致死量",
+    "bytes": "\\xba\\xc7\\xbe\\xae\\xc3\\xd7\\xbb\\xe0\\xce\\xcc",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 391,
+    "text": "識來兩毎况",
+    "bytes": "\\xbc\\xb1\\xd0\\xd4\\xd1\\xc0\\xcb\\xe8\\xd1\\xd7",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 392,
+    "text": "農産物市場",
+    "bytes": "\\xc7\\xc0\\xbb\\xba\\xca\\xaa\\xbb\\xd4\\xbe\\xec",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 393,
+    "text": "腎距嫻諸態",
+    "bytes": "\\xbf\\xd5\\xb5\\xf7\\xd5\\xc7\\xbd\\xf4\\xc2\\xd6",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 394,
+    "text": "ガラス工場",
+    "bytes": "\\xa5\\xac\\xa5\\xe9\\xa5\\xb9\\xb9\\xa9\\xbe\\xec",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 395,
+    "text": "蛍護忖憲堪",
+    "bytes": "\\xb7\\xd6\\xb8\\xee\\xd7\\xd6\\xb7\\xfb\\xb4\\xae",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 396,
+    "text": "扮寂鹸墫來",
+    "bytes": "\\xca\\xb1\\xbc\\xe4\\xb8\\xb4\\xd4\\xd3\\xd0\\xd4",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 397,
+    "text": "至穿切娃装",
+    "bytes": "\\xbb\\xea\\xc0\\xfc\\xc0\\xda\\xb0\\xa3\\xc1\\xf5",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 398,
+    "text": "差悪疑呼娃",
+    "bytes": "\\xba\\xb9\\xb0\\xad\\xb5\\xbf\\xb8\\xc6\\xb0\\xa3",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 399,
+    "text": "典拠がない",
+    "bytes": "\\xc5\\xb5\\xb5\\xf2\\xa4\\xac\\xa4\\xca\\xa4\\xa4",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 400,
+    "text": "立派な人物",
+    "bytes": "\\xce\\xa9\\xc7\\xc9\\xa4\\xca\\xbf\\xcd\\xca\\xaa",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 401,
+    "text": "走舛榎穿重店",
+    "bytes": "\\xc1\\xf6\\xc1\\xa4\\xb1\\xdd\\xc0\\xfc\\xbd\\xc5\\xc5\\xb9",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 402,
+    "text": "猟晒幹仟房深",
+    "bytes": "\\xce\\xc4\\xbb\\xaf\\xb4\\xb4\\xd0\\xc2\\xcb\\xbc\\xbf\\xbc",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 403,
+    "text": "春やよい柳枝",
+    "bytes": "\\xbd\\xd5\\xa4\\xe4\\xa4\\xe8\\xa4\\xa4\\xcc\\xf8\\xbb\\xde",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 404,
+    "text": "舘繕奄域因舌",
+    "bytes": "\\xb4\\xdc\\xc1\\xb6\\xb1\\xe2\\xb0\\xe8\\xb0\\xf8\\xc0\\xe5",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 405,
+    "text": "銀翹解毒顆粒",
+    "bytes": "\\xb6\\xe4\\xe6\\xcb\\xb2\\xf2\\xc6\\xc7\\xf0\\xf9\\xce\\xb3",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 406,
+    "text": "国務院組織法",
+    "bytes": "\\xb9\\xf1\\xcc\\xb3\\xb1\\xa1\\xc1\\xc8\\xbf\\xa5\\xcb\\xa1",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 407,
+    "text": "急性骨盤腔炎",
+    "bytes": "\\xb5\\xde\\xc0\\xad\\xb9\\xfc\\xc8\\xd7\\xb9\\xd0\\xb1\\xea",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 408,
+    "text": "花椎茸鴨の足",
+    "bytes": "\\xb2\\xd6\\xc4\\xc7\\xc2\\xfb\\xb3\\xfb\\xa4\\xce\\xc2\\xad",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 409,
+    "text": "痛舒カプセル",
+    "bytes": "\\xc4\\xcb\\xd0\\xb0\\xa5\\xab\\xa5\\xd7\\xa5\\xbb\\xa5\\xeb",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 410,
+    "text": "疱疹性咽頭炎",
+    "bytes": "\\xe1\\xd7\\xbf\\xbe\\xc0\\xad\\xb0\\xf6\\xc6\\xac\\xb1\\xea",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 411,
+    "text": "利大銭俊彜蓑",
+    "bytes": "\\xcd\\xf8\\xc2\\xe7\\xc1\\xac\\xbd\\xd3\\xd7\\xb4\\xcc\\xac",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 412,
+    "text": "忠誠を尽くす",
+    "bytes": "\\xc3\\xe9\\xc0\\xbf\\xa4\\xf2\\xbf\\xd4\\xa4\\xaf\\xa4\\xb9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 413,
+    "text": "錘慎端薦誓遂",
+    "bytes": "\\xbf\\xee\\xbf\\xb5\\xc3\\xbc\\xc1\\xa6\\xc0\\xc0\\xbf\\xeb",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 414,
+    "text": "左側窓ガラス",
+    "bytes": "\\xba\\xb8\\xc2\\xa6\\xc1\\xeb\\xa5\\xac\\xa5\\xe9\\xa5\\xb9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 415,
+    "text": "羨軸峇佩痕方",
+    "bytes": "\\xc1\\xa2\\xbc\\xb4\\xd6\\xb4\\xd0\\xd0\\xba\\xaf\\xca\\xfd",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 416,
+    "text": "厩採韻繕乞季",
+    "bytes": "\\xb1\\xb9\\xba\\xce\\xb1\\xa4\\xc1\\xb6\\xb8\\xf0\\xb5\\xa8",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 417,
+    "text": "焼きワンタン",
+    "bytes": "\\xbe\\xc6\\xa4\\xad\\xa5\\xef\\xa5\\xf3\\xa5\\xbf\\xa5\\xf3",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 418,
+    "text": "厩薦狛尻姥据",
+    "bytes": "\\xb1\\xb9\\xc1\\xa6\\xb9\\xfd\\xbf\\xac\\xb1\\xb8\\xbf\\xf8",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 419,
+    "text": "戚採覗稽謎舛",
+    "bytes": "\\xc0\\xcc\\xba\\xce\\xc7\\xc1\\xb7\\xce\\xc6\\xe6\\xc1\\xa4",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 420,
+    "text": "強連結グラフ",
+    "bytes": "\\xb6\\xaf\\xcf\\xa2\\xb7\\xeb\\xa5\\xb0\\xa5\\xe9\\xa5\\xd5",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 421,
+    "text": "社焼噛失原搾",
+    "bytes": "\\xbc\\xd2\\xbe\\xc6\\xb3\\xfa\\xbc\\xba\\xb8\\xb6\\xba\\xf1",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 422,
+    "text": "中枢性めまい",
+    "bytes": "\\xc3\\xe6\\xbf\\xf5\\xc0\\xad\\xa4\\xe1\\xa4\\xde\\xa4\\xa4",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 423,
+    "text": "毛角狭盲椿象",
+    "bytes": "\\xcc\\xd3\\xb3\\xd1\\xb6\\xb9\\xcc\\xd5\\xc4\\xd8\\xbe\\xdd",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 424,
+    "text": "アミオダロン",
+    "bytes": "\\xa5\\xa2\\xa5\\xdf\\xa5\\xaa\\xa5\\xc0\\xa5\\xed\\xa5\\xf3",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 425,
+    "text": "戚纏軒焼製縦",
+    "bytes": "\\xc0\\xcc\\xc5\\xbb\\xb8\\xae\\xbe\\xc6\\xc0\\xbd\\xbd\\xc4",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 426,
+    "text": "垓豚住歯栽揖",
+    "bytes": "\\xd4\\xb6\\xc6\\xda\\xbd\\xbb\\xbb\\xf5\\xba\\xcf\\xcd\\xac",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 427,
+    "text": "症歯住叟偏魁",
+    "bytes": "\\xbe\\xc9\\xbb\\xf5\\xbd\\xbb\\xd2\\xd7\\xca\\xd0\\xb3\\xa1",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 428,
+    "text": "急性拒絶反応",
+    "bytes": "\\xb5\\xde\\xc0\\xad\\xb5\\xf1\\xc0\\xe4\\xc8\\xbf\\xb1\\xfe",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 429,
+    "text": "姥耕娃殿銚酋",
+    "bytes": "\\xb1\\xb8\\xb9\\xcc\\xb0\\xa3\\xc5\\xc2\\xc4\\xb8\\xbd\\xb6",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 430,
+    "text": "システム回復",
+    "bytes": "\\xa5\\xb7\\xa5\\xb9\\xa5\\xc6\\xa5\\xe0\\xb2\\xf3\\xc9\\xfc",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 431,
+    "text": "貿易代理制度",
+    "bytes": "\\xcb\\xc7\\xb0\\xd7\\xc2\\xe5\\xcd\\xfd\\xc0\\xa9\\xc5\\xd9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 432,
+    "text": "旗尖竃笥栽揖",
+    "bytes": "\\xb4\\xfa\\xc0\\xed\\xb3\\xf6\\xbf\\xda\\xba\\xcf\\xcd\\xac",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 433,
+    "text": "ハードリンク",
+    "bytes": "\\xa5\\xcf\\xa1\\xbc\\xa5\\xc9\\xa5\\xea\\xa5\\xf3\\xa5\\xaf",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 434,
+    "text": "非居住者企業",
+    "bytes": "\\xc8\\xf3\\xb5\\xef\\xbd\\xbb\\xbc\\xd4\\xb4\\xeb\\xb6\\xc8",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 435,
+    "text": "都市建設学院",
+    "bytes": "\\xc5\\xd4\\xbb\\xd4\\xb7\\xfa\\xc0\\xdf\\xb3\\xd8\\xb1\\xa1",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 436,
+    "text": "ドリアンパイ",
+    "bytes": "\\xa5\\xc9\\xa5\\xea\\xa5\\xa2\\xa5\\xf3\\xa5\\xd1\\xa5\\xa4",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 437,
+    "text": "重複処理行為",
+    "bytes": "\\xbd\\xc5\\xca\\xa3\\xbd\\xe8\\xcd\\xfd\\xb9\\xd4\\xb0\\xd9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 438,
+    "text": "脆兄氏婢嶄伉",
+    "bytes": "\\xc0\\xc8\\xb7\\xbb\\xbb\\xe1\\xd5\\xb9\\xd6\\xd0\\xd0\\xc4",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 439,
+    "text": "即時実行関数",
+    "bytes": "\\xc2\\xa8\\xbb\\xfe\\xbc\\xc2\\xb9\\xd4\\xb4\\xd8\\xbf\\xf4",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 440,
+    "text": "廿概糞喘臥儂",
+    "bytes": "\\xc6\\xfb\\xb3\\xb5\\xca\\xb5\\xd3\\xc3\\xb2\\xe9\\xd1\\xaf",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 441,
+    "text": "絶白軌易僮屏",
+    "bytes": "\\xc0\\xe4\\xc7\\xf2\\xb5\\xb0\\xb0\\xd7\\xd1\\xaa\\xd6\\xa2",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 442,
+    "text": "アルキル化剤",
+    "bytes": "\\xa5\\xa2\\xa5\\xeb\\xa5\\xad\\xa5\\xeb\\xb2\\xbd\\xba\\xde",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 443,
+    "text": "蓄探瀬紫戚闘",
+    "bytes": "\\xc3\\xdf\\xc3\\xb5\\xc0\\xa5\\xbb\\xe7\\xc0\\xcc\\xc6\\xae",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 444,
+    "text": "辛李遇音辛軸",
+    "bytes": "\\xbf\\xc9\\xcd\\xfb\\xb6\\xf8\\xb2\\xbb\\xbf\\xc9\\xbc\\xb4",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 445,
+    "text": "続発性肺結核",
+    "bytes": "\\xc2\\xb3\\xc8\\xaf\\xc0\\xad\\xc7\\xd9\\xb7\\xeb\\xb3\\xcb",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 446,
+    "text": "狛旋箭託庚辞",
+    "bytes": "\\xb9\\xfd\\xc0\\xfb\\xc0\\xfd\\xc2\\xf7\\xb9\\xae\\xbc\\xad",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 447,
+    "text": "新市区裁判所",
+    "bytes": "\\xbf\\xb7\\xbb\\xd4\\xb6\\xe8\\xba\\xdb\\xc8\\xbd\\xbd\\xea",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 448,
+    "text": "阿膠カプセル",
+    "bytes": "\\xb0\\xa4\\xe7\\xb1\\xa5\\xab\\xa5\\xd7\\xa5\\xbb\\xa5\\xeb",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 449,
+    "text": "嘘搭井茸企企",
+    "bytes": "\\xb1\\xb3\\xc5\\xeb\\xb0\\xe6\\xc2\\xfb\\xb4\\xeb\\xb4\\xeb",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 450,
+    "text": "醜態をさらす",
+    "bytes": "\\xbd\\xb9\\xc2\\xd6\\xa4\\xf2\\xa4\\xb5\\xa4\\xe9\\xa4\\xb9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 451,
+    "text": "昔巴傾戚芝晴",
+    "bytes": "\\xc0\\xce\\xc7\\xc3\\xb7\\xb9\\xc0\\xcc\\xbc\\xc7\\xc0\\xb2",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 452,
+    "text": "医療事故鑑定",
+    "bytes": "\\xb0\\xe5\\xce\\xc5\\xbb\\xf6\\xb8\\xce\\xb4\\xd5\\xc4\\xea",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 453,
+    "text": "左脚ブロック",
+    "bytes": "\\xba\\xb8\\xb5\\xd3\\xa5\\xd6\\xa5\\xed\\xa5\\xc3\\xa5\\xaf",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 454,
+    "text": "跡嬢人壱醤濁",
+    "bytes": "\\xc0\\xd7\\xbe\\xee\\xbf\\xcd\\xb0\\xed\\xbe\\xdf\\xc2\\xf9",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 455,
+    "text": "砧採刃切蕩沿",
+    "bytes": "\\xb5\\xce\\xba\\xce\\xbf\\xcf\\xc0\\xda\\xc6\\xa2\\xb1\\xe8",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 456,
+    "text": "廣過氏柴弗隈",
+    "bytes": "\\xd7\\xa2\\xb2\\xe1\\xbb\\xe1\\xbc\\xc6\\xca\\xa6\\xb7\\xa8",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 457,
+    "text": "システム実行",
+    "bytes": "\\xa5\\xb7\\xa5\\xb9\\xa5\\xc6\\xa5\\xe0\\xbc\\xc2\\xb9\\xd4",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 458,
+    "text": "授託煽舌姥繕",
+    "bytes": "\\xbc\\xf8\\xc2\\xf7\\xc0\\xfa\\xc0\\xe5\\xb1\\xb8\\xc1\\xb6",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 459,
+    "text": "出血性膀胱炎",
+    "bytes": "\\xbd\\xd0\\xb7\\xec\\xc0\\xad\\xe7\\xaf\\xe6\\xf9\\xb1\\xea",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 460,
+    "text": "克感利咽顆粒",
+    "bytes": "\\xb9\\xee\\xb4\\xb6\\xcd\\xf8\\xb0\\xf6\\xf0\\xf9\\xce\\xb3",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 461,
+    "text": "密塀噌域雑乢",
+    "bytes": "\\xcc\\xa9\\xca\\xbd\\xc1\\xb9\\xb0\\xe8\\xbb\\xa8\\xd6\\xa6",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 462,
+    "text": "左壱辞獣什奴",
+    "bytes": "\\xba\\xb8\\xb0\\xed\\xbc\\xad\\xbd\\xc3\\xbd\\xba\\xc5\\xdb",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 463,
+    "text": "展績十虞戚什",
+    "bytes": "\\xc5\\xb8\\xc0\\xd3\\xbd\\xbd\\xb6\\xf3\\xc0\\xcc\\xbd\\xba",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 464,
+    "text": "炉甘石洗浄液",
+    "bytes": "\\xcf\\xa7\\xb4\\xc5\\xc0\\xd0\\xc0\\xf6\\xbe\\xf4\\xb1\\xd5",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 465,
+    "text": "旦杷燃砧銚酋",
+    "bytes": "\\xc3\\xb6\\xc7\\xc7\\xc7\\xb3\\xb5\\xce\\xc4\\xb8\\xbd\\xb6",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 466,
+    "text": "凪鍵亀覗険舛",
+    "bytes": "\\xc6\\xe4\\xb8\\xb0\\xb5\\xb5\\xc7\\xc1\\xb8\\xb1\\xc1\\xa4",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 467,
+    "text": "数学演算関数",
+    "bytes": "\\xbf\\xf4\\xb3\\xd8\\xb1\\xe9\\xbb\\xbb\\xb4\\xd8\\xbf\\xf4",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 468,
+    "text": "銀耳健康飲料",
+    "bytes": "\\xb6\\xe4\\xbc\\xaa\\xb7\\xf2\\xb9\\xaf\\xb0\\xfb\\xce\\xc1",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 469,
+    "text": "箪悶恵諒陣崙",
+    "bytes": "\\xc3\\xbd\\xcc\\xe5\\xb7\\xc3\\xce\\xca\\xbf\\xd8\\xd6\\xc6",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 470,
+    "text": "析紫析税薦亀",
+    "bytes": "\\xc0\\xcf\\xbb\\xe7\\xc0\\xcf\\xc0\\xc7\\xc1\\xa6\\xb5\\xb5",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 471,
+    "text": "箪悶陣崙俊笥",
+    "bytes": "\\xc3\\xbd\\xcc\\xe5\\xbf\\xd8\\xd6\\xc6\\xbd\\xd3\\xbf\\xda",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 472,
+    "text": "晒擢來購准况",
+    "bytes": "\\xbb\\xaf\\xc5\\xa7\\xd0\\xd4\\xb9\\xd8\\xbd\\xda\\xd1\\xd7",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 473,
+    "text": "大黄通便顆粒",
+    "bytes": "\\xc2\\xe7\\xb2\\xab\\xc4\\xcc\\xca\\xd8\\xf0\\xf9\\xce\\xb3",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 474,
+    "text": "推偽装失噛佐",
+    "bytes": "\\xbf\\xe4\\xb5\\xb6\\xc1\\xf5\\xbc\\xba\\xb3\\xfa\\xba\\xb4",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 475,
+    "text": "衣肺失差厳唇",
+    "bytes": "\\xb0\\xe1\\xc7\\xd9\\xbc\\xba\\xba\\xb9\\xb8\\xb7\\xbf\\xb0",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 476,
+    "text": "看護文書作成",
+    "bytes": "\\xb4\\xc7\\xb8\\xee\\xca\\xb8\\xbd\\xf1\\xba\\xee\\xc0\\xae",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 477,
+    "text": "水も漏らさぬ",
+    "bytes": "\\xbf\\xe5\\xa4\\xe2\\xcf\\xb3\\xa4\\xe9\\xa4\\xb5\\xa4\\xcc",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 478,
+    "text": "掴奨垢匍寄僥",
+    "bytes": "\\xc4\\xcf\\xbe\\xa9\\xb9\\xa4\\xd2\\xb5\\xb4\\xf3\\xd1\\xa7",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 479,
+    "text": "ダウンリンク",
+    "bytes": "\\xa5\\xc0\\xa5\\xa6\\xa5\\xf3\\xa5\\xea\\xa5\\xf3\\xa5\\xaf",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 480,
+    "text": "貝社伐端督伸",
+    "bytes": "\\xb3\\xad\\xbc\\xd2\\xc8\\xb2\\xc3\\xbc\\xc6\\xc4\\xbf\\xad",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 481,
+    "text": "帰決覗展戚嬢",
+    "bytes": "\\xb5\\xa2\\xb7\\xe8\\xc7\\xc1\\xc5\\xb8\\xc0\\xcc\\xbe\\xee",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 482,
+    "text": "五匿坤繕凪轄",
+    "bytes": "\\xb8\\xde\\xc6\\xbf\\xba\\xa5\\xc1\\xb6\\xc6\\xe4\\xb3\\xed",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 483,
+    "text": "住宅保障支援",
+    "bytes": "\\xbd\\xbb\\xc2\\xf0\\xca\\xdd\\xbe\\xe3\\xbb\\xd9\\xb1\\xe7",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 484,
+    "text": "開洋干し豆腐",
+    "bytes": "\\xb3\\xab\\xcd\\xce\\xb4\\xb3\\xa4\\xb7\\xc6\\xa6\\xc9\\xe5",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 485,
+    "text": "ぴえでけ丞過",
+    "bytes": "\\xa4\\xd4\\xa4\\xa8\\xa4\\xc7\\xa4\\xb1\\xbe\\xe7\\xb2\\xe1",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 486,
+    "text": "道路橋梁会社",
+    "bytes": "\\xc6\\xbb\\xcf\\xa9\\xb6\\xb6\\xce\\xc2\\xb2\\xf1\\xbc\\xd2",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 487,
+    "text": "加水分解酵素",
+    "bytes": "\\xb2\\xc3\\xbf\\xe5\\xca\\xac\\xb2\\xf2\\xb9\\xda\\xc1\\xc7",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 488,
+    "text": "音徭喇例逓棒",
+    "bytes": "\\xb2\\xbb\\xd7\\xd4\\xd3\\xc9\\xce\\xe3\\xc4\\xfe\\xcb\\xc0",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 489,
+    "text": "メディア監視",
+    "bytes": "\\xa5\\xe1\\xa5\\xc7\\xa5\\xa3\\xa5\\xa2\\xb4\\xc6\\xbb\\xeb",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 490,
+    "text": "蕩延源鍵砧採",
+    "bytes": "\\xc6\\xa2\\xb1\\xe4\\xb8\\xbb\\xb8\\xb0\\xb5\\xce\\xba\\xce",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 491,
+    "text": "画像切り取り",
+    "bytes": "\\xb2\\xe8\\xc1\\xfc\\xc0\\xda\\xa4\\xea\\xbc\\xe8\\xa4\\xea",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 492,
+    "text": "経済貿易学院",
+    "bytes": "\\xb7\\xd0\\xba\\xd1\\xcb\\xc7\\xb0\\xd7\\xb3\\xd8\\xb1\\xa1",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 493,
+    "text": "覗稽益轡煽舌",
+    "bytes": "\\xc7\\xc1\\xb7\\xce\\xb1\\xd7\\xb7\\xa5\\xc0\\xfa\\xc0\\xe5",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 494,
+    "text": "名目を立てる",
+    "bytes": "\\xcc\\xbe\\xcc\\xdc\\xa4\\xf2\\xce\\xa9\\xa4\\xc6\\xa4\\xeb",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 495,
+    "text": "緩瀧岻寔來匆",
+    "bytes": "\\xb4\\xcb\\xc2\\xed\\xd6\\xae\\xd5\\xe6\\xd0\\xd4\\xd2\\xb2",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 496,
+    "text": "唇至砺虞繕重",
+    "bytes": "\\xbf\\xb0\\xbb\\xea\\xc5\\xd7\\xb6\\xf3\\xc1\\xb6\\xbd\\xc5",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 497,
+    "text": "酸味辛味豚肘",
+    "bytes": "\\xbb\\xc0\\xcc\\xa3\\xbf\\xc9\\xcc\\xa3\\xc6\\xda\\xc9\\xaa",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 498,
+    "text": "夜夜息を得ず",
+    "bytes": "\\xcc\\xeb\\xcc\\xeb\\xc2\\xa9\\xa4\\xf2\\xc6\\xc0\\xa4\\xba",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 499,
+    "text": "域鉢届町厩呪",
+    "bytes": "\\xb0\\xe8\\xc8\\xad\\xc6\\xcf\\xc4\\xae\\xb1\\xb9\\xbc\\xf6",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 500,
+    "text": "醸鯛侘撹汽了",
+    "bytes": "\\xbe\\xfa\\xc2\\xe4\\xd0\\xce\\xb3\\xc9\\xb5\\xa5\\xce\\xbb",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 501,
+    "text": "結晶タンパク質",
+    "bytes": "\\xb7\\xeb\\xbe\\xbd\\xa5\\xbf\\xa5\\xf3\\xa5\\xd1\\xa5\\xaf\\xbc\\xc1",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 502,
+    "text": "井恵聖刃鉢馬陥",
+    "bytes": "\\xb0\\xe6\\xb7\\xc3\\xc0\\xbb\\xbf\\xcf\\xc8\\xad\\xc7\\xcf\\xb4\\xd9",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 503,
+    "text": "豆腐スペアリブ",
+    "bytes": "\\xc6\\xa6\\xc9\\xe5\\xa5\\xb9\\xa5\\xda\\xa5\\xa2\\xa5\\xea\\xa5\\xd6",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 504,
+    "text": "骨癒しカプセル",
+    "bytes": "\\xb9\\xfc\\xcc\\xfe\\xa4\\xb7\\xa5\\xab\\xa5\\xd7\\xa5\\xbb\\xa5\\xeb",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 505,
+    "text": "悪栽嘘搭井茸企",
+    "bytes": "\\xb0\\xad\\xba\\xcf\\xb1\\xb3\\xc5\\xeb\\xb0\\xe6\\xc2\\xfb\\xb4\\xeb",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 506,
+    "text": "焦失繕送室匂佐",
+    "bytes": "\\xbe\\xc7\\xbc\\xba\\xc1\\xb6\\xc1\\xf7\\xbc\\xbc\\xc6\\xf7\\xba\\xb4",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 507,
+    "text": "急性心因性反応",
+    "bytes": "\\xb5\\xde\\xc0\\xad\\xbf\\xb4\\xb0\\xf8\\xc0\\xad\\xc8\\xbf\\xb1\\xfe",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 508,
+    "text": "公務員試験制度",
+    "bytes": "\\xb8\\xf8\\xcc\\xb3\\xb0\\xf7\\xbb\\xee\\xb8\\xb3\\xc0\\xa9\\xc5\\xd9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 509,
+    "text": "搾琶呪因疑社勺",
+    "bytes": "\\xba\\xf1\\xc7\\xca\\xbc\\xf6\\xb0\\xf8\\xb5\\xbf\\xbc\\xd2\\xbc\\xdb",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 510,
+    "text": "析号旋域鉦曽戟",
+    "bytes": "\\xc0\\xcf\\xb9\\xe6\\xc0\\xfb\\xb0\\xe8\\xbe\\xe0\\xc1\\xbe\\xb7\\xe1",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 511,
+    "text": "拷益虞錘球仙持",
+    "bytes": "\\xb9\\xe9\\xb1\\xd7\\xb6\\xf3\\xbf\\xee\\xb5\\xe5\\xc0\\xe7\\xbb\\xfd",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 512,
+    "text": "詩は我が家の事",
+    "bytes": "\\xbb\\xed\\xa4\\xcf\\xb2\\xe6\\xa4\\xac\\xb2\\xc8\\xa4\\xce\\xbb\\xf6",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 513,
+    "text": "什砺焼険硝坪臣",
+    "bytes": "\\xbd\\xba\\xc5\\xd7\\xbe\\xc6\\xb8\\xb1\\xbe\\xcb\\xc4\\xda\\xbf\\xc3",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 514,
+    "text": "緩仇奚療喘諮好",
+    "bytes": "\\xb4\\xcb\\xb5\\xd8\\xd4\\xf8\\xce\\xc5\\xd3\\xc3\\xbb\\xf0\\xb9\\xa5",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 515,
+    "text": "玄精伝蕩延咽但",
+    "bytes": "\\xb8\\xbc\\xc0\\xba\\xc5\\xc1\\xc6\\xa2\\xb1\\xe4\\xb0\\xf6\\xc3\\xa2",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 516,
+    "text": "聡号据梓呪陥紫",
+    "bytes": "\\xc1\\xef\\xb9\\xe6\\xbf\\xf8\\xb0\\xb4\\xbc\\xf6\\xb4\\xd9\\xbb\\xe7",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 517,
+    "text": "掻厩左舌失爽澱",
+    "bytes": "\\xc1\\xdf\\xb1\\xb9\\xba\\xb8\\xc0\\xe5\\xbc\\xba\\xc1\\xd6\\xc5\\xc3",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 518,
+    "text": "分娩過程の延長",
+    "bytes": "\\xca\\xac\\xca\\xda\\xb2\\xe1\\xc4\\xf8\\xa4\\xce\\xb1\\xe4\\xc4\\xb9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 519,
+    "text": "不動産法制研究",
+    "bytes": "\\xc9\\xd4\\xc6\\xb0\\xbb\\xba\\xcb\\xa1\\xc0\\xa9\\xb8\\xa6\\xb5\\xe6",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 520,
+    "text": "冦磨署胡莱扱頭",
+    "bytes": "\\xd1\\xce\\xcb\\xe1\\xbd\\xf0\\xb8\\xd5\\xcd\\xe9\\xb0\\xb7\\xc6\\xac",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 521,
+    "text": "電子真空ポンプ",
+    "bytes": "\\xc5\\xc5\\xbb\\xd2\\xbf\\xbf\\xb6\\xf5\\xa5\\xdd\\xa5\\xf3\\xa5\\xd7",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 522,
+    "text": "ハードディスク",
+    "bytes": "\\xa5\\xcf\\xa1\\xbc\\xa5\\xc9\\xa5\\xc7\\xa5\\xa3\\xa5\\xb9\\xa5\\xaf",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 523,
+    "text": "塩酸モルヒネ錠",
+    "bytes": "\\xb1\\xf6\\xbb\\xc0\\xa5\\xe2\\xa5\\xeb\\xa5\\xd2\\xa5\\xcd\\xbe\\xfb",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 524,
+    "text": "カスタードパイ",
+    "bytes": "\\xa5\\xab\\xa5\\xb9\\xa5\\xbf\\xa1\\xbc\\xa5\\xc9\\xa5\\xd1\\xa5\\xa4",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 525,
+    "text": "坪翌彿飽楕由匯",
+    "bytes": "\\xc4\\xda\\xcd\\xe2\\xd7\\xca\\xcb\\xb0\\xc2\\xca\\xcd\\xb3\\xd2\\xbb",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 526,
+    "text": "毒衣板霜税誓岩",
+    "bytes": "\\xc6\\xc7\\xb0\\xe1\\xc8\\xc4\\xc1\\xfa\\xc0\\xc7\\xc0\\xc0\\xb4\\xe4",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 527,
+    "text": "アンフェタミン",
+    "bytes": "\\xa5\\xa2\\xa5\\xf3\\xa5\\xd5\\xa5\\xa7\\xa5\\xbf\\xa5\\xdf\\xa5\\xf3",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 528,
+    "text": "重識廃政切爽什",
+    "bytes": "\\xbd\\xc5\\xbc\\xb1\\xc7\\xd1\\xc0\\xaf\\xc0\\xda\\xc1\\xd6\\xbd\\xba",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 529,
+    "text": "壕因裟獣爽是呪",
+    "bytes": "\\xb9\\xe8\\xb0\\xf8\\xba\\xc0\\xbd\\xc3\\xc1\\xd6\\xc0\\xa7\\xbc\\xf6",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 530,
+    "text": "因巷据獣蝿薦亀",
+    "bytes": "\\xb0\\xf8\\xb9\\xab\\xbf\\xf8\\xbd\\xc3\\xc7\\xe8\\xc1\\xa6\\xb5\\xb5",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 531,
+    "text": "持至勲歳壕域鉦",
+    "bytes": "\\xbb\\xfd\\xbb\\xea\\xb7\\xae\\xba\\xd0\\xb9\\xe8\\xb0\\xe8\\xbe\\xe0",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 532,
+    "text": "新血宝カプセル",
+    "bytes": "\\xbf\\xb7\\xb7\\xec\\xca\\xf5\\xa5\\xab\\xa5\\xd7\\xa5\\xbb\\xa5\\xeb",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 533,
+    "text": "適虞酔球悪税叔",
+    "bytes": "\\xc5\\xac\\xb6\\xf3\\xbf\\xec\\xb5\\xe5\\xb0\\xad\\xc0\\xc7\\xbd\\xc7",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 534,
+    "text": "原製聖旭戚馬陥",
+    "bytes": "\\xb8\\xb6\\xc0\\xbd\\xc0\\xbb\\xb0\\xb0\\xc0\\xcc\\xc7\\xcf\\xb4\\xd9",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 535,
+    "text": "波風が立たない",
+    "bytes": "\\xc7\\xc8\\xc9\\xf7\\xa4\\xac\\xce\\xa9\\xa4\\xbf\\xa4\\xca\\xa4\\xa4",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 536,
+    "text": "切疑託亀舌因狛",
+    "bytes": "\\xc0\\xda\\xb5\\xbf\\xc2\\xf7\\xb5\\xb5\\xc0\\xe5\\xb0\\xf8\\xb9\\xfd",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 537,
+    "text": "惜しい一渓風月",
+    "bytes": "\\xc0\\xcb\\xa4\\xb7\\xa4\\xa4\\xb0\\xec\\xb7\\xcc\\xc9\\xf7\\xb7\\xee",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 538,
+    "text": "従業員研修制度",
+    "bytes": "\\xbd\\xbe\\xb6\\xc8\\xb0\\xf7\\xb8\\xa6\\xbd\\xa4\\xc0\\xa9\\xc5\\xd9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 539,
+    "text": "器用貧乏になる",
+    "bytes": "\\xb4\\xef\\xcd\\xd1\\xc9\\xcf\\xcb\\xb3\\xa4\\xcb\\xa4\\xca\\xa4\\xeb",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 540,
+    "text": "互怏扱噬窃嶄蕎",
+    "bytes": "\\xb8\\xdf\\xd7\\xe9\\xb0\\xb7\\xd3\\xe3\\xc0\\xe0\\xd6\\xd0\\xb6\\xbe",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 541,
+    "text": "オープンソース",
+    "bytes": "\\xa5\\xaa\\xa1\\xbc\\xa5\\xd7\\xa5\\xf3\\xa5\\xbd\\xa1\\xbc\\xa5\\xb9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 542,
+    "text": "パルス式電磁弁",
+    "bytes": "\\xa5\\xd1\\xa5\\xeb\\xa5\\xb9\\xbc\\xb0\\xc5\\xc5\\xbc\\xa7\\xca\\xdb",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 543,
+    "text": "侈並隈登盾冩梢",
+    "bytes": "\\xd0\\xcc\\xca\\xc2\\xb7\\xa8\\xc5\\xd0\\xbd\\xe2\\xd1\\xd0\\xbe\\xbf",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 544,
+    "text": "維爾康カプセル",
+    "bytes": "\\xb0\\xdd\\xbc\\xa4\\xb9\\xaf\\xa5\\xab\\xa5\\xd7\\xa5\\xbb\\xa5\\xeb",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 545,
+    "text": "凪戚走嘘端舛奪",
+    "bytes": "\\xc6\\xe4\\xc0\\xcc\\xc1\\xf6\\xb1\\xb3\\xc3\\xbc\\xc1\\xa4\\xc3\\xa5",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 546,
+    "text": "掻税俳神淫引俳",
+    "bytes": "\\xc1\\xdf\\xc0\\xc7\\xc7\\xd0\\xbf\\xc0\\xb0\\xfc\\xb0\\xfa\\xc7\\xd0",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 547,
+    "text": "識失殿呪走採走",
+    "bytes": "\\xbc\\xb1\\xbc\\xba\\xc5\\xc2\\xbc\\xf6\\xc1\\xf6\\xba\\xce\\xc1\\xf6",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 548,
+    "text": "江海波浪が巻く",
+    "bytes": "\\xb9\\xbe\\xb3\\xa4\\xc7\\xc8\\xcf\\xb2\\xa4\\xac\\xb4\\xac\\xa4\\xaf",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 549,
+    "text": "娃舘廃硝壱軒葬",
+    "bytes": "\\xb0\\xa3\\xb4\\xdc\\xc7\\xd1\\xbe\\xcb\\xb0\\xed\\xb8\\xae\\xc1\\xf2",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 550,
+    "text": "形式的システム",
+    "bytes": "\\xb7\\xc1\\xbc\\xb0\\xc5\\xaa\\xa5\\xb7\\xa5\\xb9\\xa5\\xc6\\xa5\\xe0",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 551,
+    "text": "潤准來謹強琢况",
+    "bytes": "\\xbd\\xe1\\xbd\\xda\\xd0\\xd4\\xb6\\xe0\\xb6\\xaf\\xc2\\xf6\\xd1\\xd7",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 552,
+    "text": "働紺狛舛仙毒舌",
+    "bytes": "\\xc6\\xaf\\xba\\xb0\\xb9\\xfd\\xc1\\xa4\\xc0\\xe7\\xc6\\xc7\\xc0\\xe5",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 553,
+    "text": "豚の血団子炒め",
+    "bytes": "\\xc6\\xda\\xa4\\xce\\xb7\\xec\\xc3\\xc4\\xbb\\xd2\\xdf\\xd6\\xa4\\xe1",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 554,
+    "text": "プログラム保護",
+    "bytes": "\\xa5\\xd7\\xa5\\xed\\xa5\\xb0\\xa5\\xe9\\xa5\\xe0\\xca\\xdd\\xb8\\xee",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 555,
+    "text": "人号域馬諮嬢娃",
+    "bytes": "\\xbf\\xcd\\xb9\\xe6\\xb0\\xe8\\xc7\\xcf\\xbb\\xf0\\xbe\\xee\\xb0\\xa3",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 556,
+    "text": "凪戚走掻肖舛慶",
+    "bytes": "\\xc6\\xe4\\xc0\\xcc\\xc1\\xf6\\xc1\\xdf\\xbe\\xd3\\xc1\\xa4\\xb7\\xc4",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 557,
+    "text": "耳から膿が出る",
+    "bytes": "\\xbc\\xaa\\xa4\\xab\\xa4\\xe9\\xc7\\xbf\\xa4\\xac\\xbd\\xd0\\xa4\\xeb",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 558,
+    "text": "蒙艶隈優険優海",
+    "bytes": "\\xcc\\xd8\\xb1\\xf0\\xb7\\xa8\\xcd\\xa5\\xb8\\xb1\\xcd\\xa5\\xb3\\xa4",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 559,
+    "text": "ネオジムガラス",
+    "bytes": "\\xa5\\xcd\\xa5\\xaa\\xa5\\xb8\\xa5\\xe0\\xa5\\xac\\xa5\\xe9\\xa5\\xb9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 560,
+    "text": "政析廃析恵腰硲",
+    "bytes": "\\xc0\\xaf\\xc0\\xcf\\xc7\\xd1\\xc0\\xcf\\xb7\\xc3\\xb9\\xf8\\xc8\\xa3",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 561,
+    "text": "明清法制度初探",
+    "bytes": "\\xcc\\xc0\\xc0\\xb6\\xcb\\xa1\\xc0\\xa9\\xc5\\xd9\\xbd\\xe9\\xc3\\xb5",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 562,
+    "text": "目を覆うばかり",
+    "bytes": "\\xcc\\xdc\\xa4\\xf2\\xca\\xa4\\xa4\\xa6\\xa4\\xd0\\xa4\\xab\\xa4\\xea",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 563,
+    "text": "心筋トロポニン",
+    "bytes": "\\xbf\\xb4\\xb6\\xda\\xa5\\xc8\\xa5\\xed\\xa5\\xdd\\xa5\\xcb\\xa5\\xf3",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 564,
+    "text": "化膿性髄膜脳炎",
+    "bytes": "\\xb2\\xbd\\xc7\\xbf\\xc0\\xad\\xbf\\xf1\\xcb\\xec\\xc7\\xbe\\xb1\\xea",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 565,
+    "text": "酔った後の失言",
+    "bytes": "\\xbf\\xec\\xa4\\xc3\\xa4\\xbf\\xb8\\xe5\\xa4\\xce\\xbc\\xba\\xb8\\xc0",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 566,
+    "text": "伸勧戚郊虞左陥",
+    "bytes": "\\xbf\\xad\\xb4\\xab\\xc0\\xcc\\xb9\\xd9\\xb6\\xf3\\xba\\xb8\\xb4\\xd9",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 567,
+    "text": "淡水魚の蒸し物",
+    "bytes": "\\xc3\\xb8\\xbf\\xe5\\xb5\\xfb\\xa4\\xce\\xbe\\xf8\\xa4\\xb7\\xca\\xaa",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 568,
+    "text": "傚廓珊需凝冗雑",
+    "bytes": "\\xd0\\xfb\\xb3\\xc7\\xbb\\xb9\\xbc\\xfb\\xb6\\xc5\\xbe\\xe9\\xbb\\xa8",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 569,
+    "text": "壱発採紗奄唇穿",
+    "bytes": "\\xb0\\xed\\xc8\\xaf\\xba\\xce\\xbc\\xd3\\xb1\\xe2\\xbf\\xb0\\xc0\\xfc",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 570,
+    "text": "光に対する適応",
+    "bytes": "\\xb8\\xf7\\xa4\\xcb\\xc2\\xd0\\xa4\\xb9\\xa4\\xeb\\xc5\\xac\\xb1\\xfe",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 571,
+    "text": "不法な土地占有",
+    "bytes": "\\xc9\\xd4\\xcb\\xa1\\xa4\\xca\\xc5\\xda\\xc3\\xcf\\xc0\\xea\\xcd\\xad",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 572,
+    "text": "コレステロール",
+    "bytes": "\\xa5\\xb3\\xa5\\xec\\xa5\\xb9\\xa5\\xc6\\xa5\\xed\\xa1\\xbc\\xa5\\xeb",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 573,
+    "text": "唇至章崎系車舛",
+    "bytes": "\\xbf\\xb0\\xbb\\xea\\xbe\\xcf\\xba\\xea\\xb7\\xcf\\xbc\\xd6\\xc1\\xa4",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 574,
+    "text": "信号シーケンス",
+    "bytes": "\\xbf\\xae\\xb9\\xe6\\xa5\\xb7\\xa1\\xbc\\xa5\\xb1\\xa5\\xf3\\xa5\\xb9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 575,
+    "text": "今戚臓蝕蒋暗軒",
+    "bytes": "\\xba\\xa3\\xc0\\xcc\\xc2\\xa1\\xbf\\xaa\\xbe\\xd5\\xb0\\xc5\\xb8\\xae",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 576,
+    "text": "単核細胞増多症",
+    "bytes": "\\xc3\\xb1\\xb3\\xcb\\xba\\xd9\\xcb\\xa6\\xc1\\xfd\\xc2\\xbf\\xbe\\xc9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 577,
+    "text": "登褐事含傾什肩",
+    "bytes": "\\xc5\\xd0\\xb3\\xec\\xbb\\xf6\\xb4\\xde\\xb7\\xb9\\xbd\\xba\\xb8\\xaa",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 578,
+    "text": "敬して遠ざける",
+    "bytes": "\\xb7\\xc9\\xa4\\xb7\\xa4\\xc6\\xb1\\xf3\\xa4\\xb6\\xa4\\xb1\\xa4\\xeb",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 579,
+    "text": "嬢葛砺戚芝鯵降",
+    "bytes": "\\xbe\\xee\\xb3\\xeb\\xc5\\xd7\\xc0\\xcc\\xbc\\xc7\\xb0\\xb3\\xb9\\xdf",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 580,
+    "text": "サンプリング率",
+    "bytes": "\\xa5\\xb5\\xa5\\xf3\\xa5\\xd7\\xa5\\xea\\xa5\\xf3\\xa5\\xb0\\xce\\xa8",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 581,
+    "text": "ブレインハート",
+    "bytes": "\\xa5\\xd6\\xa5\\xec\\xa5\\xa4\\xa5\\xf3\\xa5\\xcf\\xa1\\xbc\\xa5\\xc8",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 582,
+    "text": "ワンタンスープ",
+    "bytes": "\\xa5\\xef\\xa5\\xf3\\xa5\\xbf\\xa5\\xf3\\xa5\\xb9\\xa1\\xbc\\xa5\\xd7",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 583,
+    "text": "琶採災亜纏走醤",
+    "bytes": "\\xc7\\xca\\xba\\xce\\xba\\xd2\\xb0\\xa1\\xc5\\xbb\\xc1\\xf6\\xbe\\xdf",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 584,
+    "text": "炭酸リチウム錠",
+    "bytes": "\\xc3\\xba\\xbb\\xc0\\xa5\\xea\\xa5\\xc1\\xa5\\xa6\\xa5\\xe0\\xbe\\xfb",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 585,
+    "text": "四辺形の不等式",
+    "bytes": "\\xbb\\xcd\\xca\\xd5\\xb7\\xc1\\xa4\\xce\\xc9\\xd4\\xc5\\xf9\\xbc\\xb0",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 586,
+    "text": "巨走登増旋噺稽",
+    "bytes": "\\xb5\\xf0\\xc1\\xf6\\xc5\\xd0\\xc1\\xfd\\xc0\\xfb\\xc8\\xb8\\xb7\\xce",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 587,
+    "text": "剋遭楳楳臭邦峠",
+    "bytes": "\\xd1\\xee\\xc1\\xf8\\xc7\\xe0\\xc7\\xe0\\xbd\\xad\\xcb\\xae\\xc6\\xbd",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 588,
+    "text": "ビデオ会議開発",
+    "bytes": "\\xa5\\xd3\\xa5\\xc7\\xa5\\xaa\\xb2\\xf1\\xb5\\xc4\\xb3\\xab\\xc8\\xaf",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 589,
+    "text": "堝篤埖栖雑的唹",
+    "bytes": "\\xd4\\xc6\\xc6\\xc6\\xd4\\xc2\\xc0\\xb4\\xbb\\xa8\\xc5\\xaa\\xd3\\xb0",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 590,
+    "text": "硬栖淵詫峻偲眺",
+    "bytes": "\\xb9\\xc5\\xc0\\xb4\\xca\\xa5\\xcf\\xcd\\xbd\\xd4\\xbc\\xc5\\xc4\\xaf",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 591,
+    "text": "カタル性中耳炎",
+    "bytes": "\\xa5\\xab\\xa5\\xbf\\xa5\\xeb\\xc0\\xad\\xc3\\xe6\\xbc\\xaa\\xb1\\xea",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 592,
+    "text": "圻窟來迦沫啣晒",
+    "bytes": "\\xd4\\xad\\xb7\\xa2\\xd0\\xd4\\xb2\\xe0\\xcb\\xf7\\xd3\\xb2\\xbb\\xaf",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 593,
+    "text": "一言も発しない",
+    "bytes": "\\xb0\\xec\\xb8\\xc0\\xa4\\xe2\\xc8\\xaf\\xa4\\xb7\\xa4\\xca\\xa4\\xa4",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 594,
+    "text": "敢伉暢慌雑尸窟",
+    "bytes": "\\xb4\\xba\\xd0\\xc4\\xc4\\xaa\\xb9\\xb2\\xbb\\xa8\\xd5\\xf9\\xb7\\xa2",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 595,
+    "text": "世間を驚かせる",
+    "bytes": "\\xc0\\xa4\\xb4\\xd6\\xa4\\xf2\\xb6\\xc3\\xa4\\xab\\xa4\\xbb\\xa4\\xeb",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 596,
+    "text": "皮膚かゆみ顆粒",
+    "bytes": "\\xc8\\xe9\\xc9\\xe6\\xa4\\xab\\xa4\\xe6\\xa4\\xdf\\xf0\\xf9\\xce\\xb3",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 597,
+    "text": "照球稽戚球惟績",
+    "bytes": "\\xbe\\xc8\\xb5\\xe5\\xb7\\xce\\xc0\\xcc\\xb5\\xe5\\xb0\\xd4\\xc0\\xd3",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 598,
+    "text": "遮噂焙熬衝柔頭",
+    "bytes": "\\xbc\\xd7\\xb1\\xbd\\xdf\\xe4\\xdf\\xf2\\xbe\\xd7\\xbd\\xc0\\xc6\\xac",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 599,
+    "text": "槍頭クサリヘビ",
+    "bytes": "\\xc1\\xe4\\xc6\\xac\\xa5\\xaf\\xa5\\xb5\\xa5\\xea\\xa5\\xd8\\xa5\\xd3",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 600,
+    "text": "人娃胃酔送橿失",
+    "bytes": "\\xbf\\xcd\\xb0\\xa3\\xb0\\xdf\\xbf\\xec\\xc1\\xf7\\xb3\\xe0\\xbc\\xba",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 601,
+    "text": "鉢走稽乎奄壱粛陥",
+    "bytes": "\\xc8\\xad\\xc1\\xf6\\xb7\\xce\\xb8\\xc3\\xb1\\xe2\\xb0\\xed\\xbd\\xcd\\xb4\\xd9",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 602,
+    "text": "空腹でお腹が鳴る",
+    "bytes": "\\xb6\\xf5\\xca\\xa2\\xa4\\xc7\\xa4\\xaa\\xca\\xa2\\xa4\\xac\\xcc\\xc4\\xa4\\xeb",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 603,
+    "text": "後浪が前浪を推す",
+    "bytes": "\\xb8\\xe5\\xcf\\xb2\\xa4\\xac\\xc1\\xb0\\xcf\\xb2\\xa4\\xf2\\xbf\\xe4\\xa4\\xb9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 604,
+    "text": "社郊戚君什失竺紫",
+    "bytes": "\\xbc\\xd2\\xb9\\xd9\\xc0\\xcc\\xb7\\xaf\\xbd\\xba\\xbc\\xba\\xbc\\xb3\\xbb\\xe7",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 605,
+    "text": "動的リフレッシュ",
+    "bytes": "\\xc6\\xb0\\xc5\\xaa\\xa5\\xea\\xa5\\xd5\\xa5\\xec\\xa5\\xc3\\xa5\\xb7\\xa5\\xe5",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 606,
+    "text": "丼薦棋協隈舵佩葎",
+    "bytes": "\\xd0\\xa7\\xc1\\xa6\\xb4\\xfd\\xb6\\xa8\\xb7\\xa8\\xc2\\xc9\\xd0\\xd0\\xce\\xaa",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 607,
+    "text": "車両全体及び部品",
+    "bytes": "\\xbc\\xd6\\xce\\xbe\\xc1\\xb4\\xc2\\xce\\xb5\\xda\\xa4\\xd3\\xc9\\xf4\\xc9\\xca",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 608,
+    "text": "スワイプメニュー",
+    "bytes": "\\xa5\\xb9\\xa5\\xef\\xa5\\xa4\\xa5\\xd7\\xa5\\xe1\\xa5\\xcb\\xa5\\xe5\\xa1\\xbc",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 609,
+    "text": "聞く耳を持たない",
+    "bytes": "\\xca\\xb9\\xa4\\xaf\\xbc\\xaa\\xa4\\xf2\\xbb\\xfd\\xa4\\xbf\\xa4\\xca\\xa4\\xa4",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 610,
+    "text": "アルゴリズム検証",
+    "bytes": "\\xa5\\xa2\\xa5\\xeb\\xa5\\xb4\\xa5\\xea\\xa5\\xba\\xa5\\xe0\\xb8\\xa1\\xbe\\xda",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 611,
+    "text": "公営住宅賃貸契約",
+    "bytes": "\\xb8\\xf8\\xb1\\xc4\\xbd\\xbb\\xc2\\xf0\\xc4\\xc2\\xc2\\xdf\\xb7\\xc0\\xcc\\xf3",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 612,
+    "text": "励噴宀辛參丗億厶",
+    "bytes": "\\xce\\xe5\\xca\\xae\\xd5\\xdf\\xbf\\xc9\\xd2\\xd4\\xd2\\xc2\\xb2\\xaf\\xd2\\xd3",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 613,
+    "text": "置換アルゴリズム",
+    "bytes": "\\xc3\\xd6\\xb4\\xb9\\xa5\\xa2\\xa5\\xeb\\xa5\\xb4\\xa5\\xea\\xa5\\xba\\xa5\\xe0",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 614,
+    "text": "覗稽益掘講脊庚切",
+    "bytes": "\\xc7\\xc1\\xb7\\xce\\xb1\\xd7\\xb7\\xa1\\xb9\\xd6\\xc0\\xd4\\xb9\\xae\\xc0\\xda",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 615,
+    "text": "収受済み利息未収",
+    "bytes": "\\xbc\\xfd\\xbc\\xf5\\xba\\xd1\\xa4\\xdf\\xcd\\xf8\\xc2\\xa9\\xcc\\xa4\\xbc\\xfd",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 616,
+    "text": "現在のバージョン",
+    "bytes": "\\xb8\\xbd\\xba\\xdf\\xa4\\xce\\xa5\\xd0\\xa1\\xbc\\xa5\\xb8\\xa5\\xe7\\xa5\\xf3",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 617,
+    "text": "定時スケジュール",
+    "bytes": "\\xc4\\xea\\xbb\\xfe\\xa5\\xb9\\xa5\\xb1\\xa5\\xb8\\xa5\\xe5\\xa1\\xbc\\xa5\\xeb",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 618,
+    "text": "厩亜搭析紫狛獣蝿",
+    "bytes": "\\xb1\\xb9\\xb0\\xa1\\xc5\\xeb\\xc0\\xcf\\xbb\\xe7\\xb9\\xfd\\xbd\\xc3\\xc7\\xe8",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 619,
+    "text": "カスケードクエリ",
+    "bytes": "\\xa5\\xab\\xa5\\xb9\\xa5\\xb1\\xa1\\xbc\\xa5\\xc9\\xa5\\xaf\\xa5\\xa8\\xa5\\xea",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 620,
+    "text": "南方カルスト地形",
+    "bytes": "\\xc6\\xee\\xca\\xfd\\xa5\\xab\\xa5\\xeb\\xa5\\xb9\\xa5\\xc8\\xc3\\xcf\\xb7\\xc1",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 621,
+    "text": "血脂改善カプセル",
+    "bytes": "\\xb7\\xec\\xbb\\xe9\\xb2\\xfe\\xc1\\xb1\\xa5\\xab\\xa5\\xd7\\xa5\\xbb\\xa5\\xeb",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 622,
+    "text": "匂牽燈哀縦査製剛",
+    "bytes": "\\xc6\\xf7\\xb8\\xa3\\xc5\\xf5\\xb0\\xa5\\xbd\\xc4\\xba\\xba\\xc0\\xbd\\xb9\\xe4",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 623,
+    "text": "ウイルス性心筋炎",
+    "bytes": "\\xa5\\xa6\\xa5\\xa4\\xa5\\xeb\\xa5\\xb9\\xc0\\xad\\xbf\\xb4\\xb6\\xda\\xb1\\xea",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 624,
+    "text": "酸っぱい漬物炒米",
+    "bytes": "\\xbb\\xc0\\xa4\\xc3\\xa4\\xd1\\xa4\\xa4\\xc4\\xd2\\xca\\xaa\\xdf\\xd6\\xca\\xc6",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 625,
+    "text": "精楳穣姶偽淫軒狛",
+    "bytes": "\\xc0\\xba\\xc7\\xe0\\xbe\\xf7\\xb0\\xa8\\xb5\\xb6\\xb0\\xfc\\xb8\\xae\\xb9\\xfd",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 626,
+    "text": "フィールドタイプ",
+    "bytes": "\\xa5\\xd5\\xa5\\xa3\\xa1\\xbc\\xa5\\xeb\\xa5\\xc9\\xa5\\xbf\\xa5\\xa4\\xa5\\xd7",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 627,
+    "text": "見るところすべて",
+    "bytes": "\\xb8\\xab\\xa4\\xeb\\xa4\\xc8\\xa4\\xb3\\xa4\\xed\\xa4\\xb9\\xa4\\xd9\\xa4\\xc6",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 628,
+    "text": "弌隅膨略届呼薪腺",
+    "bytes": "\\xd0\\xa1\\xb6\\xf9\\xcb\\xc4\\xce\\xac\\xc6\\xcf\\xb8\\xc6\\xbf\\xc5\\xc1\\xa3",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 629,
+    "text": "政郡因疑端井戦狛",
+    "bytes": "\\xc0\\xaf\\xb7\\xb4\\xb0\\xf8\\xb5\\xbf\\xc3\\xbc\\xb0\\xe6\\xc0\\xef\\xb9\\xfd",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 630,
+    "text": "静的ルーティング",
+    "bytes": "\\xc0\\xc5\\xc5\\xaa\\xa5\\xeb\\xa1\\xbc\\xa5\\xc6\\xa5\\xa3\\xa5\\xf3\\xa5\\xb0",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 631,
+    "text": "ウェブサイト運用",
+    "bytes": "\\xa5\\xa6\\xa5\\xa7\\xa5\\xd6\\xa5\\xb5\\xa5\\xa4\\xa5\\xc8\\xb1\\xbf\\xcd\\xd1",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 632,
+    "text": "快嬢走走省澗尻歳",
+    "bytes": "\\xb2\\xf7\\xbe\\xee\\xc1\\xf6\\xc1\\xf6\\xbe\\xca\\xb4\\xc2\\xbf\\xac\\xba\\xd0",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 633,
+    "text": "巻埀捲暦砿尖号協",
+    "bytes": "\\xb4\\xac\\xd4\\xb1\\xb7\\xfe\\xce\\xf1\\xb9\\xdc\\xc0\\xed\\xb9\\xe6\\xb6\\xa8",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 634,
+    "text": "瑛研厳壱笈走省製",
+    "bytes": "\\xb1\\xcd\\xb8\\xa6\\xb8\\xb7\\xb0\\xed\\xb5\\xe8\\xc1\\xf6\\xbe\\xca\\xc0\\xbd",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 635,
+    "text": "幾聖条壱奄撒馬陥",
+    "bytes": "\\xb4\\xf6\\xc0\\xbb\\xbe\\xf2\\xb0\\xed\\xb1\\xe2\\xbb\\xb5\\xc7\\xcf\\xb4\\xd9",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 636,
+    "text": "民営企業法律顧問",
+    "bytes": "\\xcc\\xb1\\xb1\\xc4\\xb4\\xeb\\xb6\\xc8\\xcb\\xa1\\xce\\xa7\\xb8\\xdc\\xcc\\xe4",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 637,
+    "text": "ボリビアオキネコ",
+    "bytes": "\\xa5\\xdc\\xa5\\xea\\xa5\\xd3\\xa5\\xa2\\xa5\\xaa\\xa5\\xad\\xa5\\xcd\\xa5\\xb3",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 638,
+    "text": "とうもろこしご飯",
+    "bytes": "\\xa4\\xc8\\xa4\\xa6\\xa4\\xe2\\xa4\\xed\\xa4\\xb3\\xa4\\xb7\\xa4\\xb4\\xc8\\xd3",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 639,
+    "text": "衝鉢汐政亜什託勲",
+    "bytes": "\\xbe\\xd7\\xc8\\xad\\xbc\\xae\\xc0\\xaf\\xb0\\xa1\\xbd\\xba\\xc2\\xf7\\xb7\\xae",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 640,
+    "text": "井薦奄綬漠径漠舛",
+    "bytes": "\\xb0\\xe6\\xc1\\xa6\\xb1\\xe2\\xbc\\xfa\\xc7\\xf9\\xb7\\xc2\\xc7\\xf9\\xc1\\xa4",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 641,
+    "text": "訊益訓走乞牽畏陥",
+    "bytes": "\\xbf\\xd6\\xb1\\xd7\\xb7\\xb1\\xc1\\xf6\\xb8\\xf0\\xb8\\xa3\\xb0\\xda\\xb4\\xd9",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 642,
+    "text": "クレジットカード",
+    "bytes": "\\xa5\\xaf\\xa5\\xec\\xa5\\xb8\\xa5\\xc3\\xa5\\xc8\\xa5\\xab\\xa1\\xbc\\xa5\\xc9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 643,
+    "text": "縮圄辺継巷幣崙業",
+    "bytes": "\\xbd\\xcc\\xd3\\xfd\\xca\\xd5\\xb7\\xd1\\xb9\\xab\\xca\\xbe\\xd6\\xc6\\xb6\\xc8",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 644,
+    "text": "佩佛掛態延堀字更",
+    "bytes": "\\xd0\\xd0\\xd0\\xc7\\xb3\\xdd\\xc2\\xd6\\xb1\\xe4\\xcb\\xd9\\xbb\\xfa\\xb9\\xb9",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 645,
+    "text": "強力びわカプセル",
+    "bytes": "\\xb6\\xaf\\xce\\xcf\\xa4\\xd3\\xa4\\xef\\xa5\\xab\\xa5\\xd7\\xa5\\xbb\\xa5\\xeb",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 646,
+    "text": "照球稽戚球析鋼旋",
+    "bytes": "\\xbe\\xc8\\xb5\\xe5\\xb7\\xce\\xc0\\xcc\\xb5\\xe5\\xc0\\xcf\\xb9\\xdd\\xc0\\xfb",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 647,
+    "text": "環境行政執行行為",
+    "bytes": "\\xb4\\xc4\\xb6\\xad\\xb9\\xd4\\xc0\\xaf\\xbc\\xb9\\xb9\\xd4\\xb9\\xd4\\xb0\\xd9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 648,
+    "text": "巨適稽凪開町拳舛",
+    "bytes": "\\xb5\\xf0\\xc5\\xac\\xb7\\xce\\xc6\\xe4\\xb3\\xab\\xc4\\xae\\xb7\\xfd\\xc1\\xa4",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 649,
+    "text": "ミックスシリアル",
+    "bytes": "\\xa5\\xdf\\xa5\\xc3\\xa5\\xaf\\xa5\\xb9\\xa5\\xb7\\xa5\\xea\\xa5\\xa2\\xa5\\xeb",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 650,
+    "text": "益沙据聖貼姥馬陥",
+    "bytes": "\\xb1\\xd7\\xba\\xbb\\xbf\\xf8\\xc0\\xbb\\xc5\\xbd\\xb1\\xb8\\xc7\\xcf\\xb4\\xd9",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 651,
+    "text": "金沢冠心カプセル",
+    "bytes": "\\xb6\\xe2\\xc2\\xf4\\xb4\\xa7\\xbf\\xb4\\xa5\\xab\\xa5\\xd7\\xa5\\xbb\\xa5\\xeb",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 652,
+    "text": "リモートログイン",
+    "bytes": "\\xa5\\xea\\xa5\\xe2\\xa1\\xbc\\xa5\\xc8\\xa5\\xed\\xa5\\xb0\\xa5\\xa4\\xa5\\xf3",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 653,
+    "text": "井雌域疎嘘発亜管",
+    "bytes": "\\xb0\\xe6\\xbb\\xf3\\xb0\\xe8\\xc1\\xc2\\xb1\\xb3\\xc8\\xaf\\xb0\\xa1\\xb4\\xc9",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 654,
+    "text": "聞いたことのない",
+    "bytes": "\\xca\\xb9\\xa4\\xa4\\xa4\\xbf\\xa4\\xb3\\xa4\\xc8\\xa4\\xce\\xa4\\xca\\xa4\\xa4",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 655,
+    "text": "滴軒什杷酔政蕩沿",
+    "bytes": "\\xc5\\xa9\\xb8\\xae\\xbd\\xba\\xc7\\xc7\\xbf\\xec\\xc0\\xaf\\xc6\\xa2\\xb1\\xe8",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 656,
+    "text": "覗稽益掘講紫戚闘",
+    "bytes": "\\xc7\\xc1\\xb7\\xce\\xb1\\xd7\\xb7\\xa1\\xb9\\xd6\\xbb\\xe7\\xc0\\xcc\\xc6\\xae",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 657,
+    "text": "戚依精乞砧製混醤",
+    "bytes": "\\xc0\\xcc\\xb0\\xcd\\xc0\\xba\\xb8\\xf0\\xb5\\xce\\xc0\\xbd\\xba\\xae\\xbe\\xdf",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 658,
+    "text": "見るものは心の影",
+    "bytes": "\\xb8\\xab\\xa4\\xeb\\xa4\\xe2\\xa4\\xce\\xa4\\xcf\\xbf\\xb4\\xa4\\xce\\xb1\\xc6",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 659,
+    "text": "塩胡椒スペアリブ",
+    "bytes": "\\xb1\\xf6\\xb8\\xd5\\xdc\\xa5\\xa5\\xb9\\xa5\\xda\\xa5\\xa2\\xa5\\xea\\xa5\\xd6",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 660,
+    "text": "規章制定手続条例",
+    "bytes": "\\xb5\\xac\\xbe\\xcf\\xc0\\xa9\\xc4\\xea\\xbc\\xea\\xc2\\xb3\\xbe\\xf2\\xce\\xe3",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 661,
+    "text": "痕硲紫遂叔遂鉢綬",
+    "bytes": "\\xba\\xaf\\xc8\\xa3\\xbb\\xe7\\xbf\\xeb\\xbd\\xc7\\xbf\\xeb\\xc8\\xad\\xbc\\xfa",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 662,
+    "text": "含爪廃陥滴段紬鹸",
+    "bytes": "\\xb4\\xde\\xc4\\xde\\xc7\\xd1\\xb4\\xd9\\xc5\\xa9\\xc3\\xca\\xc4\\xdd\\xb8\\xb4",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 663,
+    "text": "巨謎馬戚球虞肯舛",
+    "bytes": "\\xb5\\xf0\\xc6\\xe6\\xc7\\xcf\\xc0\\xcc\\xb5\\xe5\\xb6\\xf3\\xb9\\xce\\xc1\\xa4",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 664,
+    "text": "遊聨葦榻産瞥什漬",
+    "bytes": "\\xcd\\xb7\\xe6\\xdf\\xb0\\xb1\\xdc\\xd0\\xbb\\xba\\xca\\xcd\\xbd\\xba\\xc4\\xd2",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 665,
+    "text": "爽袴艦紗税鋼距災",
+    "bytes": "\\xc1\\xd6\\xb8\\xd3\\xb4\\xcf\\xbc\\xd3\\xc0\\xc7\\xb9\\xdd\\xb5\\xf7\\xba\\xd2",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 666,
+    "text": "牌迫酔佐越稽災鍵",
+    "bytes": "\\xc7\\xd7\\xc7\\xf7\\xbf\\xec\\xba\\xb4\\xb1\\xdb\\xb7\\xce\\xba\\xd2\\xb8\\xb0",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 667,
+    "text": "輿仇鞠芝旗尖栽揖",
+    "bytes": "\\xcd\\xc1\\xb5\\xd8\\xb5\\xc7\\xbc\\xc7\\xb4\\xfa\\xc0\\xed\\xba\\xcf\\xcd\\xac",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 668,
+    "text": "刑法指導原則草案",
+    "bytes": "\\xb7\\xba\\xcb\\xa1\\xbb\\xd8\\xc6\\xb3\\xb8\\xb6\\xc2\\xa7\\xc1\\xf0\\xb0\\xc6",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 669,
+    "text": "疑慎雌聖仙持馬陥",
+    "bytes": "\\xb5\\xbf\\xbf\\xb5\\xbb\\xf3\\xc0\\xbb\\xc0\\xe7\\xbb\\xfd\\xc7\\xcf\\xb4\\xd9",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 670,
+    "text": "事業単位採用制度",
+    "bytes": "\\xbb\\xf6\\xb6\\xc8\\xc3\\xb1\\xb0\\xcc\\xba\\xce\\xcd\\xd1\\xc0\\xa9\\xc5\\xd9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 671,
+    "text": "紫穣舘是厭食薦亀",
+    "bytes": "\\xbb\\xe7\\xbe\\xf7\\xb4\\xdc\\xc0\\xa7\\xb1\\xde\\xbf\\xa9\\xc1\\xa6\\xb5\\xb5",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 672,
+    "text": "古きを今に活かす",
+    "bytes": "\\xb8\\xc5\\xa4\\xad\\xa4\\xf2\\xba\\xa3\\xa4\\xcb\\xb3\\xe8\\xa4\\xab\\xa4\\xb9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 673,
+    "text": "今壹謹滅腎伉什漬",
+    "bytes": "\\xba\\xa3\\xd4\\xe5\\xb6\\xe0\\xcc\\xc7\\xbf\\xd5\\xd0\\xc4\\xbd\\xba\\xc4\\xd2",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 674,
+    "text": "楳舛社勺羨呪骨是",
+    "bytes": "\\xc7\\xe0\\xc1\\xa4\\xbc\\xd2\\xbc\\xdb\\xc1\\xa2\\xbc\\xf6\\xb9\\xfc\\xc0\\xa7",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 675,
+    "text": "陽子その故を問う",
+    "bytes": "\\xcd\\xdb\\xbb\\xd2\\xa4\\xbd\\xa4\\xce\\xb8\\xce\\xa4\\xf2\\xcc\\xe4\\xa4\\xa6",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 676,
+    "text": "ハイパーテキスト",
+    "bytes": "\\xa5\\xcf\\xa5\\xa4\\xa5\\xd1\\xa1\\xbc\\xa5\\xc6\\xa5\\xad\\xa5\\xb9\\xa5\\xc8",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 677,
+    "text": "適系紫叔鍵蟹闘拳",
+    "bytes": "\\xc5\\xac\\xb7\\xcf\\xbb\\xe7\\xbd\\xc7\\xb8\\xb0\\xb3\\xaa\\xc6\\xae\\xb7\\xfd",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 678,
+    "text": "革闘趨滴舛左湿斗",
+    "bytes": "\\xb3\\xd7\\xc6\\xae\\xbf\\xf6\\xc5\\xa9\\xc1\\xa4\\xba\\xb8\\xbc\\xbe\\xc5\\xcd",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 679,
+    "text": "陥据亜舌捉精井稽",
+    "bytes": "\\xb4\\xd9\\xbf\\xf8\\xb0\\xa1\\xc0\\xe5\\xc2\\xaa\\xc0\\xba\\xb0\\xe6\\xb7\\xce",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 680,
+    "text": "サンプリング頻度",
+    "bytes": "\\xa5\\xb5\\xa5\\xf3\\xa5\\xd7\\xa5\\xea\\xa5\\xf3\\xa5\\xb0\\xc9\\xd1\\xc5\\xd9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 681,
+    "text": "資源保護と回収法",
+    "bytes": "\\xbb\\xf1\\xb8\\xbb\\xca\\xdd\\xb8\\xee\\xa4\\xc8\\xb2\\xf3\\xbc\\xfd\\xcb\\xa1",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 682,
+    "text": "医薬用高分子材料",
+    "bytes": "\\xb0\\xe5\\xcc\\xf4\\xcd\\xd1\\xb9\\xe2\\xca\\xac\\xbb\\xd2\\xba\\xe0\\xce\\xc1",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 683,
+    "text": "海域有償使用制度",
+    "bytes": "\\xb3\\xa4\\xb0\\xe8\\xcd\\xad\\xbd\\xfe\\xbb\\xc8\\xcd\\xd1\\xc0\\xa9\\xc5\\xd9",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 684,
+    "text": "暗幻馬惟走獣馬陥",
+    "bytes": "\\xb0\\xc5\\xb8\\xb8\\xc7\\xcf\\xb0\\xd4\\xc1\\xf6\\xbd\\xc3\\xc7\\xcf\\xb4\\xd9",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 685,
+    "text": "歯爪古爪丞咽但厩",
+    "bytes": "\\xbb\\xf5\\xc4\\xde\\xb8\\xc5\\xc4\\xde\\xbe\\xe7\\xb0\\xf6\\xc3\\xa2\\xb1\\xb9",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 686,
+    "text": "西洋人参カプセル",
+    "bytes": "\\xc0\\xbe\\xcd\\xce\\xbf\\xcd\\xbb\\xb2\\xa5\\xab\\xa5\\xd7\\xa5\\xbb\\xa5\\xeb",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 687,
+    "text": "廉圭隈僥兆广戻勣",
+    "bytes": "\\xce\\xf7\\xb7\\xbd\\xb7\\xa8\\xd1\\xa7\\xc3\\xfb\\xd6\\xf8\\xcc\\xe1\\xd2\\xaa",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 688,
+    "text": "住宥佩屓峇隈号袈",
+    "bytes": "\\xbd\\xbb\\xcd\\xa8\\xd0\\xd0\\xd5\\xfe\\xd6\\xb4\\xb7\\xa8\\xb9\\xe6\\xb7\\xb6",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 689,
+    "text": "圧縮アルゴリズム",
+    "bytes": "\\xb0\\xb5\\xbd\\xcc\\xa5\\xa2\\xa5\\xeb\\xa5\\xb4\\xa5\\xea\\xa5\\xba\\xa5\\xe0",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 690,
+    "text": "厭失鉢鞄失眼淫唇",
+    "bytes": "\\xb1\\xde\\xbc\\xba\\xc8\\xad\\xb3\\xf3\\xbc\\xba\\xb4\\xe3\\xb0\\xfc\\xbf\\xb0",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 691,
+    "text": "インストール攻略",
+    "bytes": "\\xa5\\xa4\\xa5\\xf3\\xa5\\xb9\\xa5\\xc8\\xa1\\xbc\\xa5\\xeb\\xb9\\xb6\\xce\\xac",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 692,
+    "text": "室域狛懸誤煽識偽",
+    "bytes": "\\xbc\\xbc\\xb0\\xe8\\xb9\\xfd\\xb7\\xfc\\xb8\\xed\\xc0\\xfa\\xbc\\xb1\\xb5\\xb6",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 693,
+    "text": "ネットワーク画像",
+    "bytes": "\\xa5\\xcd\\xa5\\xc3\\xa5\\xc8\\xa5\\xef\\xa1\\xbc\\xa5\\xaf\\xb2\\xe8\\xc1\\xfc",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 694,
+    "text": "酎唔二匍将唔桟廠",
+    "bytes": "\\xc3\\xf1\\xd3\\xaa\\xc6\\xf3\\xd2\\xb5\\xbe\\xad\\xd3\\xaa\\xbb\\xb7\\xbe\\xb3",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 695,
+    "text": "爽澱呪軒淫軒薦亀",
+    "bytes": "\\xc1\\xd6\\xc5\\xc3\\xbc\\xf6\\xb8\\xae\\xb0\\xfc\\xb8\\xae\\xc1\\xa6\\xb5\\xb5",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 696,
+    "text": "都市計画行政罰則",
+    "bytes": "\\xc5\\xd4\\xbb\\xd4\\xb7\\xd7\\xb2\\xe8\\xb9\\xd4\\xc0\\xaf\\xc8\\xb3\\xc2\\xa7",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 697,
+    "text": "郊戚君什失衣厳唇",
+    "bytes": "\\xb9\\xd9\\xc0\\xcc\\xb7\\xaf\\xbd\\xba\\xbc\\xba\\xb0\\xe1\\xb8\\xb7\\xbf\\xb0",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 698,
+    "text": "塩酸クロメタジン",
+    "bytes": "\\xb1\\xf6\\xbb\\xc0\\xa5\\xaf\\xa5\\xed\\xa5\\xe1\\xa5\\xbf\\xa5\\xb8\\xa5\\xf3",
+    "enc": "euc_jp",
+    "label": true
+  },
+  {
+    "id": 699,
+    "text": "冦磨恣廉紋旋犧頭",
+    "bytes": "\\xd1\\xce\\xcb\\xe1\\xd7\\xf3\\xce\\xf7\\xcc\\xe6\\xc0\\xfb\\xe0\\xba\\xc6\\xac",
+    "enc": "euc_jp",
+    "label": false
+  },
+  {
+    "id": 700,
+    "text": "カスタムメソッド",
+    "bytes": "\\xa5\\xab\\xa5\\xb9\\xa5\\xbf\\xa5\\xe0\\xa5\\xe1\\xa5\\xbd\\xa5\\xc3\\xa5\\xc9",
+    "enc": "euc_jp",
+    "label": true
+  }
+]

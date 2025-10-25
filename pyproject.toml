@@ -3,4 +3,14 @@ name = "lgbench"
 version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "charset-normalizer==3.4.3",
+    "ollama",
+    "openai>=1.107.3",
+    "torch==2.9.0.dev20250905+cu129",
+    "transformers>=4.56.1",
+]
+
+[[tool.uv.index]]
+url = "https://download.pytorch.org/whl/nightly/cu129"
+default = true

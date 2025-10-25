@@ -1,0 +1,2452 @@
+[
+  {
+    "id": 1,
+    "text": "船員",
+    "bytes": "\\x91\\x44\\x88\\xf5",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 2,
+    "text": "信号",
+    "bytes": "\\x90\\x4d\\x8d\\x86",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 3,
+    "text": "頬部",
+    "bytes": "\\x96\\x6a\\x95\\x94",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 4,
+    "text": "ｨｧｻG",
+    "bytes": "\\xa8\\xa7\\xbb\\x47",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 5,
+    "text": "ｷ･ｫﾈ",
+    "bytes": "\\xb7\\xa5\\xab\\xc8",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 6,
+    "text": "芥子",
+    "bytes": "\\x8a\\x48\\x8e\\x71",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 7,
+    "text": "ﾑﾀｹｸ",
+    "bytes": "\\xd1\\xc0\\xb9\\xb8",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 8,
+    "text": "ﾉｪ聨",
+    "bytes": "\\xc9\\xaa\\xe3\\xdd",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 9,
+    "text": "敗走",
+    "bytes": "\\x94\\x73\\x91\\x96",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 10,
+    "text": "ｱﾙｿｰ",
+    "bytes": "\\xb1\\xd9\\xbf\\xb0",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 11,
+    "text": "油屋",
+    "bytes": "\\x96\\xfb\\x89\\xae",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 12,
+    "text": "ｬvｪe",
+    "bytes": "\\xac\\x76\\xaa\\x65",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 13,
+    "text": "偏盲",
+    "bytes": "\\x95\\xce\\x96\\xd3",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 14,
+    "text": "体毛",
+    "bytes": "\\x91\\xcc\\x96\\xd1",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 15,
+    "text": "ﾐﾅﾍﾐ",
+    "bytes": "\\xd0\\xc5\\xcd\\xd0",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 16,
+    "text": "ﾐﾓｺﾋ",
+    "bytes": "\\xd0\\xd3\\xba\\xcb",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 17,
+    "text": "ｾﾆｳｧ",
+    "bytes": "\\xbe\\xc6\\xb3\\xa7",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 18,
+    "text": "ﾀﾚｱﾝ",
+    "bytes": "\\xc0\\xda\\xb1\\xdd",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 19,
+    "text": "座薬",
+    "bytes": "\\x8d\\xc0\\x96\\xf2",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 20,
+    "text": "ｴﾊﾐﾔ",
+    "bytes": "\\xb4\\xca\\xd0\\xd4",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 21,
+    "text": "ﾄCﾀY",
+    "bytes": "\\xc4\\x43\\xc0\\x59",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 22,
+    "text": "ｿｪﾍｨ",
+    "bytes": "\\xbf\\xaa\\xcd\\xa8",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 23,
+    "text": "ｵﾄｰﾆ",
+    "bytes": "\\xb5\\xc4\\xb0\\xc6",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 24,
+    "text": "ﾁｦﾈﾞ",
+    "bytes": "\\xc1\\xa6\\xc8\\xde",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 25,
+    "text": "麻黄",
+    "bytes": "\\x96\\x83\\x89\\xa9",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 26,
+    "text": "意外",
+    "bytes": "\\x88\\xd3\\x8a\\x4f",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 27,
+    "text": "･ﾛ､ﾆ",
+    "bytes": "\\xa5\\xdb\\xa4\\xc6",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 28,
+    "text": "絶美",
+    "bytes": "\\x90\\xe2\\x94\\xfc",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 29,
+    "text": "ﾀﾇﾇﾐ",
+    "bytes": "\\xc0\\xc7\\xc7\\xd0",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 30,
+    "text": "故宮",
+    "bytes": "\\x8c\\xcc\\x8b\\x7b",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 31,
+    "text": "外宅",
+    "bytes": "\\x8a\\x4f\\x91\\xee",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 32,
+    "text": "体癬",
+    "bytes": "\\x91\\xcc\\xe1\\x9d",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 33,
+    "text": "裂隙",
+    "bytes": "\\x97\\xf4\\x8c\\x84",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 34,
+    "text": "月経",
+    "bytes": "\\x8c\\x8e\\x8c\\x6f",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 35,
+    "text": "ﾏﾂｶｾ",
+    "bytes": "\\xcf\\xc2\\xb6\\xbe",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 36,
+    "text": "坂道",
+    "bytes": "\\x8d\\xe2\\x93\\xb9",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 37,
+    "text": "医療",
+    "bytes": "\\x88\\xe3\\x97\\xc3",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 38,
+    "text": "金牛",
+    "bytes": "\\x8b\\xe0\\x8b\\x8d",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 39,
+    "text": "ﾅ魄ﾕ",
+    "bytes": "\\xc5\\xe9\\xae\\xd5",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 40,
+    "text": "原核",
+    "bytes": "\\x8c\\xb4\\x8a\\x6a",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 41,
+    "text": "ﾗｵｿﾗ",
+    "bytes": "\\xd7\\xb5\\xbf\\xd7",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 42,
+    "text": "ｺｹｰｭ",
+    "bytes": "\\xba\\xb9\\xb0\\xad",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 43,
+    "text": "指南",
+    "bytes": "\\x8e\\x77\\x93\\xec",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 44,
+    "text": "ｱﾝｱｹ",
+    "bytes": "\\xb1\\xdd\\xb1\\xb9",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 45,
+    "text": "ｯfｵ{",
+    "bytes": "\\xaf\\x66\\xb5\\x7b",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 46,
+    "text": "ﾂ爨l",
+    "bytes": "\\xc2\\xe0\\xa4\\x6c",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 47,
+    "text": "喘息",
+    "bytes": "\\x9a\\x62\\x91\\xa7",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 48,
+    "text": "前場",
+    "bytes": "\\x91\\x4f\\x8f\\xea",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 49,
+    "text": "･@ｳﾕ",
+    "bytes": "\\xa5\\x40\\xb3\\xd5",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 50,
+    "text": "拡張",
+    "bytes": "\\x8a\\x67\\x92\\xa3",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 51,
+    "text": "合成語",
+    "bytes": "\\x8d\\x87\\x90\\xac\\x8c\\xea",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 52,
+    "text": "､pｨｧｪﾞ",
+    "bytes": "\\xa4\\x70\\xa8\\xa7\\xaa\\xde",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 53,
+    "text": "ｲﾟﾊｾｲｽ",
+    "bytes": "\\xb2\\xdf\\xca\\xbe\\xb2\\xbd",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 54,
+    "text": "足指骨",
+    "bytes": "\\x91\\xab\\x8e\\x77\\x8d\\x9c",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 55,
+    "text": "連結度",
+    "bytes": "\\x98\\x41\\x8c\\x8b\\x93\\x78",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 56,
+    "text": "青海省",
+    "bytes": "\\x90\\xc2\\x8a\\x43\\x8f\\xc8",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 57,
+    "text": "リンク",
+    "bytes": "\\x83\\x8a\\x83\\x93\\x83\\x4e",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 58,
+    "text": "･ｫｲbｲv",
+    "bytes": "\\xa5\\xab\\xb2\\x62\\xb2\\x76",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 59,
+    "text": "ﾀﾌｼｺｾﾖ",
+    "bytes": "\\xc0\\xcc\\xbc\\xba\\xbe\\xd6",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 60,
+    "text": "寒湿症",
+    "bytes": "\\x8a\\xa6\\x8e\\xbc\\x8f\\xc7",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 61,
+    "text": "ｰﾟﾁﾉｻｶ",
+    "bytes": "\\xb0\\xdf\\xc1\\xc9\\xbb\\xb6",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 62,
+    "text": "ｶ莢ﾉﾍﾕ",
+    "bytes": "\\xb6\\xe4\\xb0\\xc9\\xcd\\xd5",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 63,
+    "text": "ｻｨﾄｾﾀｼ",
+    "bytes": "\\xbb\\xa8\\xc4\\xbe\\xc0\\xbc",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 64,
+    "text": "ｼｭｹ戝ｦ",
+    "bytes": "\\xbc\\xad\\xb9\\xe6\\xc1\\xa6",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 65,
+    "text": "ｵｯﾆｰｿﾞ",
+    "bytes": "\\xb5\\xaf\\xc6\\xb0\\xbf\\xde",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 66,
+    "text": "ﾊｵﾑ鰈ｾ",
+    "bytes": "\\xca\\xb5\\xd1\\xe9\\xd5\\xbe",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 67,
+    "text": "五道営",
+    "bytes": "\\x8c\\xdc\\x93\\xb9\\x89\\x63",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 68,
+    "text": "鼻咽炎",
+    "bytes": "\\x95\\x40\\x88\\xf4\\x89\\x8a",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 69,
+    "text": "ｷ|ｭpｪk",
+    "bytes": "\\xb7\\x7c\\xad\\x70\\xaa\\x6b",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 70,
+    "text": "ｺ｣ﾄﾉﾂｷ",
+    "bytes": "\\xba\\xa3\\xc4\\xc9\\xc2\\xb7",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 71,
+    "text": "ﾎ｢ｿﾗﾄ､",
+    "bytes": "\\xce\\xa2\\xbf\\xd7\\xc4\\xa4",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 72,
+    "text": "ｸﾓｸｮｱﾛ",
+    "bytes": "\\xb8\\xd3\\xb8\\xae\\xb1\\xdb",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 73,
+    "text": "アケビ",
+    "bytes": "\\x83\\x41\\x83\\x50\\x83\\x72",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 74,
+    "text": "定喘穴",
+    "bytes": "\\x92\\xe8\\x9a\\x62\\x8c\\x8a",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 75,
+    "text": "ｴ茣ｫﾏ｡",
+    "bytes": "\\xb4\\xe4\\xb2\\xab\\xcf\\xa1",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 76,
+    "text": "ﾏ｣ｿﾌﾀﾍ",
+    "bytes": "\\xcf\\xa3\\xbf\\xcc\\xc0\\xcd",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 77,
+    "text": "工貿城",
+    "bytes": "\\x8d\\x48\\x96\\x66\\x8f\\xe9",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 78,
+    "text": "利尿薬",
+    "bytes": "\\x97\\x98\\x94\\x41\\x96\\xf2",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 79,
+    "text": "ﾇ犲｣ﾊ｡",
+    "bytes": "\\xc7\\xe0\\xba\\xa3\\xca\\xa1",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 80,
+    "text": "静脈血",
+    "bytes": "\\x90\\xc3\\x96\\xac\\x8c\\x8c",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 81,
+    "text": "ｳqｵﾈｲv",
+    "bytes": "\\xb3\\x71\\xb5\\xc8\\xb2\\x76",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 82,
+    "text": "旅客駅",
+    "bytes": "\\x97\\xb7\\x8b\\x71\\x89\\x77",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 83,
+    "text": "運城市",
+    "bytes": "\\x89\\x5e\\x8f\\xe9\\x8e\\x73",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 84,
+    "text": "臭汗症",
+    "bytes": "\\x8f\\x4c\\x8a\\xbe\\x8f\\xc7",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 85,
+    "text": "ﾇｾﾇｹﾋｦ",
+    "bytes": "\\xc7\\xbe\\xc7\\xb9\\xcb\\xa6",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 86,
+    "text": "ｲｹﾑｪﾒｩ",
+    "bytes": "\\xb2\\xb9\\xd1\\xaa\\xd2\\xa9",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 87,
+    "text": "ｷｨﾒｽﾑｧ",
+    "bytes": "\\xb7\\xa8\\xd2\\xbd\\xd1\\xa7",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 88,
+    "text": "ｾﾂｲﾋﾔｰ",
+    "bytes": "\\xbe\\xc2\\xb2\\xcb\\xd4\\xb0",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 89,
+    "text": "五倍子",
+    "bytes": "\\x8c\\xdc\\x94\\x7b\\x8e\\x71",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 90,
+    "text": "ｸ｣ｽ､ｪ｢",
+    "bytes": "\\xb8\\xa3\\xbd\\xa4\\xaa\\xa2",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 91,
+    "text": "文化橋",
+    "bytes": "\\x95\\xb6\\x89\\xbb\\x8b\\xb4",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 92,
+    "text": "科技谷",
+    "bytes": "\\x89\\xc8\\x8b\\x5a\\x92\\x4a",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 93,
+    "text": "呉中路",
+    "bytes": "\\x8c\\xe0\\x92\\x86\\x98\\x48",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 94,
+    "text": "安楽業",
+    "bytes": "\\x88\\xc0\\x8a\\x79\\x8b\\xc6",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 95,
+    "text": "配偶子",
+    "bytes": "\\x94\\x7a\\x8b\\xf4\\x8e\\x71",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 96,
+    "text": "ﾋﾄﾖｫﾌｱ",
+    "bytes": "\\xcb\\xc4\\xd6\\xab\\xcc\\xb1",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 97,
+    "text": "ｸ｣ｿｵｰｲ",
+    "bytes": "\\xb8\\xa3\\xbf\\xb5\\xb0\\xb2",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 98,
+    "text": "青川路",
+    "bytes": "\\x90\\xc2\\x90\\xec\\x98\\x48",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 99,
+    "text": "顆粒剤",
+    "bytes": "\\xe8\\xf7\\x97\\xb1\\x8d\\xdc",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 100,
+    "text": "微孔膜",
+    "bytes": "\\x94\\xf7\\x8d\\x45\\x96\\x8c",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 101,
+    "text": "中古市場",
+    "bytes": "\\x92\\x86\\x8c\\xc3\\x8e\\x73\\x8f\\xea",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 102,
+    "text": "･貽ｵ､､ｶ､",
+    "bytes": "\\xa5\\xe6\\xc4\\xb5\\xa4\\xa4\\xb6\\xa4",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 103,
+    "text": "木タール",
+    "bytes": "\\x96\\xd8\\x83\\x5e\\x81\\x5b\\x83\\x8b",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 104,
+    "text": "ｰ｣ﾀｧｺﾒﾈｭ",
+    "bytes": "\\xb0\\xa3\\xc0\\xa7\\xba\\xd2\\xc8\\xad",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 105,
+    "text": "解析幾何",
+    "bytes": "\\x89\\xf0\\x90\\xcd\\x8a\\xf4\\x89\\xbd",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 106,
+    "text": "幽谷の蘭",
+    "bytes": "\\x97\\x48\\x92\\x4a\\x82\\xcc\\x97\\x96",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 107,
+    "text": "ｽｻﾍｨﾖﾐﾐﾄ",
+    "bytes": "\\xbd\\xbb\\xcd\\xa8\\xd6\\xd0\\xd0\\xc4",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 108,
+    "text": "､｣､ﾀｼﾄｧﾚ",
+    "bytes": "\\xa4\\xa3\\xa4\\xc0\\xbc\\xc4\\xa7\\xda",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 109,
+    "text": "､､ｱe､ｧｹD",
+    "bytes": "\\xa4\\xa4\\xb1\\x65\\xa4\\xa7\\xb9\\x44",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 110,
+    "text": "ﾍ篩ﾆｼｲｲ｡",
+    "bytes": "\\xcd\\xe2\\xbf\\xc6\\xbc\\xb2\\xb2\\xa1",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 111,
+    "text": "小米ご飯",
+    "bytes": "\\x8f\\xac\\x95\\xc4\\x82\\xb2\\x94\\xd1",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 112,
+    "text": "小脳出血",
+    "bytes": "\\x8f\\xac\\x94\\x5d\\x8f\\x6f\\x8c\\x8c",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 113,
+    "text": "ｽﾕ･ﾎ､隱k",
+    "bytes": "\\xbd\\xd5\\xa5\\xce\\xa4\\xe8\\xaa\\x6b",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 114,
+    "text": "有機リン",
+    "bytes": "\\x97\\x4c\\x8b\\x40\\x83\\x8a\\x83\\x93",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 115,
+    "text": "ﾏﾓﾆｶｰｮｸｻ",
+    "bytes": "\\xcf\\xd3\\xc6\\xb6\\xb0\\xae\\xb8\\xbb",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 116,
+    "text": "鶏内臓鍋",
+    "bytes": "\\x8c\\x7b\\x93\\xe0\\x91\\x9f\\x93\\xe7",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 117,
+    "text": "明珠学校",
+    "bytes": "\\x96\\xbe\\x8e\\xec\\x8a\\x77\\x8d\\x5a",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 118,
+    "text": "ﾇ犢ﾄｺｯﾈｯ",
+    "bytes": "\\xc7\\xe0\\xb7\\xc4\\xba\\xaf\\xc8\\xaf",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 119,
+    "text": "ｶﾔｲｾｹｫﾌﾃ",
+    "bytes": "\\xb6\\xd4\\xb2\\xbe\\xb9\\xab\\xcc\\xc3",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 120,
+    "text": "ｱｿﾆｰﾃｱｰﾌ",
+    "bytes": "\\xb1\\xbf\\xc6\\xb0\\xc3\\xb1\\xb0\\xcc",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 121,
+    "text": "偶発故障",
+    "bytes": "\\x8b\\xf4\\x94\\xad\\x8c\\xcc\\x8f\\xe1",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 122,
+    "text": "テレビ局",
+    "bytes": "\\x83\\x65\\x83\\x8c\\x83\\x72\\x8b\\xc7",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 123,
+    "text": "中薬化学",
+    "bytes": "\\x92\\x86\\x96\\xf2\\x89\\xbb\\x8a\\x77",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 124,
+    "text": "､ﾏﾃbﾂ_ｪk",
+    "bytes": "\\xa4\\xcf\\xc3\\x62\\xc2\\x5f\\xaa\\x6b",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 125,
+    "text": "ｰｲﾗｰｹ･ﾂﾔ",
+    "bytes": "\\xb0\\xb2\\xd7\\xb0\\xb9\\xa5\\xc2\\xd4",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 126,
+    "text": "､ｭﾅｦ､ｻｵﾆ",
+    "bytes": "\\xa4\\xad\\xc5\\xa6\\xa4\\xbb\\xb5\\xc6",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 127,
+    "text": "街中庭園",
+    "bytes": "\\x8a\\x58\\x92\\x86\\x92\\xeb\\x89\\x80",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 128,
+    "text": "ｲz､uｾﾇｰ|",
+    "bytes": "\\xb2\\x7a\\xa4\\x75\\xbe\\xc7\\xb0\\x7c",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 129,
+    "text": "ﾒｻﾅﾄｼｴｺﾏ",
+    "bytes": "\\xd2\\xbb\\xc5\\xc4\\xbc\\xb4\\xba\\xcf",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 130,
+    "text": "､KｸU･|､d",
+    "bytes": "\\xa4\\x4b\\xb8\\x55\\xa5\\x7c\\xa4\\x64",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 131,
+    "text": "ｵｿｸﾆｸﾆｹﾚ",
+    "bytes": "\\xb5\\xbf\\xb8\\xc6\\xb8\\xc6\\xb9\\xda",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 132,
+    "text": "目が短浅",
+    "bytes": "\\x96\\xda\\x82\\xaa\\x92\\x5a\\x90\\xf3",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 133,
+    "text": "ｪｾｨｬｱ`ｼﾖ",
+    "bytes": "\\xaa\\xbe\\xa8\\xac\\xb1\\x60\\xbc\\xd6",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 134,
+    "text": "ﾑｰﾖｷｷｽﾊｽ",
+    "bytes": "\\xd1\\xb0\\xd6\\xb7\\xb7\\xbd\\xca\\xbd",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 135,
+    "text": "会社休業",
+    "bytes": "\\x89\\xef\\x8e\\xd0\\x8b\\x78\\x8b\\xc6",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 136,
+    "text": "画像圧縮",
+    "bytes": "\\x89\\xe6\\x91\\x9c\\x88\\xb3\\x8f\\x6b",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 137,
+    "text": "ｽｭｶｫｸｸﾀﾏ",
+    "bytes": "\\xbd\\xad\\xb6\\xab\\xb8\\xb8\\xc0\\xcf",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 138,
+    "text": "麻酔薬品",
+    "bytes": "\\x96\\x83\\x90\\x8c\\x96\\xf2\\x95\\x69",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 139,
+    "text": "専門用語",
+    "bytes": "\\x90\\xea\\x96\\xe5\\x97\\x70\\x8c\\xea",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 140,
+    "text": "､ﾆｩﾊｰ_ｰｰ",
+    "bytes": "\\xa4\\xc6\\xa9\\xca\\xb0\\x5f\\xb0\\xb0",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 141,
+    "text": "表皮母斑",
+    "bytes": "\\x95\\x5c\\x94\\xe7\\x95\\xea\\x94\\xc1",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 142,
+    "text": "資本市場",
+    "bytes": "\\x8e\\x91\\x96\\x7b\\x8e\\x73\\x8f\\xea",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 143,
+    "text": "同余方程",
+    "bytes": "\\x93\\xaf\\x97\\x5d\\x95\\xfb\\x92\\xf6",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 144,
+    "text": "好き放題",
+    "bytes": "\\x8d\\x44\\x82\\xab\\x95\\xfa\\x91\\xe8",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 145,
+    "text": "司法学院",
+    "bytes": "\\x8e\\x69\\x96\\x40\\x8a\\x77\\x89\\x40",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 146,
+    "text": "酒醸団子",
+    "bytes": "\\x8e\\xf0\\x8f\\xf8\\x92\\x63\\x8e\\x71",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 147,
+    "text": "ｷﾖｲｼﾀ獎ﾍ",
+    "bytes": "\\xb7\\xd6\\xb2\\xbc\\xc0\\xe0\\xd0\\xcd",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 148,
+    "text": "ﾆﾀｰﾕﾍﾎ｡ｹ",
+    "bytes": "\\xc6\\xc0\\xb0\\xd5\\xcd\\xce\\xa1\\xb9",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 149,
+    "text": "並行工学",
+    "bytes": "\\x95\\xc0\\x8d\\x73\\x8d\\x48\\x8a\\x77",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 150,
+    "text": "､pｳﾀｯﾂ､l",
+    "bytes": "\\xa4\\x70\\xb3\\xc0\\xaf\\xc2\\xa4\\x6c",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 151,
+    "text": "ｪﾎｫpｩﾊｭGｪ｢",
+    "bytes": "\\xaa\\xce\\xab\\x70\\xa9\\xca\\xad\\x47\\xaa\\xa2",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 152,
+    "text": "音声ビデオ",
+    "bytes": "\\x89\\xb9\\x90\\xba\\x83\\x72\\x83\\x66\\x83\\x49",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 153,
+    "text": "ｽﾃｽｺﾅﾛｺｹｱｸ",
+    "bytes": "\\xbd\\xc3\\xbd\\xba\\xc5\\xdb\\xba\\xb9\\xb1\\xb8",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 154,
+    "text": "執業医師法",
+    "bytes": "\\x8e\\xb7\\x8b\\xc6\\x88\\xe3\\x8e\\x74\\x96\\x40",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 155,
+    "text": "楽しく話す",
+    "bytes": "\\x8a\\x79\\x82\\xb5\\x82\\xad\\x98\\x62\\x82\\xb7",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 156,
+    "text": "属性ページ",
+    "bytes": "\\x91\\xae\\x90\\xab\\x83\\x79\\x81\\x5b\\x83\\x57",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 157,
+    "text": "ｶｯﾌｬﾄﾔｵ醢ｼ",
+    "bytes": "\\xb6\\xaf\\xcc\\xac\\xc4\\xd4\\xb5\\xe7\\xcd\\xbc",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 158,
+    "text": "ｦwｼ｢ｾｯｮﾄﾀｳ",
+    "bytes": "\\xa6\\x77\\xbc\\xa2\\xbe\\xaf\\xae\\xc4\\xc0\\xb3",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 159,
+    "text": "ｷﾃﾎﾊｾﾖｲｿﾐﾔ",
+    "bytes": "\\xb7\\xc3\\xce\\xca\\xbe\\xd6\\xb2\\xbf\\xd0\\xd4",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 160,
+    "text": "ﾊﾂｹﾔ･ﾆ･ｹ･ﾈ",
+    "bytes": "\\xca\\xc2\\xb9\\xd4\\xa5\\xc6\\xa5\\xb9\\xa5\\xc8",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 161,
+    "text": "ｿｦｶﾈﾀｭ､ｶ碆",
+    "bytes": "\\xbf\\xa6\\xb6\\xc8\\xc0\\xad\\xa4\\xb6\\xe1\\xec",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 162,
+    "text": "ﾐﾂﾊﾀｼﾍｹ羌｡",
+    "bytes": "\\xd0\\xc2\\xca\\xc0\\xbc\\xcd\\xb9\\xe3\\xb3\\xa1",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 163,
+    "text": "杜鵑の泣血",
+    "bytes": "\\x93\\x6d\\xea\\x43\\x82\\xcc\\x8b\\x83\\x8c\\x8c",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 164,
+    "text": "青パパイヤ",
+    "bytes": "\\x90\\xc2\\x83\\x70\\x83\\x70\\x83\\x43\\x83\\x84",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 165,
+    "text": "ﾋﾇｰﾗｷﾐｱﾄｼﾔ",
+    "bytes": "\\xcb\\xc7\\xb0\\xd7\\xb7\\xd0\\xb1\\xc4\\xbc\\xd4",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 166,
+    "text": "･ﾁ･ﾎｯ隱ﾅｪk",
+    "bytes": "\\xa5\\xc1\\xa5\\xce\\xaf\\xe8\\xaa\\xc5\\xaa\\x6b",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 167,
+    "text": "ｹﾚ､､ｹC､ﾆｫｰ",
+    "bytes": "\\xb9\\xda\\xa4\\xa4\\xb9\\x43\\xa4\\xc6\\xab\\xb0",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 168,
+    "text": "ｳ､ﾁｯ･ｭ･ﾎ･ｳ",
+    "bytes": "\\xb3\\xa4\\xc1\\xaf\\xa5\\xad\\xa5\\xce\\xa5\\xb3",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 169,
+    "text": "通気バルブ",
+    "bytes": "\\x92\\xca\\x8b\\x43\\x83\\x6f\\x83\\x8b\\x83\\x75",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 170,
+    "text": "ミックス鍋",
+    "bytes": "\\x83\\x7e\\x83\\x62\\x83\\x4e\\x83\\x58\\x93\\xe7",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 171,
+    "text": "ｼ箙衢ｮﾄ犁ｧ",
+    "bytes": "\\xbc\\xe2\\xb7\\xe5\\xcb\\xae\\xc4\\xe0\\xb3\\xa7",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 172,
+    "text": "ｿｷｲﾚﾃ豕ﾘｹｻ",
+    "bytes": "\\xbf\\xb7\\xb2\\xda\\xc3\\xe6\\xb3\\xd8\\xb9\\xbb",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 173,
+    "text": "小青竜合剤",
+    "bytes": "\\x8f\\xac\\x90\\xc2\\x97\\xb3\\x8d\\x87\\x8d\\xdc",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 174,
+    "text": "ｶﾔｱﾈｶﾈﾀｩﾕｹ",
+    "bytes": "\\xb6\\xd4\\xb1\\xc8\\xb6\\xc8\\xc0\\xa9\\xd5\\xb9",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 175,
+    "text": "カード穿孔",
+    "bytes": "\\x83\\x4a\\x81\\x5b\\x83\\x68\\x90\\xfa\\x8d\\x45",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 176,
+    "text": "幸福映画館",
+    "bytes": "\\x8d\\x4b\\x95\\x9f\\x89\\x66\\x89\\xe6\\x8a\\xd9",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 177,
+    "text": "膿疱型乾癬",
+    "bytes": "\\x94\\x5e\\xe1\\x76\\x8c\\x5e\\x8a\\xa3\\xe1\\x9d",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 178,
+    "text": "･ﾌﾂfｪﾛｳﾂｽｼ",
+    "bytes": "\\xa5\\xcc\\xc2\\x66\\xaa\\xdb\\xb3\\xc2\\xbd\\xbc",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 179,
+    "text": "多発性筋炎",
+    "bytes": "\\x91\\xbd\\x94\\xad\\x90\\xab\\x8b\\xd8\\x89\\x8a",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 180,
+    "text": "国家計量局",
+    "bytes": "\\x8d\\x91\\x89\\xc6\\x8c\\x76\\x97\\xca\\x8b\\xc7",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 181,
+    "text": "ｷﾗｻｻｵ｡ｲﾊｳﾘ",
+    "bytes": "\\xb7\\xd7\\xbb\\xbb\\xb5\\xa1\\xb2\\xca\\xb3\\xd8",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 182,
+    "text": "ｷﾅｬGｦﾓｪｾｷs",
+    "bytes": "\\xb7\\xc5\\xac\\x47\\xa6\\xd3\\xaa\\xbe\\xb7\\x73",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 183,
+    "text": "ﾃﾟｰ｣ﾆﾇｺｯｼｺ",
+    "bytes": "\\xc3\\xdf\\xb0\\xa3\\xc6\\xc7\\xba\\xaf\\xbc\\xba",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 184,
+    "text": "腸ウイルス",
+    "bytes": "\\x92\\xb0\\x83\\x45\\x83\\x43\\x83\\x8b\\x83\\x58",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 185,
+    "text": "城隍廟通り",
+    "bytes": "\\x8f\\xe9\\xe8\\xa4\\x95\\x5f\\x92\\xca\\x82\\xe8",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 186,
+    "text": "厚かましい",
+    "bytes": "\\x8c\\xfa\\x82\\xa9\\x82\\xdc\\x82\\xb5\\x82\\xa2",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 187,
+    "text": "遺伝子頻度",
+    "bytes": "\\x88\\xe2\\x93\\x60\\x8e\\x71\\x95\\x70\\x93\\x78",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 188,
+    "text": "おとなしい",
+    "bytes": "\\x82\\xa8\\x82\\xc6\\x82\\xc8\\x82\\xb5\\x82\\xa2",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 189,
+    "text": "ｽsｵ{､pｧﾞ･ｩ",
+    "bytes": "\\xbd\\x73\\xb5\\x7b\\xa4\\x70\\xa7\\xde\\xa5\\xa9",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 190,
+    "text": "円頂華渓蟹",
+    "bytes": "\\x89\\x7e\\x92\\xb8\\x89\\xd8\\x8c\\x6b\\x8a\\x49",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 191,
+    "text": "ﾇﾃｷ邁ﾔﾀﾌｽﾅ",
+    "bytes": "\\xc7\\xc3\\xb7\\xe7\\xb0\\xd4\\xc0\\xcc\\xbd\\xc5",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 192,
+    "text": "ﾀ蠱､ｵﾎｺﾎｰ｣",
+    "bytes": "\\xc0\\xe5\\xc1\\xa4\\xb5\\xce\\xba\\xce\\xb0\\xa3",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 193,
+    "text": "ｪﾍ､OｫyｦXｾｯ",
+    "bytes": "\\xaa\\xcd\\xa4\\x4f\\xab\\x79\\xa6\\x58\\xbe\\xaf",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 194,
+    "text": "自動並列化",
+    "bytes": "\\x8e\\xa9\\x93\\xae\\x95\\xc0\\x97\\xf1\\x89\\xbb",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 195,
+    "text": "ﾁﾖﾃ羃ﾅｸｮｴﾙ",
+    "bytes": "\\xc1\\xd6\\xc3\\xe3\\xb0\\xc5\\xb8\\xae\\xb4\\xd9",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 196,
+    "text": "インフレ率",
+    "bytes": "\\x83\\x43\\x83\\x93\\x83\\x74\\x83\\x8c\\x97\\xa6",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 197,
+    "text": "最長部分列",
+    "bytes": "\\x8d\\xc5\\x92\\xb7\\x95\\x94\\x95\\xaa\\x97\\xf1",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 198,
+    "text": "動的計画法",
+    "bytes": "\\x93\\xae\\x93\\x49\\x8c\\x76\\x89\\xe6\\x96\\x40",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 199,
+    "text": "ﾖｪﾖｮﾎｪﾖｪﾖｮ",
+    "bytes": "\\xd6\\xaa\\xd6\\xae\\xce\\xaa\\xd6\\xaa\\xd6\\xae",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 200,
+    "text": "心肺脳蘇生",
+    "bytes": "\\x90\\x53\\x94\\x78\\x94\\x5d\\x91\\x68\\x90\\xb6",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 201,
+    "text": "ﾅｬｷ｡ｽｺﾃﾊｱ篳ｭ",
+    "bytes": "\\xc5\\xac\\xb7\\xa1\\xbd\\xba\\xc3\\xca\\xb1\\xe2\\xc8\\xad",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 202,
+    "text": "ｷｨｹﾙﾖｰﾒｵｵﾀｵﾂ",
+    "bytes": "\\xb7\\xa8\\xb9\\xd9\\xd6\\xb0\\xd2\\xb5\\xb5\\xc0\\xb5\\xc2",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 203,
+    "text": "ｴｨｱｴ霖靈ｿﾅﾁ｣",
+    "bytes": "\\xb4\\xa8\\xb1\\xb4\\xe8\\xc1\\xe8\\xcb\\xbf\\xc5\\xc1\\xa3",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 204,
+    "text": "ﾄﾁｼｳﾆﾃｽﾃｽｺﾅﾛ",
+    "bytes": "\\xc4\\xc1\\xbc\\xb3\\xc6\\xc3\\xbd\\xc3\\xbd\\xba\\xc5\\xdb",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 205,
+    "text": "ｧQ､ﾚｭｳｪLｽｦﾅn",
+    "bytes": "\\xa7\\x51\\xa4\\xda\\xad\\xb3\\xaa\\x4c\\xbd\\xa6\\xc5\\x6e",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 206,
+    "text": "エンハンサー",
+    "bytes": "\\x83\\x47\\x83\\x93\\x83\\x6e\\x83\\x93\\x83\\x54\\x81\\x5b",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 207,
+    "text": "ﾑﾀﾌ衽ﾀﾋ雋｡ﾑｧ",
+    "bytes": "\\xd1\\xc0\\xcc\\xe5\\xd1\\xc0\\xcb\\xe8\\xb2\\xa1\\xd1\\xa7",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 208,
+    "text": "ｮﾈｫﾈｹBｿ鬥XｦP",
+    "bytes": "\\xae\\xc8\\xab\\xc8\\xb9\\x42\\xbf\\xe9\\xa6\\x58\\xa6\\x50",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 209,
+    "text": "炉甘石洗浄液",
+    "bytes": "\\x98\\x46\\x8a\\xc3\\x90\\xce\\x90\\xf4\\x8f\\xf2\\x89\\x74",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 210,
+    "text": "ﾋﾄｱﾟﾐﾎｲｻｵﾈﾊｽ",
+    "bytes": "\\xcb\\xc4\\xb1\\xdf\\xd0\\xce\\xb2\\xbb\\xb5\\xc8\\xca\\xbd",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 211,
+    "text": "よく使う設定",
+    "bytes": "\\x82\\xe6\\x82\\xad\\x8e\\x67\\x82\\xa4\\x90\\xdd\\x92\\xe8",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 212,
+    "text": "環境民事紛争",
+    "bytes": "\\x8a\\xc2\\x8b\\xab\\x96\\xaf\\x8e\\x96\\x95\\xb4\\x91\\x88",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 213,
+    "text": "ｿﾈﾂﾎﾊﾑｷﾁｾ羌ｲ",
+    "bytes": "\\xbf\\xc8\\xc2\\xce\\xca\\xd1\\xb7\\xc1\\xbe\\xe3\\xb3\\xb2",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 214,
+    "text": "ﾀﾗｹｫﾌﾙﾋｫｲ翦ｬ",
+    "bytes": "\\xc0\\xd7\\xb9\\xab\\xcc\\xd9\\xcb\\xab\\xb2\\xe3\\xc6\\xac",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 215,
+    "text": "メディア再生",
+    "bytes": "\\x83\\x81\\x83\\x66\\x83\\x42\\x83\\x41\\x8d\\xc4\\x90\\xb6",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 216,
+    "text": "ﾒﾆｶｯﾆｽﾌｨｿｪｷ｢",
+    "bytes": "\\xd2\\xc6\\xb6\\xaf\\xc6\\xbd\\xcc\\xa8\\xbf\\xaa\\xb7\\xa2",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 217,
+    "text": "湯麺蒸し餃子",
+    "bytes": "\\x93\\x92\\x96\\xcb\\x8f\\xf6\\x82\\xb5\\xe9\\x4c\\x8e\\x71",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 218,
+    "text": "揚げた臭豆腐",
+    "bytes": "\\x97\\x67\\x82\\xb0\\x82\\xbd\\x8f\\x4c\\x93\\xa4\\x95\\x85",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 219,
+    "text": "ｫnｨﾊｹAｷ~､jｾﾇ",
+    "bytes": "\\xab\\x6e\\xa8\\xca\\xb9\\x41\\xb7\\x7e\\xa4\\x6a\\xbe\\xc7",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 220,
+    "text": "小橋のたもと",
+    "bytes": "\\x8f\\xac\\x8b\\xb4\\x82\\xcc\\x82\\xbd\\x82\\xe0\\x82\\xc6",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 221,
+    "text": "胃を癒す顆粒",
+    "bytes": "\\x88\\xdd\\x82\\xf0\\x96\\xfc\\x82\\xb7\\xe8\\xf7\\x97\\xb1",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 222,
+    "text": "ｽｺﾄﾉﾁﾙｸｮｼﾒｽｺ",
+    "bytes": "\\xbd\\xba\\xc4\\xc9\\xc1\\xd9\\xb8\\xae\\xbc\\xd2\\xbd\\xba",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 223,
+    "text": "ﾂｾｷ~ｩﾊ･ﾕ､ｺｻﾙ",
+    "bytes": "\\xc2\\xbe\\xb7\\x7e\\xa9\\xca\\xa5\\xd5\\xa4\\xba\\xbb\\xd9",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 224,
+    "text": "フリーモード",
+    "bytes": "\\x83\\x74\\x83\\x8a\\x81\\x5b\\x83\\x82\\x81\\x5b\\x83\\x68",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 225,
+    "text": "信用保証制度",
+    "bytes": "\\x90\\x4d\\x97\\x70\\x95\\xdb\\x8f\\xd8\\x90\\xa7\\x93\\x78",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 226,
+    "text": "有償法律行為",
+    "bytes": "\\x97\\x4c\\x8f\\x9e\\x96\\x40\\x97\\xa5\\x8d\\x73\\x88\\xd7",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 227,
+    "text": "､Aｫｬｨxｪ｢ｯfｬr",
+    "bytes": "\\xa4\\x41\\xab\\xac\\xa8\\x78\\xaa\\xa2\\xaf\\x66\\xac\\x72",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 228,
+    "text": "ロバスタチン",
+    "bytes": "\\x83\\x8d\\x83\\x6f\\x83\\x58\\x83\\x5e\\x83\\x60\\x83\\x93",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 229,
+    "text": "･ｪ･､･鬘ｼｷﾐﾏｩ",
+    "bytes": "\\xa5\\xaa\\xa5\\xa4\\xa5\\xe9\\xa1\\xbc\\xb7\\xd0\\xcf\\xa9",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 230,
+    "text": "栄養サポート",
+    "bytes": "\\x89\\x68\\x97\\x7b\\x83\\x54\\x83\\x7c\\x81\\x5b\\x83\\x67",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 231,
+    "text": "ﾀﾌﾅｻｸｮｾﾆﾀｽｽﾄ",
+    "bytes": "\\xc0\\xcc\\xc5\\xbb\\xb8\\xae\\xbe\\xc6\\xc0\\xbd\\xbd\\xc4",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 232,
+    "text": "舒筋通絡顆粒",
+    "bytes": "\\x98\\xae\\x8b\\xd8\\x92\\xca\\x97\\x8d\\xe8\\xf7\\x97\\xb1",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 233,
+    "text": "ｦｿｪF･貽ｵ､jｶ､",
+    "bytes": "\\xa6\\xbf\\xaa\\x46\\xa5\\xe6\\xc4\\xb5\\xa4\\x6a\\xb6\\xa4",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 234,
+    "text": "ﾒﾒﾐﾍｸﾎﾑﾗｲ｡ｶｾ",
+    "bytes": "\\xd2\\xd2\\xd0\\xcd\\xb8\\xce\\xd1\\xd7\\xb2\\xa1\\xb6\\xbe",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 235,
+    "text": "北京児童病院",
+    "bytes": "\\x96\\x6b\\x8b\\x9e\\x8e\\x99\\x93\\xb6\\x95\\x61\\x89\\x40",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 236,
+    "text": "ニマイコリン",
+    "bytes": "\\x83\\x6a\\x83\\x7d\\x83\\x43\\x83\\x52\\x83\\x8a\\x83\\x93",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 237,
+    "text": "細菌性膀胱炎",
+    "bytes": "\\x8d\\xd7\\x8b\\xdb\\x90\\xab\\xe4\\x4e\\xe3\\xf7\\x89\\x8a",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 238,
+    "text": "濃縮ジュース",
+    "bytes": "\\x94\\x5a\\x8f\\x6b\\x83\\x57\\x83\\x85\\x81\\x5b\\x83\\x58",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 239,
+    "text": "技術調査研究",
+    "bytes": "\\x8b\\x5a\\x8f\\x70\\x92\\xb2\\x8d\\xb8\\x8c\\xa4\\x8b\\x86",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 240,
+    "text": "国家金庫制度",
+    "bytes": "\\x8d\\x91\\x89\\xc6\\x8b\\xe0\\x8c\\xc9\\x90\\xa7\\x93\\x78",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 241,
+    "text": "職権乱用事件",
+    "bytes": "\\x90\\x45\\x8c\\xa0\\x97\\x90\\x97\\x70\\x8e\\x96\\x8c\\x8f",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 242,
+    "text": "ｶ筝萍｣ﾋﾜｰﾌﾀｩ",
+    "bytes": "\\xb6\\xe2\\xb6\\xe4\\xca\\xa3\\xcb\\xdc\\xb0\\xcc\\xc0\\xa9",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 243,
+    "text": "孔武で力強い",
+    "bytes": "\\x8d\\x45\\x95\\x90\\x82\\xc5\\x97\\xcd\\x8b\\xad\\x82\\xa2",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 244,
+    "text": "ｦｿﾄｬｬﾙｦｿｳｱ･ｫ",
+    "bytes": "\\xa6\\xbf\\xc4\\xac\\xac\\xd9\\xa6\\xbf\\xb3\\xb1\\xa5\\xab",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 245,
+    "text": "ﾇﾄﾇﾄｵﾄﾎﾒﾗﾟﾁﾋ",
+    "bytes": "\\xc7\\xc4\\xc7\\xc4\\xb5\\xc4\\xce\\xd2\\xd7\\xdf\\xc1\\xcb",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 246,
+    "text": "ｱｹｹﾎﾁﾖﾅﾃﾁｶｷﾊ",
+    "bytes": "\\xb1\\xb9\\xb9\\xce\\xc1\\xd6\\xc5\\xc3\\xc1\\xb6\\xb7\\xca",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 247,
+    "text": "ｵﾘ､､ｹAｷ~､jｾﾇ",
+    "bytes": "\\xb5\\xd8\\xa4\\xa4\\xb9\\x41\\xb7\\x7e\\xa4\\x6a\\xbe\\xc7",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 248,
+    "text": "鉄道交通事故",
+    "bytes": "\\x93\\x53\\x93\\xb9\\x8c\\xf0\\x92\\xca\\x8e\\x96\\x8c\\xcc",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 249,
+    "text": "新疆農業大学",
+    "bytes": "\\x90\\x56\\xe1\\x64\\x94\\x5f\\x8b\\xc6\\x91\\xe5\\x8a\\x77",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 250,
+    "text": "ｰ豎ｾｿﾘﾖﾆｹ､ｾﾟ",
+    "bytes": "\\xb0\\xe6\\xb1\\xbe\\xbf\\xd8\\xd6\\xc6\\xb9\\xa4\\xbe\\xdf",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 251,
+    "text": "リスペリドン錠",
+    "bytes": "\\x83\\x8a\\x83\\x58\\x83\\x79\\x83\\x8a\\x83\\x68\\x83\\x93\\x8f\\xf9",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 252,
+    "text": "友人の道である",
+    "bytes": "\\x97\\x46\\x90\\x6c\\x82\\xcc\\x93\\xb9\\x82\\xc5\\x82\\xa0\\x82\\xe9",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 253,
+    "text": "ﾒｹﾀｴｳﾇﾍ簫ｻｳﾟﾑｩ",
+    "bytes": "\\xd2\\xb9\\xc0\\xb4\\xb3\\xc7\\xcd\\xe2\\xd2\\xbb\\xb3\\xdf\\xd1\\xa9",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 254,
+    "text": "黄陂区公安分局",
+    "bytes": "\\x89\\xa9\\xe8\\x98\\x8b\\xe6\\x8c\\xf6\\x88\\xc0\\x95\\xaa\\x8b\\xc7",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 255,
+    "text": "ポジション保持",
+    "bytes": "\\x83\\x7c\\x83\\x57\\x83\\x56\\x83\\x87\\x83\\x93\\x95\\xdb\\x8e\\x9d",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 256,
+    "text": "継父母子の関係",
+    "bytes": "\\x8c\\x70\\x95\\x83\\x95\\xea\\x8e\\x71\\x82\\xcc\\x8a\\xd6\\x8c\\x57",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 257,
+    "text": "ｺ｣ﾀﾌﾂ｡ｿｪｾﾕｰﾅｸｮ",
+    "bytes": "\\xba\\xa3\\xc0\\xcc\\xc2\\xa1\\xbf\\xaa\\xbe\\xd5\\xb0\\xc5\\xb8\\xae",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 258,
+    "text": "中国独占禁止法",
+    "bytes": "\\x92\\x86\\x8d\\x91\\x93\\xc6\\x90\\xe8\\x8b\\xd6\\x8e\\x7e\\x96\\x40",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 259,
+    "text": "気変じて形あり",
+    "bytes": "\\x8b\\x43\\x95\\xcf\\x82\\xb6\\x82\\xc4\\x8c\\x60\\x82\\xa0\\x82\\xe8",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 260,
+    "text": "単一遺伝子疾患",
+    "bytes": "\\x92\\x50\\x88\\xea\\x88\\xe2\\x93\\x60\\x8e\\x71\\x8e\\xbe\\x8a\\xb3",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 261,
+    "text": "耳にし目にする",
+    "bytes": "\\x8e\\xa8\\x82\\xc9\\x82\\xb5\\x96\\xda\\x82\\xc9\\x82\\xb7\\x82\\xe9",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 262,
+    "text": "､pｨ犢Pｫ_ｹ鄙}ｼﾟ",
+    "bytes": "\\xa4\\x70\\xa8\\xe0\\xb7\\x50\\xab\\x5f\\xb9\\xe7\\xbf\\x7d\\xbc\\xdf",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 263,
+    "text": "システムテスト",
+    "bytes": "\\x83\\x56\\x83\\x58\\x83\\x65\\x83\\x80\\x83\\x65\\x83\\x58\\x83\\x67",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 264,
+    "text": "真相を追究する",
+    "bytes": "\\x90\\x5e\\x91\\x8a\\x82\\xf0\\x92\\xc7\\x8b\\x86\\x82\\xb7\\x82\\xe9",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 265,
+    "text": "､@ｵoｦﾓ､｣･iｦｬｬB",
+    "bytes": "\\xa4\\x40\\xb5\\x6f\\xa6\\xd3\\xa4\\xa3\\xa5\\x69\\xa6\\xac\\xac\\x42",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 266,
+    "text": "ｬｰｽﾖｼｬｱ|ｷlｪﾚｫｺ",
+    "bytes": "\\xac\\xb0\\xbd\\xd6\\xbc\\xac\\xb1\\x7c\\xb7\\x6c\\xaa\\xda\\xab\\xba",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 267,
+    "text": "黒もち米八宝飯",
+    "bytes": "\\x8d\\x95\\x82\\xe0\\x82\\xbf\\x95\\xc4\\x94\\xaa\\x95\\xf3\\x94\\xd1",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 268,
+    "text": "現代世界法制度",
+    "bytes": "\\x8c\\xbb\\x91\\xe3\\x90\\xa2\\x8a\\x45\\x96\\x40\\x90\\xa7\\x93\\x78",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 269,
+    "text": "フロントガラス",
+    "bytes": "\\x83\\x74\\x83\\x8d\\x83\\x93\\x83\\x67\\x83\\x4b\\x83\\x89\\x83\\x58",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 270,
+    "text": "･ｯ･遙ｼ･爭ﾁ｡ｼ･ｺ",
+    "bytes": "\\xa5\\xaf\\xa5\\xea\\xa1\\xbc\\xa5\\xe0\\xa5\\xc1\\xa1\\xbc\\xa5\\xba",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 271,
+    "text": "トラクター工場",
+    "bytes": "\\x83\\x67\\x83\\x89\\x83\\x4e\\x83\\x5e\\x81\\x5b\\x8d\\x48\\x8f\\xea",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 272,
+    "text": "タイ式イカ和え",
+    "bytes": "\\x83\\x5e\\x83\\x43\\x8e\\xae\\x83\\x43\\x83\\x4a\\x98\\x61\\x82\\xa6",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 273,
+    "text": "･ﾗ･鬣ﾁ･ﾊ･ｫ｡ｼ･ﾉ",
+    "bytes": "\\xa5\\xd7\\xa5\\xe9\\xa5\\xc1\\xa5\\xca\\xa5\\xab\\xa1\\xbc\\xa5\\xc9",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 274,
+    "text": "ﾓﾒﾇｰﾒｶﾗﾓｰ蠧ﾚｳﾄ",
+    "bytes": "\\xd3\\xd2\\xc7\\xb0\\xd2\\xb6\\xd7\\xd3\\xb0\\xe5\\xc4\\xda\\xb3\\xc4",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 275,
+    "text": "ｺｰｵｵﾀﾇﾀｧﾅｹｺｯﾈ｣",
+    "bytes": "\\xba\\xb0\\xb5\\xb5\\xc0\\xc7\\xc0\\xa7\\xc5\\xb9\\xba\\xaf\\xc8\\xa3",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 276,
+    "text": "･ｫｦ谺FｪAｰﾈ､､､ﾟ",
+    "bytes": "\\xa5\\xab\\xa6\\xe6\\xac\\x46\\xaa\\x41\\xb0\\xc8\\xa4\\xa4\\xa4\\xdf",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 277,
+    "text": "ストレステスト",
+    "bytes": "\\x83\\x58\\x83\\x67\\x83\\x8c\\x83\\x58\\x83\\x65\\x83\\x58\\x83\\x67",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 278,
+    "text": "プロポフォール",
+    "bytes": "\\x83\\x76\\x83\\x8d\\x83\\x7c\\x83\\x74\\x83\\x48\\x81\\x5b\\x83\\x8b",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 279,
+    "text": "禍福は寄り添う",
+    "bytes": "\\x89\\xd0\\x95\\x9f\\x82\\xcd\\x8a\\xf1\\x82\\xe8\\x93\\x59\\x82\\xa4",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 280,
+    "text": "労働組織の改善",
+    "bytes": "\\x98\\x4a\\x93\\xad\\x91\\x67\\x90\\x44\\x82\\xcc\\x89\\xfc\\x91\\x50",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 281,
+    "text": "慢性活動性肝炎",
+    "bytes": "\\x96\\x9d\\x90\\xab\\x8a\\x88\\x93\\xae\\x90\\xab\\x8a\\xcc\\x89\\x8a",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 282,
+    "text": "ｱｸｹﾌﾃ｢ﾈｰｾﾋｰｻﾀﾌ",
+    "bytes": "\\xb1\\xb8\\xb9\\xcc\\xc3\\xa2\\xc8\\xb0\\xbe\\xcb\\xb0\\xbb\\xc0\\xcc",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 283,
+    "text": "ｵｵｵﾏﾀｻﾈｯｿｵﾇﾏｴﾙ",
+    "bytes": "\\xb5\\xb5\\xb5\\xcf\\xc0\\xbb\\xc8\\xaf\\xbf\\xb5\\xc7\\xcf\\xb4\\xd9",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 284,
+    "text": "ﾃﾖﾀ衒ｸｹｮｹｮﾀﾚｿｭ",
+    "bytes": "\\xc3\\xd6\\xc0\\xe5\\xc8\\xb8\\xb9\\xae\\xb9\\xae\\xc0\\xda\\xbf\\xad",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 285,
+    "text": "ﾒｻ腋ｺ｣ﾋｮｱｭﾖﾐﾐｺ",
+    "bytes": "\\xd2\\xbb\\xe3\\xfc\\xba\\xa3\\xcb\\xae\\xb1\\xad\\xd6\\xd0\\xd0\\xba",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 286,
+    "text": "ｯｺｦﾓ､｣ｵｪ､ﾟｦﾛｶ｢",
+    "bytes": "\\xaf\\xba\\xa6\\xd3\\xa4\\xa3\\xb5\\xaa\\xa4\\xdf\\xa6\\xdb\\xb6\\xa2",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 287,
+    "text": "飢餓性ケトシス",
+    "bytes": "\\x8b\\x51\\x89\\xec\\x90\\xab\\x83\\x50\\x83\\x67\\x83\\x56\\x83\\x58",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 288,
+    "text": "カスタムタイプ",
+    "bytes": "\\x83\\x4a\\x83\\x58\\x83\\x5e\\x83\\x80\\x83\\x5e\\x83\\x43\\x83\\x76",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 289,
+    "text": "ループのネスト",
+    "bytes": "\\x83\\x8b\\x81\\x5b\\x83\\x76\\x82\\xcc\\x83\\x6c\\x83\\x58\\x83\\x67",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 290,
+    "text": "ﾎ眇ｫﾒｷﾎｲﾓﾚﾍｿﾖﾐ",
+    "bytes": "\\xce\\xe1\\xbd\\xab\\xd2\\xb7\\xce\\xb2\\xd3\\xda\\xcd\\xbf\\xd6\\xd0",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 291,
+    "text": "ｻ賁ｾﾎｮﾄﾌ､ﾎｵｬﾂｧ",
+    "bytes": "\\xbb\\xe6\\xca\\xbe\\xce\\xae\\xc4\\xcc\\xa4\\xce\\xb5\\xac\\xc2\\xa7",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 292,
+    "text": "コラーゲン繊維",
+    "bytes": "\\x83\\x52\\x83\\x89\\x81\\x5b\\x83\\x51\\x83\\x93\\x91\\x40\\x88\\xdb",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 293,
+    "text": "ｪFｮaｽｹｽｺｦ隶aｭｸ",
+    "bytes": "\\xaa\\x46\\xae\\x61\\xbd\\xb9\\xbd\\xba\\xa6\\xe8\\xae\\x61\\xad\\xb8",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 294,
+    "text": "ﾃCｭｱｦAｵoｩﾊ･ﾖｪ｢",
+    "bytes": "\\xc3\\x43\\xad\\xb1\\xa6\\x41\\xb5\\x6f\\xa9\\xca\\xa5\\xd6\\xaa\\xa2",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 295,
+    "text": "ｹﾙｻ雹ﾙｻ霽ﾑｼｳﾅﾁ",
+    "bytes": "\\xb9\\xd9\\xbb\\xe8\\xb9\\xd9\\xbb\\xe8\\xc7\\xd1\\xbc\\xb3\\xc5\\xc1",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 296,
+    "text": "ﾀﾐｻ篏ﾔｲﾚｶ｣ﾉﾂｱ｡",
+    "bytes": "\\xc0\\xd0\\xbb\\xe2\\xbb\\xd4\\xb2\\xda\\xb6\\xa3\\xc9\\xc2\\xb1\\xa1",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 297,
+    "text": "ﾎﾔｷｿｽﾗﾏﾂｲ衲羣ﾍ",
+    "bytes": "\\xce\\xd4\\xb7\\xbf\\xbd\\xd7\\xcf\\xc2\\xb2\\xe5\\xd3\\xe3\\xb8\\xcd",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 298,
+    "text": "ｫn､雉ﾘｴｵｯSｦaｻｪ",
+    "bytes": "\\xab\\x6e\\xa4\\xe8\\xb3\\xd8\\xb4\\xb5\\xaf\\x53\\xa6\\x61\\xbb\\xaa",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 299,
+    "text": "ﾏﾄﾓﾐﾁｹｷ邯ｬﾓﾐﾑｩ",
+    "bytes": "\\xcf\\xc4\\xd3\\xd0\\xc1\\xb9\\xb7\\xe7\\xb6\\xac\\xd3\\xd0\\xd1\\xa9",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 300,
+    "text": "ｳｲﾁｶｽﾃｽﾅｺﾏﾁｶｰｴ",
+    "bytes": "\\xb3\\xb2\\xc1\\xb6\\xbd\\xc3\\xbd\\xc5\\xba\\xcf\\xc1\\xb6\\xb0\\xb4",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 301,
+    "text": "ｺCｩﾊ､ﾆﾁwｩﾊｰｩﾅ隱｢",
+    "bytes": "\\xba\\x43\\xa9\\xca\\xa4\\xc6\\xc1\\x77\\xa9\\xca\\xb0\\xa9\\xc5\\xe8\\xaa\\xa2",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 302,
+    "text": "ｴﾗﾋ眩ﾉｵﾄﾋﾉｵﾎﾑﾛﾒｺ",
+    "bytes": "\\xb4\\xd7\\xcb\\xe1\\xbf\\xc9\\xb5\\xc4\\xcb\\xc9\\xb5\\xce\\xd1\\xdb\\xd2\\xba",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 303,
+    "text": "ﾀYﾌUｧJｬ･ｽwﾄﾀｽｦﾅn",
+    "bytes": "\\xc0\\x59\\xcc\\x55\\xa7\\x4a\\xac\\xa5\\xbd\\x77\\xc4\\xc0\\xbd\\xa6\\xc5\\x6e",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 304,
+    "text": "行政行為主体合法",
+    "bytes": "\\x8d\\x73\\x90\\xad\\x8d\\x73\\x88\\xd7\\x8e\\xe5\\x91\\xcc\\x8d\\x87\\x96\\x40",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 305,
+    "text": "川貝止咳シロップ",
+    "bytes": "\\x90\\xec\\x8a\\x4c\\x8e\\x7e\\x8a\\x50\\x83\\x56\\x83\\x8d\\x83\\x62\\x83\\x76",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 306,
+    "text": "塩酸モラホンガ片",
+    "bytes": "\\x89\\x96\\x8e\\x5f\\x83\\x82\\x83\\x89\\x83\\x7a\\x83\\x93\\x83\\x4b\\x95\\xd0",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 307,
+    "text": "民事訴訟法問題集",
+    "bytes": "\\x96\\xaf\\x8e\\x96\\x91\\x69\\x8f\\xd7\\x96\\x40\\x96\\xe2\\x91\\xe8\\x8f\\x57",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 308,
+    "text": "行政法律関係研究",
+    "bytes": "\\x8d\\x73\\x90\\xad\\x96\\x40\\x97\\xa5\\x8a\\xd6\\x8c\\x57\\x8c\\xa4\\x8b\\x86",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 309,
+    "text": "割り込み優先順位",
+    "bytes": "\\x8a\\x84\\x82\\xe8\\x8d\\x9e\\x82\\xdd\\x97\\x44\\x90\\xe6\\x8f\\x87\\x88\\xca",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 310,
+    "text": "デスクトップ環境",
+    "bytes": "\\x83\\x66\\x83\\x58\\x83\\x4e\\x83\\x67\\x83\\x62\\x83\\x76\\x8a\\xc2\\x8b\\xab",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 311,
+    "text": "ﾍｷﾍｴﾒｽﾍｷｽﾅﾍｴﾒｽｽﾅ",
+    "bytes": "\\xcd\\xb7\\xcd\\xb4\\xd2\\xbd\\xcd\\xb7\\xbd\\xc5\\xcd\\xb4\\xd2\\xbd\\xbd\\xc5",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 312,
+    "text": "刑法総論特集研究",
+    "bytes": "\\x8c\\x59\\x96\\x40\\x91\\x8d\\x98\\x5f\\x93\\xc1\\x8f\\x57\\x8c\\xa4\\x8b\\x86",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 313,
+    "text": "刑事和解制度研究",
+    "bytes": "\\x8c\\x59\\x8e\\x96\\x98\\x61\\x89\\xf0\\x90\\xa7\\x93\\x78\\x8c\\xa4\\x8b\\x86",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 314,
+    "text": "ｻ眈ﾆﾖｰﾒｵﾅﾐｶﾏﾄﾜﾁｦ",
+    "bytes": "\\xbb\\xe1\\xbc\\xc6\\xd6\\xb0\\xd2\\xb5\\xc5\\xd0\\xb6\\xcf\\xc4\\xdc\\xc1\\xa6",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 315,
+    "text": "豆腐フレーク炒め",
+    "bytes": "\\x93\\xa4\\x95\\x85\\x83\\x74\\x83\\x8c\\x81\\x5b\\x83\\x4e\\xe0\\x75\\x82\\xdf",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 316,
+    "text": "ﾋｮﾄﾜﾔﾘﾖﾛﾒ狷ﾜｸｲﾖﾛ",
+    "bytes": "\\xcb\\xae\\xc4\\xdc\\xd4\\xd8\\xd6\\xdb\\xd2\\xe0\\xc4\\xdc\\xb8\\xb2\\xd6\\xdb",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 317,
+    "text": "･u･iｷNｷ|､｣･iｨ･ｶﾇ",
+    "bytes": "\\xa5\\x75\\xa5\\x69\\xb7\\x4e\\xb7\\x7c\\xa4\\xa3\\xa5\\x69\\xa8\\xa5\\xb6\\xc7",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 318,
+    "text": "リモートブランチ",
+    "bytes": "\\x83\\x8a\\x83\\x82\\x81\\x5b\\x83\\x67\\x83\\x75\\x83\\x89\\x83\\x93\\x83\\x60",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 319,
+    "text": "ユーラシア大陸橋",
+    "bytes": "\\x83\\x86\\x81\\x5b\\x83\\x89\\x83\\x56\\x83\\x41\\x91\\xe5\\x97\\xa4\\x8b\\xb4",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 320,
+    "text": "ｽﾃｽｺﾅﾛﾇﾁｷﾎｱﾗｷ｡ｹﾖ",
+    "bytes": "\\xbd\\xc3\\xbd\\xba\\xc5\\xdb\\xc7\\xc1\\xb7\\xce\\xb1\\xd7\\xb7\\xa1\\xb9\\xd6",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 321,
+    "text": "ﾀﾐｻ篏ﾔｱﾊﾇｫﾃ豕ﾘｹｻ",
+    "bytes": "\\xc0\\xd0\\xbb\\xe2\\xbb\\xd4\\xb1\\xca\\xc7\\xab\\xc3\\xe6\\xb3\\xd8\\xb9\\xbb",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 322,
+    "text": "お互いを分けない",
+    "bytes": "\\x82\\xa8\\x8c\\xdd\\x82\\xa2\\x82\\xf0\\x95\\xaa\\x82\\xaf\\x82\\xc8\\x82\\xa2",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 323,
+    "text": "アメリカ電力市場",
+    "bytes": "\\x83\\x41\\x83\\x81\\x83\\x8a\\x83\\x4a\\x93\\x64\\x97\\xcd\\x8e\\x73\\x8f\\xea",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 324,
+    "text": "ﾂ邱ｿ･ｦ･ｧ･ﾖ･ｵ･､･ﾈ",
+    "bytes": "\\xc2\\xe7\\xb7\\xbf\\xa5\\xa6\\xa5\\xa7\\xa5\\xd6\\xa5\\xb5\\xa5\\xa4\\xa5\\xc8",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 325,
+    "text": "ﾉｬﾍﾗｶｦﾆｱﾁﾊｾﾙﾀｩﾅﾙ",
+    "bytes": "\\xc9\\xac\\xcd\\xd7\\xb6\\xa6\\xc6\\xb1\\xc1\\xca\\xbe\\xd9\\xc0\\xa9\\xc5\\xd9",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 326,
+    "text": "､ﾊ､ｼﾀｩﾅﾙ､ｬｽﾅﾍﾗ､ｫ",
+    "bytes": "\\xa4\\xca\\xa4\\xbc\\xc0\\xa9\\xc5\\xd9\\xa4\\xac\\xbd\\xc5\\xcd\\xd7\\xa4\\xab",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 327,
+    "text": "定まらず不安定な",
+    "bytes": "\\x92\\xe8\\x82\\xdc\\x82\\xe7\\x82\\xb8\\x95\\x73\\x88\\xc0\\x92\\xe8\\x82\\xc8",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 328,
+    "text": "ｦ隍隱kｾﾇｦWｵﾛｴ｣ｭn",
+    "bytes": "\\xa6\\xe8\\xa4\\xe8\\xaa\\x6b\\xbe\\xc7\\xa6\\x57\\xb5\\xdb\\xb4\\xa3\\xad\\x6e",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 329,
+    "text": "ｵS､｣ｯ爨｣･H､ｧｿｳﾃh",
+    "bytes": "\\xb5\\x53\\xa4\\xa3\\xaf\\xe0\\xa4\\xa3\\xa5\\x48\\xa4\\xa7\\xbf\\xb3\\xc3\\x68",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 330,
+    "text": "宝鶏職業技術学院",
+    "bytes": "\\x95\\xf3\\x8c\\x7b\\x90\\x45\\x8b\\xc6\\x8b\\x5a\\x8f\\x70\\x8a\\x77\\x89\\x40",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 331,
+    "text": "長吉高速道路出口",
+    "bytes": "\\x92\\xb7\\x8b\\x67\\x8d\\x82\\x91\\xac\\x93\\xb9\\x98\\x48\\x8f\\x6f\\x8c\\xfb",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 332,
+    "text": "ｸｴｷｽﾊﾖｲﾎﾒ贍ﾇｽｺﾄﾒ",
+    "bytes": "\\xb8\\xb4\\xb7\\xbd\\xca\\xd6\\xb2\\xce\\xd2\\xe6\\xd6\\xc7\\xbd\\xba\\xc4\\xd2",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 333,
+    "text": "トウモロコシ饅頭",
+    "bytes": "\\x83\\x67\\x83\\x45\\x83\\x82\\x83\\x8d\\x83\\x52\\x83\\x56\\xe9\\x5c\\x93\\xaa",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 334,
+    "text": "ｨ･ｦﾓｵL､螯讀ｧ､｣ｻｷ",
+    "bytes": "\\xa8\\xa5\\xa6\\xd3\\xb5\\x4c\\xa4\\xe5\\xa6\\xe6\\xa4\\xa7\\xa4\\xa3\\xbb\\xb7",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 335,
+    "text": "トゲナシカメムシ",
+    "bytes": "\\x83\\x67\\x83\\x51\\x83\\x69\\x83\\x56\\x83\\x4a\\x83\\x81\\x83\\x80\\x83\\x56",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 336,
+    "text": "ｱﾋｾ郛ｺｰ｡ﾀ蠡ﾚｸｮｿｰ",
+    "bytes": "\\xb1\\xcb\\xbe\\xe7\\xbc\\xba\\xb0\\xa1\\xc0\\xe5\\xc0\\xda\\xb8\\xae\\xbf\\xb0",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 337,
+    "text": "ﾎﾞﾔｴﾖｮﾋｮﾎﾞｱｾﾖｮﾄｾ",
+    "bytes": "\\xce\\xde\\xd4\\xb4\\xd6\\xae\\xcb\\xae\\xce\\xde\\xb1\\xbe\\xd6\\xae\\xc4\\xbe",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 338,
+    "text": "多段ディレクトリ",
+    "bytes": "\\x91\\xbd\\x92\\x69\\x83\\x66\\x83\\x42\\x83\\x8c\\x83\\x4e\\x83\\x67\\x83\\x8a",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 339,
+    "text": "･ﾈ･ｲ･ﾊ･ｷ･ｫ･皈爭ｷ",
+    "bytes": "\\xa5\\xc8\\xa5\\xb2\\xa5\\xca\\xa5\\xb7\\xa5\\xab\\xa5\\xe1\\xa5\\xe0\\xa5\\xb7",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 340,
+    "text": "ｴ荀fｷﾑｹﾐｨｾｪvｳWｩw",
+    "bytes": "\\xb4\\xe4\\xa4\\x66\\xb7\\xd1\\xb9\\xd0\\xa8\\xbe\\xaa\\x76\\xb3\\x57\\xa9\\x77",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 341,
+    "text": "フォーマット構造",
+    "bytes": "\\x83\\x74\\x83\\x48\\x81\\x5b\\x83\\x7d\\x83\\x62\\x83\\x67\\x8d\\x5c\\x91\\xa2",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 342,
+    "text": "ｽｺｹﾙｷ鄰ﾟｱｹｷ､ｸｮﾆﾀ",
+    "bytes": "\\xbd\\xba\\xb9\\xd9\\xb7\\xe7\\xc1\\xdf\\xb1\\xb9\\xb7\\xa4\\xb8\\xae\\xc6\\xc0",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 343,
+    "text": "･ﾕ･ｩ｡ｼ･ﾞ･ﾃ･ﾈﾊﾑｴｹ",
+    "bytes": "\\xa5\\xd5\\xa5\\xa9\\xa1\\xbc\\xa5\\xde\\xa5\\xc3\\xa5\\xc8\\xca\\xd1\\xb4\\xb9",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 344,
+    "text": "ｵ|ｰﾈ･Nｲzｷ~ｰﾈｳWｵ{",
+    "bytes": "\\xb5\\x7c\\xb0\\xc8\\xa5\\x4e\\xb2\\x7a\\xb7\\x7e\\xb0\\xc8\\xb3\\x57\\xb5\\x7b",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 345,
+    "text": "ｳｻｸｮｸｷｺｸﾁｶｽﾃｽｺﾅﾛ",
+    "bytes": "\\xb3\\xbb\\xb8\\xae\\xb8\\xb7\\xba\\xb8\\xc1\\xb6\\xbd\\xc3\\xbd\\xba\\xc5\\xdb",
+    "enc": "shift_jis",
+    "label": false
+  },
+  {
+    "id": 346,
+    "text": "幾何アルゴリズム",
+    "bytes": "\\x8a\\xf4\\x89\\xbd\\x83\\x41\\x83\\x8b\\x83\\x53\\x83\\x8a\\x83\\x59\\x83\\x80",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 347,
+    "text": "根拠に基づく医療",
+    "bytes": "\\x8d\\xaa\\x8b\\x92\\x82\\xc9\\x8a\\xee\\x82\\xc3\\x82\\xad\\x88\\xe3\\x97\\xc3",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 348,
+    "text": "ボリビアオキネコ",
+    "bytes": "\\x83\\x7b\\x83\\x8a\\x83\\x72\\x83\\x41\\x83\\x49\\x83\\x4c\\x83\\x6c\\x83\\x52",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 349,
+    "text": "一字一句がみな血",
+    "bytes": "\\x88\\xea\\x8e\\x9a\\x88\\xea\\x8b\\xe5\\x82\\xaa\\x82\\xdd\\x82\\xc8\\x8c\\x8c",
+    "enc": "shift_jis",
+    "label": true
+  },
+  {
+    "id": 350,
+    "text": "ﾍｷ赱ｰｱﾜﾐｻｺﾊﾍｽｺﾄﾒ",
+    "bytes": "\\xcd\\xb7\\xe6\\xdf\\xb0\\xb1\\xdc\\xd0\\xbb\\xba\\xca\\xcd\\xbd\\xba\\xc4\\xd2",
+    "enc": "shift_jis",
+    "label": false
+  }
+]
