@@ -4,6 +4,21 @@
 
 This repo is mainly used for semantic encoding validation for short CJK texts (SemVal-S). And StruVal-C can be found at [Janus](https://github.com/SWUFE-DB-Group/Janus).
 
+## Dataset Source
+
+All Simplified Chinese data used in LGBench are derived from the [THUOCL](https://github.com/thunlp/THUOCL). The Traditional Chinese, Japanese, and Korean datasets were translated by GPT-4o. 
+
+**The Language-Gibberish Dataset Statistics:**
+
+| Encoding  | Positive Samples (`pos`) | Negative Samples (`neg`) |
+|------------|--------------------------|---------------------------|
+| **gbk**        | 15,691                   | 51,246                    |
+| **big5**       | 10,200                   | 43,349                    |
+| **euc_kr**     | 15,629                   | 28,632                    |
+| **euc_jp**     | 15,555                   | 32,185                    |
+| **shift_jis**  | 15,538                   | 24,336                    |
+
+
 ## How to Use for Semantic Validation
 
 1. First download a Qwen family model (recommended: [Qwen3-0.6B](https://modelscope.cn/models/Qwen/Qwen3-0.6B) or [Qwen2.5-0.5B](https://modelscope.cn/models/Qwen/Qwen2.5-0.5B) on [ModelScope](https://modelscope.cn/my/overview)):
