@@ -41,3 +41,11 @@ This repo is mainly used for semantic encoding validation for short CJK texts (S
 ## How to Run Benchmark Tests on LGBench
 
 ## Performance Reports
+
+### Comparison of Different Methods on Various Encodings (%)
+
+![performance](assets/performance-1.png)
+
+### Performance across various SLMs on LGBench
+
+![performance-slm](assets/performance-2.png)
