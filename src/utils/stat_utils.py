@@ -2,6 +2,11 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 import numpy as np
 import json
 
+def get_json_records(file):
+    with open(file, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    return data
+
 
 def stat_ppl(filename):
     with open(filename, "r", encoding="utf-8") as f:
@@ -23,10 +28,8 @@ def calculate_threshold(filename):
     return stat_ppl(filename)["mean"]
 
 
-def evaluate_metrics_ppl(json_file_path, threshold):
-    with open(json_file_path, 'r', encoding='utf-8') as f:
-        data = json.load(f)
-
+def evaluate_metrics_ppl(records: list[dict], threshold):
+    data = records
     y_true = [item['label'] for item in data]
     y_pred = []
     for item in data:
@@ -51,13 +54,8 @@ def evaluate_metrics_ppl(json_file_path, threshold):
     return metrics
 
 
-def evaluate_metrics_charsetn(json_file_path:str | list[dict]):
-    data = []
-    if type(json_file_path) is str:
-        with open(json_file_path, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-    else:
-        data = json_file_path
+def evaluate_metrics_charsetn(records: list[dict]):
+    data = records
 
     y_true = [item['label'] for item in data]
     y_pred = []
@@ -89,9 +87,9 @@ def evaluate_metrics_charsetn(json_file_path:str | list[dict]):
 
     return metrics
 
-def evaluate_metrics_llm(json_file_path):
-    with open(json_file_path, 'r', encoding='utf-8') as f:
-        data = json.load(f)
+
+def evaluate_metrics_llm(records: list[dict]):
+    data=records
 
     y_true = []
     y_pred = []
@@ -120,9 +118,10 @@ def evaluate_metrics_llm(json_file_path):
     print(f"Precision: {metrics['precision']:.4f}")
     print(f"Recall:    {metrics['recall']:.4f}")
     print(f"F1 Score:  {metrics['f1_score']:.4f}")
-    print(f"*MCC: {metrics['matthews_corrcoef']:.4f}")
+    print("=" * 50)
 
     return metrics
+
 
 if __name__ == '__main__':
     print(stat_ppl("../../data/threshold_samples_25/shift_jis_pos_samples.json"))
