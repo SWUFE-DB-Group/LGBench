@@ -6,17 +6,17 @@ This repo is mainly used for semantic encoding validation for short CJK texts (S
 
 ## Dataset Source
 
-All Simplified Chinese data used in LGBench are derived from the [THUOCL](https://github.com/thunlp/THUOCL). The Traditional Chinese, Japanese, and Korean datasets were translated by GPT-4o. 
+All Simplified Chinese data used in LGBench are derived from the [THUOCL](https://github.com/thunlp/THUOCL). The Traditional Chinese, Japanese, and Korean datasets were automatically translated from Simplified Chinese data using GPT-4o, followed by minimal manual verification.
 
 **The Language-Gibberish Dataset Statistics:**
 
-| Encoding  | Positive Samples (`pos`) | Negative Samples (`neg`) |
-|------------|--------------------------|---------------------------|
-| **gbk**        | 15,691                   | 51,246                    |
-| **big5**       | 10,200                   | 43,349                    |
-| **euc_kr**     | 15,629                   | 28,632                    |
-| **euc_jp**     | 15,555                   | 32,185                    |
-| **shift_jis**  | 15,538                   | 24,336                    |
+| Encoding      | Positive Samples (`pos`) | Negative Samples (`neg`) |
+|---------------|--------------------------|---------------------------|
+| **GBK**       | 15,691                   | 51,246                    |
+| **Big5**      | 10,200                   | 43,349                    |
+| **EUC-KR**    | 15,629                   | 28,632                    |
+| **EUC-JP**    | 15,555                   | 32,185                    |
+| **Shift-JIS** | 15,538                   | 24,336                    |
 
 
 ## How to Use for Semantic Validation
@@ -76,5 +76,5 @@ To run any benchmark test, simply execute the `run.py` script inside its corresp
 ![performance](assets/performance-1.png)
 
 ### Performance across various SLMs on LGBench
-
-![performance-slm](assets/performance-2.png)
+![performance-slm-acc](assets/performance-3.png)
+![performance-slm-f1](assets/performance-2.png)
