@@ -1,5 +1,4 @@
 import torch
-import json
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from src.utils.stat_utils import *
 
