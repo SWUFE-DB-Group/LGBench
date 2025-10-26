@@ -1,9 +1,20 @@
+import sys
+from pathlib import Path
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
+
+project_root = Path(__file__).parent.parent.parent
+sys.path.insert(0, str(project_root))
 from src.utils.stat_utils import *
 
-# Your Qwen model path
-model_path = r"../../qwen2-0.5b"
+
+current_dir = Path(__file__).parent
+project_root = current_dir.parent.parent
+config_path = project_root / "config.json"
+
+with open(config_path, "r") as f:
+    cfg = json.load(f)
+model_path = cfg["model_path"]
 tokenizer = AutoTokenizer.from_pretrained(model_path, trust_remote_code=True)
 
 model = AutoModelForCausalLM.from_pretrained(

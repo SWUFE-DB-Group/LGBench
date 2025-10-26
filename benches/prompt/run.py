@@ -1,5 +1,10 @@
+import sys
+from pathlib import Path
+
 from pydantic import BaseModel
 from ollama import Client
+project_root = Path(__file__).parent.parent.parent
+sys.path.insert(0, str(project_root))
 from src.utils.stat_utils import *
 
 client = Client(
@@ -78,5 +83,5 @@ def run(enc: str, filename: str, model_name: str):
 
 if __name__ == '__main__':
     enc = "gbk"
-    model_name = "qwen2.5-0.5b"
+    model_name = "llama3.2-3b"
     evaluate_metrics_llm(run(enc, f"../../data/dataset/LGBench_mini/{enc}_mini.json", model_name))

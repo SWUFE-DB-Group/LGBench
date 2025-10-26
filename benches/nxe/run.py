@@ -1,6 +1,10 @@
-import src.nxe as nxe
+import sys
+from pathlib import Path
+
+project_root = Path(__file__).parent.parent.parent
+sys.path.insert(0, str(project_root))
 from src.utils.stat_utils import *
-import json
+import src.nxe as nxe
 
 
 def run(enc: str, filename: str):

@@ -1,4 +1,10 @@
+import sys
+from pathlib import Path
+
 import charset_normalizer
+
+project_root = Path(__file__).parent.parent.parent
+sys.path.insert(0, str(project_root))
 from src.utils.enc_utils import *
 from src.utils.stat_utils import *
 

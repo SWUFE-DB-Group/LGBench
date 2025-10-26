@@ -2,9 +2,15 @@ import torch
 import torch.nn.functional as F
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import json
+from pathlib import Path
 
-# Your Qwen model path
-model_path = r"C:\Users\Liang\PycharmProjects\LGBench\qwen2-0.5b"
+
+current_dir = Path(__file__).parent
+project_root = current_dir.parent
+config_path = project_root / "config.json"
+with open(config_path, "r") as f:
+    cfg = json.load(f)
+model_path = cfg["model_path"]
 tokenizer = AutoTokenizer.from_pretrained(model_path, trust_remote_code=True)
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
