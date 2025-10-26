@@ -22,9 +22,10 @@ This repo is mainly used for semantic encoding validation for short CJK texts (S
 3. Run
    ```shell
    python main.py --model <model_name> --bytes <byte_sequence> --enc <encoding>
+   
    # --model: qwen2.5 | qwen3
    # --bytes: \x...
-   # --enc:   gbk | big5 | euc-kr | euc-jp | shift-jis
+   # --enc  : gbk | big5 | euc-kr | euc-jp | shift-jis
    ```
    
    ```shell
