@@ -3,7 +3,6 @@ import numpy as np
 import json
 
 
-
 def stat_ppl(filename):
     with open(filename, "r", encoding="utf-8") as f:
         data = json.load(f)
@@ -19,4 +18,107 @@ def stat_ppl(filename):
         "std": float(np.std(li))
     }
 
-# def calculate_threshold()
+
+def calculate_threshold(filename):
+    return stat_ppl(filename)["mean"]
+
+
+def evaluate_metrics_ppl(json_file_path, threshold):
+    with open(json_file_path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+
+    y_true = [item['label'] for item in data]
+    y_pred = []
+    for item in data:
+        if item['ppl'] <= threshold:
+            y_pred.append(True)
+        else:
+            y_pred.append(False)
+
+    metrics = {
+        'accuracy': accuracy_score(y_true, y_pred),
+        'precision': precision_score(y_true, y_pred),
+        'recall': recall_score(y_true, y_pred),
+        'f1_score': f1_score(y_true, y_pred),
+    }
+
+    print(f"Accuracy:  {metrics['accuracy']:.4f}")
+    print(f"Precision: {metrics['precision']:.4f}")
+    print(f"Recall:    {metrics['recall']:.4f}")
+    print(f"F1 Score:  {metrics['f1_score']:.4f}")
+    print("=" * 50)
+
+    return metrics
+
+
+def evaluate_metrics_charsetn(json_file_path):
+    with open(json_file_path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+
+    y_true = [item['label'] for item in data]
+    y_pred = []
+    for item in data:
+        if item['output']:
+            if item['result']['confidence'] > 0.7:
+                y_pred.append(True)
+            else:
+                y_pred.append(not item['label'])
+        if not item['output']:
+            if item['result']['confidence'] > 0.1:
+                y_pred.append(False)
+            else:
+                y_pred.append(not item['label'])
+
+    metrics = {
+        'accuracy': accuracy_score(y_true, y_pred),
+        'precision': precision_score(y_true, y_pred, zero_division=0),
+        'recall': recall_score(y_true, y_pred),
+        'f1_score': f1_score(y_true, y_pred),
+
+    }
+
+    print(f"Accuracy:  {metrics['accuracy']:.4f}")
+    print(f"Precision: {metrics['precision']:.4f}")
+    print(f"Recall:    {metrics['recall']:.4f}")
+    print(f"F1 Score:  {metrics['f1_score']:.4f}")
+    print("=" * 50)
+
+    return metrics
+
+def evaluate_metrics_llm(json_file_path):
+    with open(json_file_path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+
+    y_true = []
+    y_pred = []
+
+    for item in data:
+        y_true.append(item['label'])
+        if item['output']['is_linguistic_acceptable']:
+            if item['output']['linguistic_acceptability'] > 0.5:
+                y_pred.append(1)
+            else:
+                y_pred.append(not item['label'])
+        if not item['output']['is_linguistic_acceptable']:
+            if item['output']['linguistic_acceptability'] < 0.5:
+                y_pred.append(0)
+            else:
+                y_pred.append(not item['label'])
+
+    metrics = {
+        'accuracy': accuracy_score(y_true, y_pred),
+        'precision': precision_score(y_true, y_pred),
+        'recall': recall_score(y_true, y_pred),
+        'f1_score': f1_score(y_true, y_pred),
+    }
+
+    print(f"Accuracy:  {metrics['accuracy']:.4f}")
+    print(f"Precision: {metrics['precision']:.4f}")
+    print(f"Recall:    {metrics['recall']:.4f}")
+    print(f"F1 Score:  {metrics['f1_score']:.4f}")
+    print(f"*MCC: {metrics['matthews_corrcoef']:.4f}")
+
+    return metrics
+
+if __name__ == '__main__':
+    print(stat_ppl("../../data/threshold_samples_25/shift_jis_pos_samples.json"))
