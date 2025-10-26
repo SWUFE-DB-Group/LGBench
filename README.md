@@ -28,12 +28,11 @@ All Simplified Chinese data used in LGBench are derived from the [THUOCL](https:
    # or
    modelscope download --model Qwen/Qwen2.5-0.5B --local_dir ./your_dir
    ```
-2. You need to configure the model path: set `model_path` to the **absolute path** of your model directory in `src/nxe.py`. 
+2. You need to configure the model path: set `model_path` to the **absolute path** of your model directory in `config.json`. 
 
-    ```python
-   # example
-   model_path = r"C:\Users\ASUS\LGBench\qwen2-0.5b"
-    ```
+    ```json
+   {"model_path": "C:\\your_path\\qwen2-0.5b"}
+   ```
 3. Run
    ```shell
    python main.py --model <model_name> --bytes <byte_sequence> --enc <encoding>
@@ -42,10 +41,10 @@ All Simplified Chinese data used in LGBench are derived from the [THUOCL](https:
    # --bytes: \x...
    # --enc  : gbk | big5 | euc-kr | euc-jp | shift-jis
    ```
-   
+   Each byte must be written as `\x` followed by two hex digits!
    ```shell
    # example
-   python main.py --model qwen2.5 --bytes \xcf\xc2\xb5\xa5 --enc gbk
+   python main.py --model qwen2.5 --bytes "\xcf\xc2\xb5\xa5" --enc gbk
    
    # output:   
    # decode text: 下单
@@ -68,6 +67,8 @@ benches/
 ```
 
 To run any benchmark test, simply execute the `run.py` script inside its corresponding subdirectory.
+
+> **Note:** `prompt` uses the [Ollama API](https://docs.ollama.com/capabilities/structured-outputs#python) to get stable, structured outputs and control temperature.
 
 ## Performance Reports
 
