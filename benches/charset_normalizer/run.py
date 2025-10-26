@@ -1,5 +1,4 @@
 import charset_normalizer
-import json
 from src.utils.enc_utils import *
 from src.utils.stat_utils import *
 
@@ -7,7 +6,7 @@ from src.utils.stat_utils import *
 def run(enc:str, filename:str):
     """
     Run Benchmark Tests on LGBench for Charset Normalization.
-    :param enc: encoding of dataset
+    :param enc: encoding of dataset (not the character set encoding of the file)
     :param filename: data/dataset/LGBench/...json
     """
     with open(filename, 'r', encoding='utf-8') as f:
@@ -30,4 +29,5 @@ def run(enc:str, filename:str):
     return results
 
 if __name__ == '__main__':
-    evaluate_metrics_charsetn(run("shift_jis","../../data/dataset/LGBench/shift_jis.json"))
+    enc = "shift_jis"
+    evaluate_metrics_charsetn(run(enc,f"../../data/dataset/LGBench/{enc}.json"))
