@@ -51,9 +51,13 @@ def evaluate_metrics_ppl(json_file_path, threshold):
     return metrics
 
 
-def evaluate_metrics_charsetn(json_file_path):
-    with open(json_file_path, 'r', encoding='utf-8') as f:
-        data = json.load(f)
+def evaluate_metrics_charsetn(json_file_path:str | list[dict]):
+    data = []
+    if type(json_file_path) is str:
+        with open(json_file_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+    else:
+        data = json_file_path
 
     y_true = [item['label'] for item in data]
     y_pred = []
