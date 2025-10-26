@@ -40,6 +40,20 @@ This repo is mainly used for semantic encoding validation for short CJK texts (S
 
 ## How to Run Benchmark Tests on LGBench
 
+```
+benches/
+├── charset_normalizer/
+│   └── run.py
+├── nxe/
+│   └── run.py
+├── ppl/
+│   └── run.py
+└── prompt/
+    └── run.py
+```
+
+To run any benchmark test, simply execute the `run.py` script inside its corresponding subdirectory.
+
 ## Performance Reports
 
 ### Comparison of Different Methods on Various Encodings (%)
