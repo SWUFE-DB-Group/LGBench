@@ -38,7 +38,7 @@ All Simplified Chinese data used in LGBench are derived from the [THUOCL](https:
    # or
    modelscope download --model Qwen/Qwen2.5-0.5B --local_dir ./your_dir
    ```
-2. You need to configure the model path: set `model_path` to the **absolute path** of your model directory in `config.json`. 
+2. Configure the model path: set `model_path` to the **absolute path** of your model directory in `config.json`. 
 
     ```json
    {"model_path": "C:\\your_path\\qwen2-0.5b"}
