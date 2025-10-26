@@ -13,11 +13,11 @@ This repo is mainly used for semantic encoding validation for short CJK texts (S
    # or
    modelscope download --model Qwen/Qwen2.5-0.5B --local_dir ./your_dir
    ```
-2. You need to configure the model path: set `model_path` to the **absolute path** of your model directory in `src/nxe`. 
+2. You need to configure the model path: set `model_path` to the **absolute path** of your model directory in `src/nxe.py`. 
 
     ```python
    # example
-   model_path = r"C:\Users\ASUS\PycharmProjects\LGBench\qwen2-0.5b"
+   model_path = r"C:\Users\ASUS\LGBench\qwen2-0.5b"
     ```
 3. Run
    ```shell
