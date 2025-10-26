@@ -2,6 +2,7 @@ import src.nxe as nxe
 from src.utils.enc_utils import *
 import argparse
 
+# threshold cal by calculate_threshold() in utils/stst_utils.py
 threshold_qwen25_0b5 = {
     "GBK":75.633,
     "BIG5":95.508,
