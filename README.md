@@ -21,16 +21,6 @@ All Simplified Chinese data used in LGBench are derived from the [THUOCL](https:
 
 ## How to Use for Semantic Validation
 
-> Before running it, set up the virtual environment:
->    ```bash
->    # Create virtual environment and install dependencies
->    uv sync
->   
->    # Activate the virtual environment
->    .venv\Scripts\activate  # Windows
->    source .venv/bin/activate  # Linux/Mac
->    ```
-
 1. First download a Qwen family model (recommended: [Qwen3-0.6B](https://modelscope.cn/models/Qwen/Qwen3-0.6B) or [Qwen2.5-0.5B](https://modelscope.cn/models/Qwen/Qwen2.5-0.5B) on [ModelScope](https://modelscope.cn/my/overview)):
 
    ```shell
@@ -45,7 +35,7 @@ All Simplified Chinese data used in LGBench are derived from the [THUOCL](https:
    ```
 3. Run
    ```shell
-   python main.py --model <model_name> --bytes <byte_sequence> --enc <encoding>
+   uv run main.py --model <model_name> --bytes <byte_sequence> --enc <encoding>
    
    # --model: qwen2.5 | qwen3
    # --bytes: \x...
@@ -54,7 +44,7 @@ All Simplified Chinese data used in LGBench are derived from the [THUOCL](https:
    Each byte must be written as `\x` followed by two hex digits!
    ```shell
    # example
-   python main.py --model qwen2.5 --bytes "\xcf\xc2\xb5\xa5" --enc gbk
+   uv run main.py --model qwen2.5 --bytes "\xcf\xc2\xb5\xa5" --enc gbk
    
    # output:   
    # decode text: 下单
