@@ -5,10 +5,14 @@ description = "Add your description here"
 requires-python = ">=3.13"
 dependencies = [
     "charset-normalizer==3.4.3",
+    "ollama>=0.6.0",
     "openai>=1.107.3",
     "torch==2.9.0.dev20250905+cu129",
     "transformers>=4.56.1",
 ]
+
+[[tool.uv.index]]
+url = "https://mirrors.aliyun.com/pypi/simple"
 
 [[tool.uv.index]]
 url = "https://download.pytorch.org/whl/nightly/cu129"
